@@ -1,0 +1,1129 @@
+﻿Log file open, 02/14/19 17:46:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TrojanInc
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.736724
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SaveExtension
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.260s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: J:/Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Engine.ini]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Engine.ini]
+[2019.02.14-23.46.59:215][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Engine.ini]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Engine.ini]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.14-23.46.59:215][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Engine.ini]
+[2019.02.14-23.46.59:215][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Engine.ini]
+[2019.02.14-23.46.59:224][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.14-23.46.59:224][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-23.46.59:224][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.14-23.46.59:225][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.14-23.46.59:225][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.14-23.46.59:225][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.14-23.46.59:225][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.14-23.46.59:225][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.14-23.46.59:225][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.14-23.46.59:225][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.14-23.46.59:225][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.14-23.46.59:225][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.14-23.46.59:225][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.14-23.46.59:225][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.14-23.46.59:225][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.14-23.46.59:225][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-23.46.59:225][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.14-23.46.59:225][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.14-23.46.59:225][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.14-23.46.59:225][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.14-23.46.59:264][  0]LogHAL: Display: Platform has ~ 16 GB [17125625856 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.14-23.46.59:264][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.14-23.46.59:264][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.14-23.46.59:264][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-23.46.59:264][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Scalability.ini]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.14-23.46.59:265][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.14-23.46.59:276][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.14-23.46.59:276][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Z:/TrojanInc 4.21/Saved/Config/Windows/Engine.ini]
+[2019.02.14-23.46.59:276][  0]LogInit: Computer: CHROME-OS
+[2019.02.14-23.46.59:276][  0]LogInit: User: JyrellAthanGo
+[2019.02.14-23.46.59:276][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.02.14-23.46.59:276][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.02.14-23.46.59:277][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.14-23.46.59:277][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.14-23.46.59:277][  0]LogMemory: Process Physical Memory: 105.02 MB used, 105.02 MB peak
+[2019.02.14-23.46.59:277][  0]LogMemory: Process Virtual Memory: 96.54 MB used, 96.54 MB peak
+[2019.02.14-23.46.59:277][  0]LogMemory: Physical Memory: 3900.93 MB used,  12431.34 MB free, 16332.27 MB total
+[2019.02.14-23.46.59:277][  0]LogMemory: Virtual Memory: 4672.73 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.02.14-23.47.00:097][  0]LogInit: Using OS detected language (en-US).
+[2019.02.14-23.47.00:097][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.14-23.47.00:126][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.14-23.47.01:016][  0]LogStreaming: Display: Took  0.919s to InitEngineTextLocalization.
+[2019.02.14-23.47.01:017][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.14-23.47.01:430][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.14-23.47.01:430][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.14-23.47.04:983][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.14-23.47.04:983][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.14-23.47.05:075][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2019.02.14-23.47.05:075][  0]LogD3D11RHI:       8080/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2019.02.14-23.47.05:077][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.14-23.47.05:077][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.14-23.47.05:077][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.14-23.47.05:085][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.14-23.47.05:085][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.14-23.47.05:085][  0]LogWindows: EnumDisplayDevices:
+[2019.02.14-23.47.05:085][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2019.02.14-23.47.05:086][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1)
+[2019.02.14-23.47.05:087][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1)
+[2019.02.14-23.47.05:087][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2019.02.14-23.47.05:087][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.14-23.47.05:087][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2019.02.14-23.47.05:087][  0]LogD3D11RHI:   Driver Version: 417.01 (internal:25.21.14.1701, unified:417.01)
+[2019.02.14-23.47.05:087][  0]LogD3D11RHI:      Driver Date: 11-15-2018
+[2019.02.14-23.47.05:087][  0]LogRHI: Texture pool is 5656 MB (70% of 8080 MB)
+[2019.02.14-23.47.05:142][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.14-23.47.05:185][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.14-23.47.06:006][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.14-23.47.06:056][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.14-23.47.06:091][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.14-23.47.06:125][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.14-23.47.06:176][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.14-23.47.06:224][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.14-23.47.06:268][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.14-23.47.06:301][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.14-23.47.06:327][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:548][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.14-23.47.06:654][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.14-23.47.07:184][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.14-23.47.07:184][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.14-23.47.07:304][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.14-23.47.07:304][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.14-23.47.07:348][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.14-23.47.07:394][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.14-23.47.07:432][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.14-23.47.07:484][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.14-23.47.07:585][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.14-23.47.07:585][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.14-23.47.07:585][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.14-23.47.08:710][  0]LogShaderCompilers: Guid format shader working directory is 38 characters bigger than the processId version (Z:/TrojanInc 4.21/Intermediate/Shaders/WorkingDirectory/12236/).
+[2019.02.14-23.47.08:710][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jyrell Athan Go/AppData/Local/Temp/UnrealShaderWorkingDir/C83153A44229224A863D39AFBC101F72/'.
+[2019.02.14-23.47.08:711][  0]LogXGEController: Cleaning working directory: C:/Users/Jyrell Athan Go/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.14-23.47.08:712][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.14-23.47.08:712][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.14-23.47.08:712][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.14-23.47.12:744][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.14-23.47.12:974][  0]LogDerivedDataCache: Loaded boot cache 0.23s 71MB C:/Users/Jyrell Athan Go/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.14-23.47.12:974][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jyrell Athan Go/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.14-23.47.12:974][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Z:/TrojanInc 4.21/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.14-23.47.12:974][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.14-23.47.12:974][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Z:/TrojanInc 4.21/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.14-23.47.12:974][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.14-23.47.13:046][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.14-23.47.13:046][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.14-23.47.13:046][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.14-23.47.13:059][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jyrell Athan Go/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.14-23.47.13:059][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.14-23.47.13:059][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.14-23.47.13:083][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.14-23.47.13:094][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.14-23.47.13:196][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.14-23.47.15:141][  0]LogAssetRegistry: FAssetRegistry took 0.0391 seconds to start up
+[2019.02.14-23.47.15:670][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.14-23.47.18:537][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.14-23.47.19:447][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.14-23.47.19:467][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.14-23.47.19:531][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.14-23.47.19:531][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.14-23.47.19:800][  0]LogNetVersion: TrojanInc 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2891229554)
+[2019.02.14-23.47.23:879][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.172182 seconds
+[2019.02.14-23.47.23:889][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.14-23.47.23:889][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.14-23.47.23:889][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.14-23.47.55:031][  0]LogTemp: Warning: SaveExtension: Initializing Plugin.
+[2019.02.14-23.47.55:042][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.14-23.47.55:146][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.14-23.47.58:264][  0]SourceControl: Source control is disabled
+[2019.02.14-23.47.58:264][  0]SourceControl: Source control is disabled
+[2019.02.14-23.47.58:555][  0]SourceControl: Source control is disabled
+[2019.02.14-23.47.58:683][  0]SourceControl: Source control is disabled
+[2019.02.14-23.48.02:864][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.14-23.48.03:360][  0]LogOcInput: OculusInput pre-init called
+[2019.02.14-23.48.04:074][  0]LogEngine: Initializing Engine...
+[2019.02.14-23.48.04:075][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.14-23.48.04:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.14-23.48.04:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.14-23.48.04:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.14-23.48.04:076][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.14-23.48.04:408][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.14-23.48.04:527][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.14-23.48.04:606][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.14-23.48.04:662][  0]LogInit: FAudioDevice initialized.
+[2019.02.14-23.48.04:663][  0]LogNetVersion: Set ProjectVersion to 0.1.9. Version Checksum will be recalculated on next use.
+[2019.02.14-23.48.04:752][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Jyrell Athan Go/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.14-23.48.04:763][  0]LogInit: Texture streaming: Enabled
+[2019.02.14-23.48.04:892][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.14-23.48.05:097][  0]LogInit: Transaction tracking system initialized
+[2019.02.14-23.48.05:403][  0]BlueprintLog: New page: Editor Load
+[2019.02.14-23.48.07:423][  0]LocalizationService: Localization service is disabled
+[2019.02.14-23.48.10:530][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.14-23.48.10:530][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.14-23.48.10:530][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.14-23.48.10:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.14-23.48.10:530][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.14-23.48.10:531][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.14-23.48.10:531][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.14-23.48.10:902][  0]LogFileCache: Scanning file cache for directory 'Z:/TrojanInc 4.21/Content/' took 0.03s
+[2019.02.14-23.48.15:201][  0]SourceControl: Source control is disabled
+[2019.02.14-23.48.15:201][  0]Cmd: MAP LOAD FILE="Z:/TrojanInc 4.21/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.14-23.48.15:211][  0]LightingResults: New page: Lighting Build
+[2019.02.14-23.48.15:216][  0]MapCheck: New page: Map Check
+[2019.02.14-23.48.15:216][  0]LightingResults: New page: Lighting Build
+[2019.02.14-23.48.16:155][  0]LogBlueprint: Warning: [Compiler RomanisaLight] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.02.14-23.48.16:155][  0]LogBlueprint: Warning: [Compiler RomanisaLight] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.02.14-23.48.16:157][  0]LogBlueprint: Warning: [Compiler RomanisaLight] [0101.09] Compile of RomanisaLight successful, but with 2 Warning(s) [in 5 ms] (/Game/ThirdPersonBP/Blueprints/Character/3dGameplay/RomanisaLight.RomanisaLight)
+[2019.02.14-23.48.17:375][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2019.02.14-23.48.17:375][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2019.02.14-23.48.17:375][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.02.14-23.48.17:375][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2019.02.14-23.48.17:375][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2019.02.14-23.48.17:375][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.02.14-23.48.17:375][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2019.02.14-23.48.17:375][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2019.02.14-23.48.17:375][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2019.02.14-23.48.17:375][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.02.14-23.48.17:375][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.02.14-23.48.18:110][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.14-23.48.18:126][  0]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer
+	Dave_C /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/Character/3dGameplay/Dave.Dave_C:UserConstructionScript:00E3
+[2019.02.14-23.48.18:127][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.14-23.48.18:162][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.14-23.48.18:162][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2019.02.14-23.48.18:162][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.961
+[2019.02.14-23.48.18:316][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.48.18:324][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.48.18:331][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.48.18:340][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.48.18:412][  0]LogCollectionManager: Loaded 0 collections in 0.001241 seconds
+[2019.02.14-23.48.18:442][  0]LogFileCache: Scanning file cache for directory 'Z:/TrojanInc 4.21/Saved/Collections/' took 0.01s
+[2019.02.14-23.48.18:442][  0]LogFileCache: Scanning file cache for directory 'Z:/TrojanInc 4.21/Content/Developers/JyrellAthanGo/Collections/' took 0.00s
+[2019.02.14-23.48.18:442][  0]LogFileCache: Scanning file cache for directory 'Z:/TrojanInc 4.21/Content/Collections/' took 0.01s
+[2019.02.14-23.48.18:442][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.02.14-23.48.18:457][  0]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2666 classes and 627 folders.
+[2019.02.14-23.48.18:462][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.14-23.48.18:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:598][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:670][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:717][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:765][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:783][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:814][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:845][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:864][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:939][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:951][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:969][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.18:987][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.19:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.19:069][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.19:087][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.19:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.19:152][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.19:172][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.14-23.48.19:997][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.14-23.48.20:041][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.02.14-23.48.20:212][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.14-23.48.20:216][  0]LogSlate: Took 0.000676 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.14-23.48.20:239][  0]LogSlate: Took 0.015550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.14-23.48.20:408][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2019.02.14-23.48.20:582][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.14-23.48.20:582][  0]LogLoad: (Engine Initialization) Total time: 105.51 seconds
+[2019.02.14-23.48.20:582][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.14-23.48.20:674][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.14-23.48.20:808][  0]LogSlate: Took 0.032627 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.14-23.48.21:065][  3]LogAssetRegistry: Asset discovery search completed in 65.9474 seconds
+[2019.02.14-23.48.21:067][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.02.14-23.48.21:067][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
+[2019.02.14-23.48.25:368][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-23.48.25:442][ 21]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.14-23.48.25:461][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.14-23.48.25:461][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.14-23.48.25:462][ 21]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 14, 2019, 11:48:25 AM)
+[2019.02.14-23.48.25:475][ 21]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.14-23.48.25:485][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009447s)
+[2019.02.14-23.48.25:485][ 21]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.14-23.48.25:485][ 21]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2019.02.14-23.48.25:485][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010206s)
+[2019.02.14-23.48.25:560][ 21]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.14-23.48.25:603][ 21]LogInit: FAudioDevice initialized.
+[2019.02.14-23.48.25:651][ 21]LogLoad: Game class is '2dgamemode_C'
+[2019.02.14-23.48.25:656][ 21]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.14-17.48.25
+[2019.02.14-23.48.25:657][ 21]LogWorld: Bringing up level for play took: 0.004204
+[2019.02.14-23.48.25:669][ 21]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.02.14-23.48.25:672][ 21]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.02.14-23.48.25:672][ 21]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.02.14-23.48.25:672][ 21]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.02.14-23.48.25:672][ 21]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.02.14-23.48.25:674][ 21]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.02.14-23.48.25:674][ 21]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.309
+[2019.02.14-23.48.25:674][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.14-23.48.25:675][ 21]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer5
+	Dave_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/Character/3dGameplay/Dave.Dave_C:ExecuteUbergraph_Dave:0D6D
+[2019.02.14-23.48.25:675][ 21]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsTransferer5". Blueprint:  Dave Function:  Execute Ubergraph Dave Graph:  EventGraph Node:  Branch
+[2019.02.14-23.48.25:675][ 21]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer5
+	Dave_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/Character/3dGameplay/Dave.Dave_C:ExecuteUbergraph_Dave:0B84
+[2019.02.14-23.48.25:675][ 21]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsTransferer5". Blueprint:  Dave Function:  Execute Ubergraph Dave Graph:  EventGraph Node:  Branch
+[2019.02.14-23.49.32:493][ 97]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.32:493][ 97]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.32:991][115]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.32:991][115]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.33:734][142]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.33:734][142]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.34:358][164]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.34:358][164]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.34:555][171]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.34:555][171]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.34:695][176]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.34:695][176]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.35:123][191]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.35:123][191]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.35:403][201]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.35:403][201]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.35:597][208]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.35:597][208]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.35:769][214]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.35:769][214]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.36:225][230]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.36:225][230]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.36:481][239]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.36:481][239]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.49.37:354][269]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.14-23.49.37:360][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.49.37:397][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.14-23.49.37:398][269]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.14-23.49.37:433][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.49.37:451][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.14-23.49.37:479][270]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.02.14-23.49.38:720][390]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.14-23.49.38:730][390]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Projectile_Base.Projectile_Base
+[2019.02.14-23.49.39:208][390]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.02.14-23.49.40:641][390]LogSlate: Took 0.023502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.14-23.49.41:724][455]LogSlate: Window 'Message Log' being destroyed
+[2019.02.14-23.49.41:733][455]LogSlate: Window 'Message Log' being destroyed
+[2019.02.14-23.49.43:656][608]LogRenderer: Reallocating scene render targets to support 1208x744 Format 10 NumSamples 1 (Frame:1).
+[2019.02.14-23.49.49:372][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-23.50.10:502][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-23.50.10:602][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Projectile_Base" FILE="Z:/TrojanInc 4.21/Content/ThirdPersonBP/Blueprints/Projectile_Base.uasset" SILENT=true
+[2019.02.14-23.50.10:669][632]LogSavePackage: Moving 'Z:/TrojanInc 4.21/Saved/Projectile_BaseC812E4654F28910BD28C30A7EF3D2A58.tmp' to 'Z:/TrojanInc 4.21/Content/ThirdPersonBP/Blueprints/Projectile_Base.uasset'
+[2019.02.14-23.50.11:019][657]BlueprintLog: New page: Compile Projectile_Base
+[2019.02.14-23.50.16:450][120]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.14-23.50.16:472][120]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.14-23.50.16:472][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.14-23.50.16:472][120]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 14, 2019, 11:50:16 AM)
+[2019.02.14-23.50.16:472][120]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.02.14-23.50.16:480][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007722s)
+[2019.02.14-23.50.16:481][120]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.02.14-23.50.16:481][120]LogPlayLevel: PIE: World Init took: (0.000644s)
+[2019.02.14-23.50.16:481][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008502s)
+[2019.02.14-23.50.16:551][120]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.14-23.50.16:593][120]LogInit: FAudioDevice initialized.
+[2019.02.14-23.50.16:628][120]LogLoad: Game class is '2dgamemode_C'
+[2019.02.14-23.50.16:630][120]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.02.14-17.50.16
+[2019.02.14-23.50.16:631][120]LogWorld: Bringing up level for play took: 0.002737
+[2019.02.14-23.50.16:643][120]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.02.14-23.50.16:643][120]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.02.14-23.50.16:643][120]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.02.14-23.50.16:643][120]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.02.14-23.50.16:644][120]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.02.14-23.50.16:644][120]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.721
+[2019.02.14-23.50.16:645][120]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.14-23.50.16:645][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer5
+	Dave_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/Character/3dGameplay/Dave.Dave_C:ExecuteUbergraph_Dave:0D6D
+[2019.02.14-23.50.16:645][120]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsTransferer5". Blueprint:  Dave Function:  Execute Ubergraph Dave Graph:  EventGraph Node:  Branch
+[2019.02.14-23.50.16:645][120]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer5
+	Dave_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/Character/3dGameplay/Dave.Dave_C:ExecuteUbergraph_Dave:0B84
+[2019.02.14-23.50.16:645][120]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsTransferer5". Blueprint:  Dave Function:  Execute Ubergraph Dave Graph:  EventGraph Node:  Branch
+[2019.02.14-23.50.18:865][365]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.18:865][365]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.20:481][543]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.20:481][543]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.20:987][597]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.20:987][597]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.22:487][756]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.22:487][756]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.23:311][839]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.23:311][839]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.25:245][ 30]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.25:245][ 30]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.25:921][ 96]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.25:921][ 96]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.26:165][120]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.26:166][120]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.26:341][136]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.26:341][136]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.26:617][162]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.26:617][162]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.26:819][181]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.26:820][181]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.27:306][226]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.27:306][226]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.27:547][248]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.27:547][248]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.28:437][328]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.28:437][328]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.28:609][343]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.28:609][343]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.28:787][359]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.28:787][359]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.29:648][434]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.29:648][434]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.29:831][449]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.29:831][449]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.30:190][479]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.30:190][479]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.30:678][520]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.30:678][520]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.30:921][540]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.30:922][540]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.31:106][555]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.31:106][555]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.31:296][571]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.31:296][571]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.31:488][587]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.31:488][587]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.36:227][953]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.36:227][953]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.36:780][993]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.36:780][993]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.37:432][ 40]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.37:432][ 40]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.37:579][ 50]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.37:579][ 50]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.37:740][ 61]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.37:740][ 61]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.39:460][180]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.39:460][180]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.39:617][190]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.39:617][190]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.39:798][202]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.39:798][202]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.40:008][216]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.40:008][216]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.40:150][225]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.40:150][225]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.40:327][237]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.40:327][237]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.40:535][251]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.40:535][251]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.40:700][262]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.40:700][262]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.40:870][273]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.40:870][273]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.41:541][317]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.41:541][317]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.41:715][328]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.41:715][328]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.41:892][340]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.41:892][340]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.42:228][362]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.42:228][362]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.42:378][371]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.42:378][371]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.42:540][381]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.42:540][381]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.42:716][392]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.42:716][392]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.42:902][404]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.42:903][404]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.43:073][415]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.43:073][415]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.43:248][426]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.43:249][426]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.43:592][448]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.43:592][448]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.43:749][458]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.43:749][458]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.43:906][468]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.43:906][468]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.44:063][478]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.44:063][478]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.44:250][490]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.44:250][490]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.44:423][501]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.44:423][501]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.46:121][605]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.46:121][605]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.47:159][669]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.47:160][669]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.48:076][724]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.48:077][724]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.48:470][747]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.48:470][747]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.57:330][240]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.57:330][240]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.57:746][262]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.57:746][262]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.58:109][280]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.58:109][280]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.59:217][336]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.59:217][336]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.59:649][358]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.50.59:649][358]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.00:029][377]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.00:029][377]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.02:022][476]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.02:022][476]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.03:554][551]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.03:554][551]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.03:990][571]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.03:991][571]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.04:676][603]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.04:676][603]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.05:111][624]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.05:111][624]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.05:322][634]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.05:323][634]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.05:667][650]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.05:667][650]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.05:843][658]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.05:843][658]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.06:731][699]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.06:731][699]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.06:893][705]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.06:893][705]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.07:062][713]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.07:062][713]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.07:221][720]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.07:221][720]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.07:382][727]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.07:382][727]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.07:549][734]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.07:550][734]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.07:710][741]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.07:710][741]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.07:908][750]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.07:908][750]LogSkinnedMeshComp: Warning: GetSocketByName(Muzzle): No SkeletalMesh for Component(SkeletalMesh) Actor(Weapon_Base_C_0)
+[2019.02.14-23.51.10:001][842]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.10:114][855]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.10:244][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.10:376][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.10:426][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.10:451][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.10:528][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.10:596][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.10:675][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.10:751][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.10:870][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.10:980][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.11:117][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.11:249][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.11:377][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.11:428][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.11:453][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.11:522][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.11:597][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.11:673][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.11:756][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.11:865][ 60]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.11:981][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.12:118][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.12:243][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.12:370][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.12:431][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.12:449][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.12:525][137]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.12:593][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.12:671][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.12:755][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.12:865][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.12:986][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.13:116][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.13:244][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.13:374][236]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.13:426][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.13:452][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.13:520][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.13:589][261]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.13:674][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.13:752][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.13:870][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.13:980][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.14:115][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.14:253][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.14:372][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.14:432][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.14:449][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.14:527][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.14:596][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.14:673][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.14:751][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.14:863][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.14:983][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.15:119][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.15:245][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.15:374][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.15:431][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.15:449][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.15:525][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.15:592][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.15:672][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.15:756][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.15:869][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.15:983][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.16:120][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.16:247][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.16:373][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.16:427][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.16:457][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.16:525][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.16:594][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.16:670][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.16:756][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.16:868][644]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.16:980][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.17:116][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.17:245][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.17:371][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.17:432][710]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.17:448][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.17:525][721]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.17:593][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.17:670][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.17:755][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.17:865][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.17:983][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.18:121][791]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.18:250][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.18:368][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.18:427][827]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.18:453][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.18:521][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.18:592][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.18:677][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.18:752][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.18:872][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.18:981][892]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.19:120][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.19:247][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.19:369][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.19:427][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.19:453][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.19:521][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.19:592][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.19:671][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.19:755][982]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.19:864][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.19:983][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.20:120][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.20:248][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.20:368][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.20:426][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.20:451][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.20:528][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.20:596][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.20:673][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.20:750][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.20:871][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.20:981][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.21:115][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.21:245][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.21:371][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.21:432][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.21:449][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.21:525][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.21:593][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.21:671][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.21:756][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.21:868][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.21:986][244]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.22:123][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.22:250][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.22:371][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.22:430][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.22:455][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.22:523][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.22:595][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.22:674][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.22:750][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.22:869][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.22:982][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.23:117][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.23:246][391]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.23:372][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.23:427][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.23:453][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.23:520][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.23:597][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.23:673][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.23:750][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.23:869][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.23:980][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.24:116][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.24:246][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.24:375][523]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.24:434][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.24:451][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.24:527][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.24:597][549]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.24:672][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.24:756][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.24:867][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.24:981][594]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.25:115][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.25:245][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.25:372][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.25:431][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.25:448][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.25:526][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.25:593][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.25:669][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.25:755][685]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.25:865][698]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.25:986][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.26:114][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.26:245][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.26:375][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.26:433][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.26:451][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.26:527][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.26:595][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.26:671][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.26:756][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.26:866][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.26:978][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.27:118][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.27:247][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.27:306][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.14-23.51.27:307][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.27:345][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.14-23.51.27:346][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.02.14-23.51.27:388][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.14-23.51.27:405][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.14-23.51.27:439][867]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.02.14-23.51.38:095][ 60]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer
+	Dave_C /Engine/Transient.World_4:PersistentLevel.Dave_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Character/3dGameplay/Dave.Dave_C:UserConstructionScript:00E3
+[2019.02.14-23.51.38:709][117]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2019.02.14-23.51.39:252][118]LogSlate: Took 0.019717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.14-23.52.21:363][443]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Character/3dGameplay/Dave.Dave
+[2019.02.14-23.52.21:748][443]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer
+	Dave_C /Engine/Transient.World_8:PersistentLevel.Dave_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Character/3dGameplay/Dave.Dave_C:UserConstructionScript:00E3
+[2019.02.14-23.52.27:167][674]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Character/3dGameplay/RomanisaLight.RomanisaLight
+[2019.02.14-23.52.42:224][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-23.52.53:844][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-23.52.58:282][685]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.14-23.53.08:440][498]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Character/3dGameplay/RomanIsaTrigger.RomanIsaTrigger
+[2019.02.14-23.53.18:199][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.14-23.53.22:417][541]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.14-23.53.36:460][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-23.53.46:426][238]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.14-23.53.55:477][904]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.14-23.53.59:980][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-23.54.13:426][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.14-23.54.20:160][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.14-23.54.25:530][906]LogEditorTransaction: Undo Set Scale
+[2019.02.14-23.54.25:533][906]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.14-23.54.28:044][906]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.510 s
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: 
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: 
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: Stack: 
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8c2a79a86 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8c2a1f9aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8b839fa42 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8b83a0795 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8b834d4c1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d9d6fe72 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d9d34809 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d9ddc40e UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d9be9ca1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d9b80fd4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d28685c4 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d25cb94f UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d25a0419 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d296ce73 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d294ed70 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d28f88c4 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.14-23.54.28:044][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d2955cda UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d257f09b UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d25b186e UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d25d2dad UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8c2a1ffdd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8c2a4acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8c2a3140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8c2a9b427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8c2adf72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8c2a7726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d25a1168 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d9b8206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d9bc4c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8c32f6d1e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8c32e4cb8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d9b4694c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d9bc697c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8d9bb9a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8dde6daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8dde60de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8dde701eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8dde5ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff9154bca66 USER32.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff9154bc582 USER32.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff8dde71746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff6f2005546 UE4Editor.exe!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff6f201596c UE4Editor.exe!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff6f20159ea UE4Editor.exe!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff6f20248da UE4Editor.exe!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff6f202659a UE4Editor.exe!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff912f181f4 KERNEL32.DLL!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: [Callstack] 0x00007ff91579a251 ntdll.dll!UnknownFunction []
+[2019.02.14-23.54.28:045][906]LogOutputDevice: Error: 
+[2019.02.14-23.54.28:049][906]LogStats:                SubmitErrorReport -  0.000 s
