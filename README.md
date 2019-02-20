@@ -1,2 +1,3 @@
-# Infinity War
-Despacito 
+# Project Infinity War
+
+Project Infinity War is the codename for the Ludis Invaded game for Change The Game. The terms UNREAL, UNREAL ENGINE, and UNREAL ENGINE 4 are copywrited terms from the EPIC GAMES CORPARATION. All assets and entities have been pulled from libraries legally, and are fair use under the discretion of the original author. All media pulled for Project Infinity War falls under fair use under https://fairuse.stanford.edu/overview/academic-and-educational-permissions/non-coursepack/. This base game is free to download and includes all important data for the first missions, if the user wants futher levels and entertainment, more levels are available under specific request. For further information, please consult the creators of Project Infinity War at https://tinyurl.com/academygamers/. Project Infinity War is part of an open source engine, however the Developers of Project Infininty War are not responsible for any broken copywrite laws due to modification of the original game.
