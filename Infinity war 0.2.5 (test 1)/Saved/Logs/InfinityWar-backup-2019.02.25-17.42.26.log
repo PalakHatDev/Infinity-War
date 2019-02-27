@@ -1,0 +1,1302 @@
+﻿Log file open, 02/25/19 11:06:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InfinityWar
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.406681
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SaveExtension
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.078s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: K:/Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.02.25-17.06.53:794][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.25-17.06.53:794][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.25-17.06.53:795][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.02.25-17.06.53:795][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.02.25-17.06.53:804][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.25-17.06.53:804][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-17.06.53:804][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.25-17.06.53:805][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.25-17.06.53:805][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.25-17.06.53:805][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.25-17.06.53:824][  0]LogHAL: Display: Platform has ~ 16 GB [17125621760 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.25-17.06.53:824][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.25-17.06.53:824][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.25-17.06.53:824][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.25-17.06.53:825][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.25-17.06.53:825][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Q:/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.02.25-17.06.53:825][  0]LogInit: Computer: CHROME-OS
+[2019.02.25-17.06.53:825][  0]LogInit: User: JyrellAthanGo
+[2019.02.25-17.06.53:825][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.02.25-17.06.53:826][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.02.25-17.06.53:826][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.25-17.06.53:826][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.25-17.06.53:826][  0]LogMemory: Process Physical Memory: 105.18 MB used, 105.19 MB peak
+[2019.02.25-17.06.53:826][  0]LogMemory: Process Virtual Memory: 100.63 MB used, 100.63 MB peak
+[2019.02.25-17.06.53:826][  0]LogMemory: Physical Memory: 4516.93 MB used,  11815.34 MB free, 16332.27 MB total
+[2019.02.25-17.06.53:826][  0]LogMemory: Virtual Memory: 4676.73 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.02.25-17.06.53:838][  0]LogInit: Using OS detected language (en-US).
+[2019.02.25-17.06.53:838][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.25-17.06.53:838][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.25-17.06.54:221][  0]LogStreaming: Display: Took  0.384s to InitEngineTextLocalization.
+[2019.02.25-17.06.54:221][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.25-17.06.54:253][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.25-17.06.54:253][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.25-17.06.54:455][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.25-17.06.54:455][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.25-17.06.54:524][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2019.02.25-17.06.54:524][  0]LogD3D11RHI:       8080/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2019.02.25-17.06.54:526][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.25-17.06.54:526][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.25-17.06.54:526][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.25-17.06.54:533][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.25-17.06.54:533][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.25-17.06.54:533][  0]LogWindows: EnumDisplayDevices:
+[2019.02.25-17.06.54:533][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2019.02.25-17.06.54:533][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1)
+[2019.02.25-17.06.54:533][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1)
+[2019.02.25-17.06.54:534][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2019.02.25-17.06.54:534][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.02.25-17.06.54:534][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2019.02.25-17.06.54:534][  0]LogD3D11RHI:   Driver Version: 417.01 (internal:25.21.14.1701, unified:417.01)
+[2019.02.25-17.06.54:534][  0]LogD3D11RHI:      Driver Date: 11-15-2018
+[2019.02.25-17.06.54:534][  0]LogRHI: Texture pool is 5656 MB (70% of 8080 MB)
+[2019.02.25-17.06.54:591][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.25-17.06.54:624][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.25-17.06.54:924][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.25-17.06.54:937][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.25-17.06.54:951][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.25-17.06.54:966][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.25-17.06.54:980][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.25-17.06.54:994][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.25-17.06.55:009][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.25-17.06.55:023][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.25-17.06.55:028][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:111][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.25-17.06.55:112][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.25-17.06.55:171][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.25-17.06.55:171][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.25-17.06.55:194][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.25-17.06.55:194][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.25-17.06.55:206][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.25-17.06.55:219][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.25-17.06.55:232][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.25-17.06.55:244][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.25-17.06.55:293][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.25-17.06.55:293][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.25-17.06.55:293][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.25-17.06.55:329][  0]LogShaderCompilers: Guid format shader working directory is 26 characters bigger than the processId version (Q:/Infinity war 0.2.5 (test 1)/Intermediate/Shaders/WorkingDirectory/1468/).
+[2019.02.25-17.06.55:329][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jyrell Athan Go/AppData/Local/Temp/UnrealShaderWorkingDir/259D9F1B4DC2DE8220D9F3A99720DF71/'.
+[2019.02.25-17.06.55:331][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.25-17.06.55:331][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.25-17.06.55:331][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.25-17.06.55:850][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.25-17.06.55:894][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Jyrell Athan Go/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.25-17.06.55:894][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jyrell Athan Go/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.25-17.06.55:894][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Q:/Infinity war 0.2.5 (test 1)/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.25-17.06.55:894][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.25-17.06.55:894][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Q:/Infinity war 0.2.5 (test 1)/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.25-17.06.55:894][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.25-17.06.55:907][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.25-17.06.55:907][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.25-17.06.55:907][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.25-17.06.55:919][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jyrell Athan Go/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.25-17.06.55:919][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.25-17.06.55:919][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.25-17.06.55:941][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.25-17.06.55:943][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.25-17.06.55:943][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.25-17.06.56:028][  0]LogAssetRegistry: FAssetRegistry took 0.0347 seconds to start up
+[2019.02.25-17.06.56:363][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.25-17.06.56:506][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.25-17.06.56:509][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.25-17.06.56:509][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.25-17.06.56:509][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.25-17.06.56:509][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.25-17.06.56:522][  0]LogNetVersion: InfinityWar 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4053991763)
+[2019.02.25-17.06.57:004][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.099851 seconds
+[2019.02.25-17.06.57:015][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.25-17.06.57:015][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.02.25-17.06.57:015][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.25-17.06.57:856][  0]LogTemp: Warning: SaveExtension: Initializing Plugin.
+[2019.02.25-17.06.57:858][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.25-17.06.57:872][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.25-17.06.58:511][  0]SourceControl: Source control is disabled
+[2019.02.25-17.06.58:511][  0]SourceControl: Source control is disabled
+[2019.02.25-17.06.58:512][  0]SourceControl: Source control is disabled
+[2019.02.25-17.06.58:512][  0]SourceControl: Source control is disabled
+[2019.02.25-17.06.58:665][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.25-17.06.58:779][  0]LogOcInput: OculusInput pre-init called
+[2019.02.25-17.06.58:908][  0]LogEngine: Initializing Engine...
+[2019.02.25-17.06.58:909][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.25-17.06.58:910][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.25-17.06.58:910][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.25-17.06.58:910][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.25-17.06.58:910][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.25-17.06.59:119][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.25-17.06.59:127][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.25-17.06.59:169][  0]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.25-17.06.59:184][  0]LogInit: FAudioDevice initialized.
+[2019.02.25-17.06.59:184][  0]LogNetVersion: Set ProjectVersion to 0.1.9. Version Checksum will be recalculated on next use.
+[2019.02.25-17.06.59:291][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/Jyrell Athan Go/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.25-17.06.59:299][  0]LogInit: Texture streaming: Enabled
+[2019.02.25-17.06.59:311][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.25-17.06.59:325][  0]LogInit: Transaction tracking system initialized
+[2019.02.25-17.06.59:338][  0]BlueprintLog: New page: Editor Load
+[2019.02.25-17.06.59:391][  0]LocalizationService: Localization service is disabled
+[2019.02.25-17.06.59:817][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.25-17.06.59:817][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.25-17.06.59:817][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.25-17.06.59:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.25-17.06.59:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.25-17.06.59:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.25-17.06.59:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.25-17.06.59:972][  0]LogFileCache: Scanning file cache for directory 'Q:/Infinity war 0.2.5 (test 1)/Content/' took 0.03s
+[2019.02.25-17.06.59:972][  0]SourceControl: Source control is disabled
+[2019.02.25-17.06.59:972][  0]Cmd: MAP LOAD FILE="Q:/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.25-17.06.59:972][  0]LightingResults: New page: Lighting Build
+[2019.02.25-17.06.59:974][  0]MapCheck: New page: Map Check
+[2019.02.25-17.06.59:974][  0]LightingResults: New page: Lighting Build
+[2019.02.25-17.07.00:534][  0]LogBlueprint: Warning: [Compiler RomanisaLight] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.02.25-17.07.00:534][  0]LogBlueprint: Warning: [Compiler RomanisaLight] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.02.25-17.07.00:536][  0]LogBlueprint: Warning: [Compiler RomanisaLight] [0008.51] Compile of RomanisaLight successful, but with 2 Warning(s) [in 3 ms] (/Game/Infinitywar/Blueprints/Character/3dGameplay/RomanisaLight.RomanisaLight)
+[2019.02.25-17.07.00:597][  0]LogBlueprint: Warning: [Compiler RomanIsaTrigger] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.02.25-17.07.00:597][  0]LogBlueprint: Warning: [Compiler RomanIsaTrigger] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.02.25-17.07.00:599][  0]LogBlueprint: Warning: [Compiler RomanIsaTrigger] [0008.57] Compile of RomanIsaTrigger successful, but with 2 Warning(s) [in 3 ms] (/Game/Infinitywar/Blueprints/Character/3dGameplay/RomanIsaTrigger.RomanIsaTrigger)
+[2019.02.25-17.07.01:488][  0]LogAIModule: Creating AISystem for world GameLevel
+[2019.02.25-17.07.01:500][  0]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer
+	Dave_C /Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/Infinitywar/Blueprints/Character/3dGameplay/Dave.Dave_C:UserConstructionScript:00E3
+[2019.02.25-17.07.01:501][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.25-17.07.01:534][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.25-17.07.01:535][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.104ms to complete.
+[2019.02.25-17.07.01:535][  0]LogFileHelpers: Loading map 'GameLevel' took 1.563
+[2019.02.25-17.07.01:717][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-17.07.01:724][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-17.07.01:733][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-17.07.01:739][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-17.07.01:749][  0]LogCollectionManager: Loaded 0 collections in 0.000815 seconds
+[2019.02.25-17.07.01:765][  0]LogFileCache: Scanning file cache for directory 'Q:/Infinity war 0.2.5 (test 1)/Saved/Collections/' took 0.01s
+[2019.02.25-17.07.01:765][  0]LogFileCache: Scanning file cache for directory 'Q:/Infinity war 0.2.5 (test 1)/Content/Developers/JyrellAthanGo/Collections/' took 0.00s
+[2019.02.25-17.07.01:765][  0]LogFileCache: Scanning file cache for directory 'Q:/Infinity war 0.2.5 (test 1)/Content/Collections/' took 0.00s
+[2019.02.25-17.07.01:765][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.25-17.07.01:776][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2666 classes and 627 folders.
+[2019.02.25-17.07.01:783][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.25-17.07.01:808][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:878][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:888][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:898][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:903][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:908][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:914][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:924][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:929][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:934][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:938][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:942][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:977][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:982][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:987][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.01:992][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.02:034][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.02:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.02:044][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.02:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.02:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.02:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.25-17.07.02:569][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.25-17.07.02:595][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.25-17.07.02:724][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.25-17.07.02:726][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.25-17.07.02:748][  0]LogSlate: Took 0.016980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.25-17.07.02:909][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2019.02.25-17.07.03:026][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.25-17.07.03:026][  0]LogLoad: (Engine Initialization) Total time: 11.00 seconds
+[2019.02.25-17.07.03:026][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.25-17.07.03:103][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.25-17.07.03:168][  0]LogSlate: Took 0.011173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.25-17.07.03:422][  3]LogAssetRegistry: Asset discovery search completed in 7.4168 seconds
+[2019.02.25-17.07.03:424][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.25-17.07.03:424][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2019.02.25-17.07.04:061][ 72]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.25-17.07.08:336][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.07.09:401][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.07.09:500][717]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.25-17.07.09:523][717]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Infinitywar/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2019.02.25-17.07.09:523][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.25-17.07.09:523][717]PIE: New page: PIE session: GameLevel (Feb 25, 2019, 5:07:09 AM)
+[2019.02.25-17.07.09:536][717]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_GameLevel
+[2019.02.25-17.07.09:545][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008717s)
+[2019.02.25-17.07.09:545][717]LogAIModule: Creating AISystem for world GameLevel
+[2019.02.25-17.07.09:546][717]LogPlayLevel: PIE: World Init took: (0.000561s)
+[2019.02.25-17.07.09:546][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/GameLevel.GameLevel to /Game/Infinitywar/Maps/UEDPIE_0_GameLevel.GameLevel (0.009492s)
+[2019.02.25-17.07.09:614][717]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.25-17.07.09:626][717]LogInit: FAudioDevice initialized.
+[2019.02.25-17.07.09:668][717]LogLoad: Game class is '2dgamemode_C'
+[2019.02.25-17.07.09:672][717]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2019.02.25-11.07.09
+[2019.02.25-17.07.09:673][717]LogWorld: Bringing up level for play took: 0.003888
+[2019.02.25-17.07.09:685][717]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.02.25-17.07.09:688][717]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.02.25-17.07.09:688][717]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.02.25-17.07.09:688][717]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.02.25-17.07.09:688][717]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.02.25-17.07.09:689][717]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.02.25-17.07.09:689][717]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_GameLevel 0.618
+[2019.02.25-17.07.09:689][717]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Infinitywar/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2019.02.25-17.07.09:689][717]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer7
+	Dave_C /Game/Infinitywar/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/Infinitywar/Blueprints/Character/3dGameplay/Dave.Dave_C:ExecuteUbergraph_Dave:0BBC
+[2019.02.25-17.07.09:689][717]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsTransferer7". Blueprint:  Dave Function:  Execute Ubergraph Dave Graph:  EventGraph Node:  Branch
+[2019.02.25-17.07.09:690][717]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer7
+	Dave_C /Game/Infinitywar/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/Infinitywar/Blueprints/Character/3dGameplay/Dave.Dave_C:ExecuteUbergraph_Dave:0B5A
+[2019.02.25-17.07.09:690][717]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsTransferer7". Blueprint:  Dave Function:  Execute Ubergraph Dave Graph:  EventGraph Node:  Branch
+[2019.02.25-17.07.25:493][528]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Infinitywar/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2019.02.25-17.07.25:494][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-17.07.25:534][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.25-17.07.25:535][528]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Infinitywar/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2019.02.25-17.07.25:567][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-17.07.25:577][528]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-17.07.25:600][529]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.02.25-17.07.34:377][575]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.07.39:453][165]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.07.52:293][692]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Infinitywar/Blueprints/Character/2dGameplay/Smith.Smith
+[2019.02.25-17.07.53:029][692]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 117 classes and 0 folders.
+[2019.02.25-17.07.54:077][692]LogSlate: Took 0.008803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.25-17.07.54:186][693]LogSlate: Took 0.004395 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.25-17.08.04:188][569]LogScript: Warning: Attempted to access TRASH_PaperTileMapComponent_1 via property BuildingOpen, but TRASH_PaperTileMapComponent_1 is pending kill
+	Smith_C /Engine/Transient.World_0:PersistentLevel.Smith_C_0
+	Function /Game/Infinitywar/Blueprints/Character/2dGameplay/Smith.Smith_C:ExecuteUbergraph_Smith:0079
+[2019.02.25-17.08.04:227][570]LogRenderer: Reallocating scene render targets to support 1208x744 Format 10 NumSamples 1 (Frame:1).
+[2019.02.25-17.09.30:779][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.09.49:686][670]BlueprintLog: New page: Compile Smith
+[2019.02.25-17.10.05:333][344]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Cave)
+[2019.02.25-17.10.06:392][454]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.10.07:024][521]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Cave)
+[2019.02.25-17.10.07:475][565]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.10.08:924][721]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.10.09:618][795]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.10.10:538][894]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.10.13:316][198]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.10.14:035][273]LogEditorViewport: Clicking on Actor (LMB): Smith_C (Smith)
+[2019.02.25-17.10.15:972][480]Cmd: DELETE
+[2019.02.25-17.10.15:972][480]Cmd: ACTOR DELETE
+[2019.02.25-17.10.15:981][480]LogEditorActor: Deleted Actor: Smith_C
+[2019.02.25-17.10.16:020][480]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2019.02.25-17.10.18:469][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.10.26:187][516]Cmd: DELETE
+[2019.02.25-17.10.26:187][516]Cmd: ACTOR DELETE
+[2019.02.25-17.10.26:191][516]LogEditorActor: Deleted Actor: Smith_C
+[2019.02.25-17.10.26:230][516]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.02.25-17.10.29:885][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.10.32:289][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.10.53:825][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.10.55:541][351]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Cave)
+[2019.02.25-17.10.56:714][470]LogEditorViewport: Clicking on Actor (LMB): Smith_C (Smith)
+[2019.02.25-17.11.17:343][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.11.34:974][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.11.35:097][833]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.25-17.11.35:121][833]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Infinitywar/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2019.02.25-17.11.35:122][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.25-17.11.35:122][833]PIE: New page: PIE session: GameLevel (Feb 25, 2019, 5:11:35 AM)
+[2019.02.25-17.11.35:122][833]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_GameLevel
+[2019.02.25-17.11.35:133][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011047s)
+[2019.02.25-17.11.35:134][833]LogAIModule: Creating AISystem for world GameLevel
+[2019.02.25-17.11.35:134][833]LogPlayLevel: PIE: World Init took: (0.000627s)
+[2019.02.25-17.11.35:134][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/GameLevel.GameLevel to /Game/Infinitywar/Maps/UEDPIE_0_GameLevel.GameLevel (0.011841s)
+[2019.02.25-17.11.35:204][833]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.25-17.11.35:213][833]LogInit: FAudioDevice initialized.
+[2019.02.25-17.11.35:249][833]LogLoad: Game class is '2dgamemode_C'
+[2019.02.25-17.11.35:256][833]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2019.02.25-11.11.35
+[2019.02.25-17.11.35:257][833]LogWorld: Bringing up level for play took: 0.006886
+[2019.02.25-17.11.35:269][833]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.02.25-17.11.35:269][833]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.02.25-17.11.35:269][833]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.02.25-17.11.35:269][833]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.02.25-17.11.35:269][833]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.02.25-17.11.35:269][833]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_GameLevel 0.198
+[2019.02.25-17.11.35:270][833]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Infinitywar/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2019.02.25-17.11.35:270][833]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer7
+	Dave_C /Game/Infinitywar/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/Infinitywar/Blueprints/Character/3dGameplay/Dave.Dave_C:ExecuteUbergraph_Dave:0BBC
+[2019.02.25-17.11.35:270][833]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsTransferer7". Blueprint:  Dave Function:  Execute Ubergraph Dave Graph:  EventGraph Node:  Branch
+[2019.02.25-17.11.35:270][833]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer7
+	Dave_C /Game/Infinitywar/Maps/UEDPIE_0_GameLevel.GameLevel:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/Infinitywar/Blueprints/Character/3dGameplay/Dave.Dave_C:ExecuteUbergraph_Dave:0B5A
+[2019.02.25-17.11.35:270][833]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsTransferer7". Blueprint:  Dave Function:  Execute Ubergraph Dave Graph:  EventGraph Node:  Branch
+[2019.02.25-17.11.44:861][765]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.02.25-17.11.44:861][765]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.02.25-17.11.44:862][765]LogNet: Browse: /Game/Infinitywar/Maps/smith
+[2019.02.25-17.11.44:864][765]LogLoad: LoadMap: /Game/Infinitywar/Maps/smith
+[2019.02.25-17.11.44:909][765]LogAIModule: Creating AISystem for world smith
+[2019.02.25-17.11.44:909][765]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.02.25-17.11.44:909][765]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode'
+[2019.02.25-17.11.44:909][765]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2019.02.25-17.11.44:909][765]LogLoad: Game class is 'GameModeBase'
+[2019.02.25-17.11.44:911][765]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_smith.smith up for play (max tick rate 0) at 2019.02.25-11.11.44
+[2019.02.25-17.11.44:911][765]LogWorld: Bringing up level for play took: 0.001608
+[2019.02.25-17.11.44:912][765]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.25-17.11.44:912][765]LogLoad: Took 0.048931 seconds to LoadMap(/Game/Infinitywar/Maps/smith)
+[2019.02.25-17.11.50:787][379]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Infinitywar/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2019.02.25-17.11.50:787][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-17.11.50:822][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.25-17.11.50:823][379]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Infinitywar/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2019.02.25-17.11.50:855][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-17.11.50:866][379]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-17.11.50:888][380]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.02.25-17.11.53:016][596]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.11.53:047][596]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-17.11.53:511][632]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-17.11.54:360][713]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.11.55:131][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.12.16:945][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.14.19:595][535]LogAIModule: Creating AISystem for world smith
+[2019.02.25-17.14.19:597][535]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer
+	Dave_C /Game/Infinitywar/Maps/smith.smith:PersistentLevel.Dave_2
+	Function /Game/Infinitywar/Blueprints/Character/3dGameplay/Dave.Dave_C:UserConstructionScript:00E3
+[2019.02.25-17.14.19:599][535]LogAssetEditorManager: Opening Asset editor for World /Game/Infinitywar/Maps/smith.smith
+[2019.02.25-17.14.21:664][535]LogSlate: Window 'Save Content' being destroyed
+[2019.02.25-17.14.21:671][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Blueprints/Character/2dGameplay/Smith" FILE="Q:/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Character/2dGameplay/Smith.uasset" SILENT=true
+[2019.02.25-17.14.21:757][535]LogSavePackage: Moving 'Q:/Infinity war 0.2.5 (test 1)/Saved/Smith4B19D16A40D1D813C911E1A8BE201152.tmp' to 'Q:/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Character/2dGameplay/Smith.uasset'
+[2019.02.25-17.14.21:760][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/GameLevel" FILE="Q:/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.25-17.14.22:176][535]LogSavePackage: Moving 'Q:/Infinity war 0.2.5 (test 1)/Saved/GameLevel1FD35F3742A2369DB50F3A98E45B71CF.tmp' to 'Q:/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/GameLevel.umap'
+[2019.02.25-17.14.22:250][535]LogFileHelpers: Saving map 'GameLevel' took 0.490
+[2019.02.25-17.14.22:251][535]Cmd: MAP LOAD FILE="Q:/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/smith.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.25-17.14.22:251][535]LightingResults: New page: Lighting Build
+[2019.02.25-17.14.22:252][535]LoadErrors: New page: Loading map: smith.umap
+[2019.02.25-17.14.22:254][535]MapCheck: New page: Map Check
+[2019.02.25-17.14.22:254][535]LightingResults: New page: Lighting Build
+[2019.02.25-17.14.22:293][535]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer
+	Dave_C /Game/Infinitywar/Maps/smith.smith:PersistentLevel.Dave_2
+	Function /Game/Infinitywar/Blueprints/Character/3dGameplay/Dave.Dave_C:UserConstructionScript:00E3
+[2019.02.25-17.14.22:362][535]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.25-17.14.22:429][535]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.25-17.14.22:429][535]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2019.02.25-17.14.22:429][535]LogFileHelpers: Loading map 'smith' took 0.179
+[2019.02.25-17.14.22:562][535]LogAIModule: Creating AISystem for world GameLevel
+[2019.02.25-17.14.22:568][535]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer
+	Dave_C /Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/Infinitywar/Blueprints/Character/3dGameplay/Dave.Dave_C:UserConstructionScript:00E3
+[2019.02.25-17.14.26:111][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-17.14.34:139][826]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.25-17.14.47:421][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.14.47:539][318]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.25-17.14.47:567][318]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/smith.smith:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith' with GeneratedClass '/Game/Infinitywar/Maps/smith.smith_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith'
+[2019.02.25-17.14.47:567][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.25-17.14.47:567][318]PIE: New page: PIE session: smith (Feb 25, 2019, 5:14:47 AM)
+[2019.02.25-17.14.47:567][318]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_smith
+[2019.02.25-17.14.47:569][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001648s)
+[2019.02.25-17.14.47:569][318]LogAIModule: Creating AISystem for world smith
+[2019.02.25-17.14.47:569][318]LogPlayLevel: PIE: World Init took: (0.000462s)
+[2019.02.25-17.14.47:569][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/smith.smith to /Game/Infinitywar/Maps/UEDPIE_0_smith.smith (0.002259s)
+[2019.02.25-17.14.47:639][318]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.25-17.14.47:650][318]LogInit: FAudioDevice initialized.
+[2019.02.25-17.14.47:683][318]LogLoad: Game class is 'GameMode'
+[2019.02.25-17.14.47:685][318]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_smith.smith up for play (max tick rate 0) at 2019.02.25-11.14.47
+[2019.02.25-17.14.47:685][318]LogWorld: Bringing up level for play took: 0.001802
+[2019.02.25-17.14.47:697][318]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.02.25-17.14.47:697][318]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.02.25-17.14.47:697][318]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.02.25-17.14.47:698][318]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.02.25-17.14.47:698][318]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_smith 0.626
+[2019.02.25-17.14.47:698][318]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/smith.smith:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith' with GeneratedClass '/Game/Infinitywar/Maps/smith.smith_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith'
+[2019.02.25-17.14.51:780][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/smith.smith:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith' with GeneratedClass '/Game/Infinitywar/Maps/smith.smith_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith'
+[2019.02.25-17.14.51:781][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-17.14.51:817][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.25-17.14.51:817][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/smith.smith:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith' with GeneratedClass '/Game/Infinitywar/Maps/smith.smith_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith'
+[2019.02.25-17.14.51:859][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-17.14.51:880][771]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.02.25-17.14.55:351][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-17.15.03:091][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.15.03:209][989]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.25-17.15.03:233][989]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/smith.smith:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith' with GeneratedClass '/Game/Infinitywar/Maps/smith.smith_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith'
+[2019.02.25-17.15.03:233][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.25-17.15.03:233][989]PIE: New page: PIE session: smith (Feb 25, 2019, 5:15:03 AM)
+[2019.02.25-17.15.03:233][989]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_smith
+[2019.02.25-17.15.03:235][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001601s)
+[2019.02.25-17.15.03:235][989]LogAIModule: Creating AISystem for world smith
+[2019.02.25-17.15.03:235][989]LogPlayLevel: PIE: World Init took: (0.000465s)
+[2019.02.25-17.15.03:235][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/smith.smith to /Game/Infinitywar/Maps/UEDPIE_0_smith.smith (0.002166s)
+[2019.02.25-17.15.03:313][989]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.25-17.15.03:323][989]LogInit: FAudioDevice initialized.
+[2019.02.25-17.15.03:353][989]LogLoad: Game class is 'GameModeBase'
+[2019.02.25-17.15.03:354][989]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_smith.smith up for play (max tick rate 0) at 2019.02.25-11.15.03
+[2019.02.25-17.15.03:354][989]LogWorld: Bringing up level for play took: 0.000994
+[2019.02.25-17.15.03:367][989]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_smith 0.295
+[2019.02.25-17.15.03:367][989]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/smith.smith:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith' with GeneratedClass '/Game/Infinitywar/Maps/smith.smith_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith'
+[2019.02.25-17.15.50:755][805]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/smith.smith:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith' with GeneratedClass '/Game/Infinitywar/Maps/smith.smith_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith'
+[2019.02.25-17.15.50:757][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-17.15.50:797][805]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.25-17.15.50:798][805]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/smith.smith:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith' with GeneratedClass '/Game/Infinitywar/Maps/smith.smith_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith'
+[2019.02.25-17.15.50:834][805]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-17.15.50:859][806]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.02.25-17.15.52:261][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.15.52:336][977]MapCheck: New page: Map Check
+[2019.02.25-17.15.52:348][977]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.25-17.15.52:348][977]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.25-17.15.52:425][977]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer
+	Dave_C /Game/Infinitywar/Maps/smith.smith:PersistentLevel.Dave_2
+	Function /Game/Infinitywar/Blueprints/Character/3dGameplay/Dave.Dave_C:UserConstructionScript:00E3
+[2019.02.25-17.15.52:474][977]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.02.25-17.15.52:485][977]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.25-17.15.52:485][977]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Soldier_body1, compiling. 
+[2019.02.25-17.15.52:492][977]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Soldier_head6, compiling. 
+[2019.02.25-17.15.52:500][977]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.02.25-17.15.53:437][977]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.25-17.15.53:437][977]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.25-17.15.53:437][977]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.25-17.15.53:437][977]TextureStreamingBuild: Display: Compiling optional shaders took 0.970 seconds.
+[2019.02.25-17.15.53:452][977]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2019.02.25-17.15.53:458][977]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2019.02.25-17.15.53:490][977]LightingResults: New page: Lighting Build - Feb 25, 2019, 5:15:53 AM
+[2019.02.25-17.15.53:610][977]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.25-17.15.53:842][977]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.25-17.15.53:859][977]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.25-17.15.54:896][977]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.25-17.15.54:896][977]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1468
+[2019.02.25-17.15.59:424][977]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.02.25-17.15.59:424][977]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.25-17.15.59:424][977]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.25-17.15.59:424][977]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.25-17.15.59:424][977]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.25-17.15.59:424][977]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.25-17.15.59:535][977]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.02.25-17.15.59:535][977]MapCheck: New page: smith - Feb 25, 2019, 5:15:59 AM
+[2019.02.25-17.15.59:536][977]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2019.02.25-17.15.59:536][977]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.216ms to complete.
+[2019.02.25-17.15.59:560][977]LogEditorBuildUtils: Build time 0:07
+[2019.02.25-17.15.59:564][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-17.16.01:676][ 92]Job is a success!
+[2019.02.25-17.16.01:726][ 94]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2019.02.25-17.16.01:726][ 94]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.02.25-17.16.01:726][ 94]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.02.25-17.16.01:726][ 94]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.25-17.16.01:726][ 94]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.02.25-17.16.01:726][ 94]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.02.25-17.16.01:726][ 94]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.02.25-17.16.01:741][ 94]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2019.02.25-17.16.01:741][ 94]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2019.02.25-17.16.01:741][ 94]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2019.02.25-17.16.01:741][ 94]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2019.02.25-17.16.01:787][ 94]Lightmass on CHROME-OS: 1.37 sec total, 159 ms importing, 28 ms setup, 697 ms photons, 444 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 4.39 sec total, 35 ms processing.
+[2019.02.25-17.16.01:830][ 94]LogStaticLightingSystem: Illumination: 8.32 sec (2 ms encoding lightmaps, 1 ms encoding shadowmaps)
+[2019.02.25-17.16.01:831][ 94]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.02.25-17.16.01:831][ 94]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.02.25-17.16.02:434][ 94]DumpUnbuiltLightIteractions
+[2019.02.25-17.16.02:434][ 94]Lights with unbuilt interactions: 0
+[2019.02.25-17.16.02:434][ 94]
+[2019.02.25-17.16.02:434][ 94]Primitives with unbuilt interactions: 0
+[2019.02.25-17.16.02:438][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-17.16.02:484][ 95]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.25-17.16.02:484][ 95]MapCheck: New page: smith - Feb 25, 2019, 5:16:02 AM
+[2019.02.25-17.16.02:485][ 95]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.427ms to complete.
+[2019.02.25-17.16.03:347][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.16.07:307][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.16.09:105][818]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.25-17.16.09:129][818]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/smith.smith:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith' with GeneratedClass '/Game/Infinitywar/Maps/smith.smith_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith'
+[2019.02.25-17.16.09:129][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.25-17.16.09:129][818]PIE: New page: PIE session: smith (Feb 25, 2019, 5:16:09 AM)
+[2019.02.25-17.16.09:130][818]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_smith
+[2019.02.25-17.16.09:132][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002332s)
+[2019.02.25-17.16.09:133][818]LogAIModule: Creating AISystem for world smith
+[2019.02.25-17.16.09:133][818]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2019.02.25-17.16.09:133][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/smith.smith to /Game/Infinitywar/Maps/UEDPIE_0_smith.smith (0.003245s)
+[2019.02.25-17.16.09:203][818]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.25-17.16.09:213][818]LogInit: FAudioDevice initialized.
+[2019.02.25-17.16.09:245][818]LogLoad: Game class is 'GameModeBase'
+[2019.02.25-17.16.09:246][818]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_smith.smith up for play (max tick rate 0) at 2019.02.25-11.16.09
+[2019.02.25-17.16.09:246][818]LogWorld: Bringing up level for play took: 0.000943
+[2019.02.25-17.16.09:259][818]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_smith 0.187
+[2019.02.25-17.16.09:259][818]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/smith.smith:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith' with GeneratedClass '/Game/Infinitywar/Maps/smith.smith_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith'
+[2019.02.25-17.16.11:153][ 35]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/smith.smith:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith' with GeneratedClass '/Game/Infinitywar/Maps/smith.smith_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith'
+[2019.02.25-17.16.11:153][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-17.16.11:189][ 35]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.25-17.16.11:190][ 35]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/smith.smith:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith' with GeneratedClass '/Game/Infinitywar/Maps/smith.smith_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/smith.smith:PersistentLevel.smith'
+[2019.02.25-17.16.11:226][ 35]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.25-17.16.11:264][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.02.25-17.16.21:223][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.16.30:499][234]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.02.25-17.17.29:385][890]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.25-17.17.29:388][890]LogSlate: Window 'Smith' being destroyed
+[2019.02.25-17.17.29:470][890]LightingResults: New page: Lighting Build
+[2019.02.25-17.17.29:471][890]MapCheck: New page: Map Check
+[2019.02.25-17.17.29:471][890]LightingResults: New page: Lighting Build
+[2019.02.25-17.17.29:506][890]LogAIModule: Creating AISystem for world Untitled
+[2019.02.25-17.17.29:572][890]LoadErrors: New page: New Map
+[2019.02.25-17.17.29:581][890]LogAIModule: Creating AISystem for world smith
+[2019.02.25-17.17.29:583][890]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer
+	Dave_C /Game/Infinitywar/Maps/smith.smith:PersistentLevel.Dave_2
+	Function /Game/Infinitywar/Blueprints/Character/3dGameplay/Dave.Dave_C:UserConstructionScript:00E3
+[2019.02.25-17.17.34:614][308]LogAssetEditorManager: Opening Asset editor for World /Game/Infinitywar/Maps/GameLevel.GameLevel
+[2019.02.25-17.17.34:647][308]Cmd: MAP LOAD FILE="Q:/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.25-17.17.34:648][308]LightingResults: New page: Lighting Build
+[2019.02.25-17.17.34:649][308]LoadErrors: New page: Loading map: GameLevel.umap
+[2019.02.25-17.17.34:649][308]MapCheck: New page: Map Check
+[2019.02.25-17.17.34:649][308]LightingResults: New page: Lighting Build
+[2019.02.25-17.17.34:689][308]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsTransferer
+	Dave_C /Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/Infinitywar/Blueprints/Character/3dGameplay/Dave.Dave_C:UserConstructionScript:00E3
+[2019.02.25-17.17.34:791][308]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.25-17.17.34:864][308]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.25-17.17.34:865][308]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2019.02.25-17.17.34:866][308]LogFileHelpers: Loading map 'GameLevel' took 0.220
+[2019.02.25-17.17.36:978][554]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.17.37:720][638]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.17.40:233][935]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.17.41:170][ 44]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.17.47:334][775]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.17.49:064][979]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.17.57:077][931]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.02.25-17.18.00:058][280]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.19.22:376][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.19.32:149][223]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.02.25-17.19.32:575][271]LogEditorViewport: Clicking on Actor (LMB): Smith_C (Smith)
+[2019.02.25-17.19.33:844][416]Cmd: DELETE
+[2019.02.25-17.19.33:844][416]Cmd: ACTOR DELETE
+[2019.02.25-17.19.33:848][416]LogEditorActor: Deleted Actor: Smith_C
+[2019.02.25-17.19.33:882][416]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2019.02.25-17.19.35:545][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.20.34:224][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.20.42:168][485]Cmd: DELETE
+[2019.02.25-17.20.42:168][485]Cmd: ACTOR DELETE
+[2019.02.25-17.20.42:175][485]LogEditorActor: Deleted Actor: Smith_C
+[2019.02.25-17.20.42:211][485]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2019.02.25-17.20.43:527][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.20.43:750][668]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Infinitywar/Blueprints/Character/2dGameplay/Smith.Smith
+[2019.02.25-17.20.44:183][668]LogPackageName: SearchForPackageOnDisk took   0.073s, but failed to resolve smith.umap.
+[2019.02.25-17.20.44:248][668]LogPackageName: SearchForPackageOnDisk took   0.065s, but failed to resolve smith.umap.
+[2019.02.25-17.23.53:227][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.24.03:696][441]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.25-17.24.34:653][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.26.22:649][494]LogScript: Warning: Attempted to access TRASH_PaperTileMapComponent_1 via property BuildingOpen, but TRASH_PaperTileMapComponent_1 is pending kill
+	Smith_C /Engine/Transient.World_8:PersistentLevel.Smith_C_0
+	Function /Game/Infinitywar/Blueprints/Character/2dGameplay/Smith.Smith_C:ExecuteUbergraph_Smith:0079
+[2019.02.25-17.26.42:116][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.27.10:007][850]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Infinitywar/Blueprints/Transferer.Transferer
+[2019.02.25-17.27.50:814][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/GameLevel" FILE="Q:/Infinity war 0.2.5 (test 1)/Saved/Autosaves/Game/Infinitywar/Maps/GameLevel_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.02.25-17.27.51:169][812]LogSavePackage: Moving 'Q:/Infinity war 0.2.5 (test 1)/Saved/GameLevel_Auto16227B7B14387C89744E12DB0749563FB.tmp' to 'Q:/Infinity war 0.2.5 (test 1)/Saved/Autosaves/Game/Infinitywar/Maps/GameLevel_Auto1.umap'
+[2019.02.25-17.27.51:172][812]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Infinitywar/Maps/GameLevel' took 0.393
+[2019.02.25-17.27.51:172][812]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.393
+[2019.02.25-17.27.51:175][812]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Infinitywar/Blueprints/Transferer] ([1] browsable assets)...
+[2019.02.25-17.27.51:175][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/Infinitywar/Blueprints/Transferer]
+[2019.02.25-17.27.51:206][812]LogSavePackage: Moving 'Q:/Infinity war 0.2.5 (test 1)/Saved/Transferer_Auto104CDAC5046C06850BA0A62B2CD272B18.tmp' to 'Q:/Infinity war 0.2.5 (test 1)/Saved/Autosaves/Game/Infinitywar/Blueprints/Transferer_Auto1.uasset'
+[2019.02.25-17.27.51:207][812]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Infinitywar/Blueprints/Character/2dGameplay/Smith] ([1] browsable assets)...
+[2019.02.25-17.27.51:207][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/Infinitywar/Blueprints/Character/2dGameplay/Smith]
+[2019.02.25-17.27.51:253][812]LogSavePackage: Moving 'Q:/Infinity war 0.2.5 (test 1)/Saved/Smith_Auto1419DDB514E54C768030B1088AABD6C8B.tmp' to 'Q:/Infinity war 0.2.5 (test 1)/Saved/Autosaves/Game/Infinitywar/Blueprints/Character/2dGameplay/Smith_Auto1.uasset'
+[2019.02.25-17.27.51:255][812]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Infinitywar/Blueprints/Character/2dGameplay/destiantionboi] ([1] browsable assets)...
+[2019.02.25-17.27.51:255][812]OBJ SavePackage: Finished generating thumbnails for package [/Game/Infinitywar/Blueprints/Character/2dGameplay/destiantionboi]
+[2019.02.25-17.27.51:266][812]LogSavePackage: Moving 'Q:/Infinity war 0.2.5 (test 1)/Saved/destiantionboi_Auto10C2E95124336FF717A3AAD84B47A48C3.tmp' to 'Q:/Infinity war 0.2.5 (test 1)/Saved/Autosaves/Game/Infinitywar/Blueprints/Character/2dGameplay/destiantionboi_Auto1.uasset'
+[2019.02.25-17.27.51:267][812]LogFileHelpers: Auto-saving content packages took 0.093
+[2019.02.25-17.29.40:932][471]LogSlate: Took 0.025835 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.02.25-17.30.13:627][594]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel
+[2019.02.25-17.38.21:543][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/GameLevel" FILE="Q:/Infinity war 0.2.5 (test 1)/Saved/Autosaves/Game/Infinitywar/Maps/GameLevel_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.02.25-17.38.21:841][594]LogSavePackage: Moving 'Q:/Infinity war 0.2.5 (test 1)/Saved/GameLevel_Auto2AFC9E5EA4EE44D5D137E5388A9A6742C.tmp' to 'Q:/Infinity war 0.2.5 (test 1)/Saved/Autosaves/Game/Infinitywar/Maps/GameLevel_Auto2.umap'
+[2019.02.25-17.38.21:843][594]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Infinitywar/Maps/GameLevel' took 0.337
+[2019.02.25-17.38.21:843][594]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.337
+[2019.02.25-17.38.21:845][594]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Infinitywar/Blueprints/Transferer] ([1] browsable assets)...
+[2019.02.25-17.38.21:845][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/Infinitywar/Blueprints/Transferer]
+[2019.02.25-17.38.21:888][594]LogSavePackage: Moving 'Q:/Infinity war 0.2.5 (test 1)/Saved/Transferer_Auto29D81CB054727502CA8AA80B6CCE065CA.tmp' to 'Q:/Infinity war 0.2.5 (test 1)/Saved/Autosaves/Game/Infinitywar/Blueprints/Transferer_Auto2.uasset'
+[2019.02.25-17.38.21:889][594]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Infinitywar/Blueprints/Character/2dGameplay/Smith] ([1] browsable assets)...
+[2019.02.25-17.38.21:889][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/Infinitywar/Blueprints/Character/2dGameplay/Smith]
+[2019.02.25-17.38.21:932][594]LogSavePackage: Moving 'Q:/Infinity war 0.2.5 (test 1)/Saved/Smith_Auto29D9EA8A741038A065B15FE9B5DEE1D65.tmp' to 'Q:/Infinity war 0.2.5 (test 1)/Saved/Autosaves/Game/Infinitywar/Blueprints/Character/2dGameplay/Smith_Auto2.uasset'
+[2019.02.25-17.38.21:932][594]LogFileHelpers: Auto-saving content packages took 0.088
+[2019.02.25-17.38.46:637][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.25-17.42.15:377][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/GameLevel" FILE="Q:/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/GameLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.02.25-17.42.15:702][366]LogSavePackage: Moving 'Q:/Infinity war 0.2.5 (test 1)/Saved/GameLevel9A28194144E65A9FA1CB70BAFE221C9A.tmp' to 'Q:/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/GameLevel.umap'
+[2019.02.25-17.42.15:756][366]LogFileHelpers: Saving map 'GameLevel' took 0.380
+[2019.02.25-17.42.19:258][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-17.42.20:756][773]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.25-17.42.20:761][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Blueprints/Transferer" FILE="Q:/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Transferer.uasset" SILENT=true
+[2019.02.25-17.42.20:782][773]LogSavePackage: Moving 'Q:/Infinity war 0.2.5 (test 1)/Saved/Transferer4B399845427DFF630AD93C8D9FE6E820.tmp' to 'Q:/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Transferer.uasset'
+[2019.02.25-17.42.20:791][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Blueprints/Character/2dGameplay/Smith" FILE="Q:/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Character/2dGameplay/Smith.uasset" SILENT=true
+[2019.02.25-17.42.20:831][773]LogSavePackage: Moving 'Q:/Infinity war 0.2.5 (test 1)/Saved/Smith087817F849C60D76B3BC9FB800AB1D25.tmp' to 'Q:/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Character/2dGameplay/Smith.uasset'
+[2019.02.25-17.42.20:850][773]LogSavePackage: Moving 'Q:/Infinity war 0.2.5 (test 1)/Saved/destiantionboiAA5A3352406207D4FA1D4FA0F79B0580.tmp' to 'Q:/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Character/2dGameplay/destiantionboi.uasset'
+[2019.02.25-17.42.23:880][  2]LogSlate: Window 'GameLevel - Level Blueprint Editor' being destroyed
+[2019.02.25-17.42.23:908][  2]LogSlate: Window 'Message Log' being destroyed
+[2019.02.25-17.42.23:909][  2]LogSlate: Window 'InfinityWar - Unreal Editor' being destroyed
+[2019.02.25-17.42.23:910][  2]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.25-17.42.24:115][  3]Cmd: QUIT_EDITOR
+[2019.02.25-17.42.24:411][  3]LogExit: Preparing to exit.
+[2019.02.25-17.42.25:070][  3]LogExit: Editor shut down
+[2019.02.25-17.42.25:071][  3]LogExit: Transaction tracking system shut down
+[2019.02.25-17.42.25:320][  3]LogExit: Object subsystem successfully closed.
+[2019.02.25-17.42.25:344][  3]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.02.25-17.42.25:347][  3]LogD3D11RHI: Shutdown
+[2019.02.25-17.42.25:347][  3]LogD3D11RHI: CleanupD3DDevice
+[2019.02.25-17.42.25:348][  3]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.02.25-17.42.25:356][  3]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (634)
+[2019.02.25-17.42.25:356][  3]LogModuleManager: Shutting down and abandoning module BlueprintGraph (632)
+[2019.02.25-17.42.25:356][  3]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2019.02.25-17.42.25:356][  3]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2019.02.25-17.42.25:356][  3]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (626)
+[2019.02.25-17.42.25:356][  3]LogModuleManager: Shutting down and abandoning module SceneOutliner (624)
+[2019.02.25-17.42.25:356][  3]LogModuleManager: Shutting down and abandoning module AddContentDialog (622)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module WidgetCarousel (621)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module EditorWidgets (618)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module CollectionManager (616)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module StatsViewer (614)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module FoliageEdit (612)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module LandscapeEditor (610)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module MeshPaintMode (608)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (606)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module ActorPickerMode (604)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module GeometryMode (602)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module TextureAlignMode (600)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module BspMode (598)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (596)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (594)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module AutomationWorker (592)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (590)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (588)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (586)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module PlacementMode (585)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module MaterialEditor (584)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (580)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (578)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (576)
+[2019.02.25-17.42.25:357][  3]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (574)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module WebMMedia (572)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (570)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (568)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module SequenceRecorder (567)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (564)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (562)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (560)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (558)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (556)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (554)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (552)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module SaveExtensionEditor (550)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (548)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (546)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (544)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module CharacterAI (542)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module SmartSnapping (540)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module SessionServices (538)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module ViewportSnapping (536)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module ViewportInteraction (534)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module ClothPainter (532)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (531)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module LogVisualizer (528)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module IntroTutorials (526)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (525)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (522)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (520)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (518)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (516)
+[2019.02.25-17.42.25:358][  3]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (515)
+[2019.02.25-17.42.25:795][  3]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (512)
+[2019.02.25-17.42.25:795][  3]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (510)
+[2019.02.25-17.42.25:795][  3]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (508)
+[2019.02.25-17.42.25:795][  3]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (506)
+[2019.02.25-17.42.25:795][  3]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (504)
+[2019.02.25-17.42.25:795][  3]LogModuleManager: Shutting down and abandoning module InputBindingEditor (502)
+[2019.02.25-17.42.25:795][  3]LogModuleManager: Shutting down and abandoning module MergeActors (500)
+[2019.02.25-17.42.25:795][  3]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (498)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module LocalizationService (497)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module HardwareTargeting (494)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (492)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module UndoHistory (490)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module XmlParser (488)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module Blutility (486)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (484)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (483)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (480)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module SettingsEditor (478)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module ProjectLauncher (476)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module SessionFrontend (474)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module ProfilerClient (472)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module DeviceManager (470)
+[2019.02.25-17.42.25:796][  3]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (469)
+[2019.02.25-17.42.25:862][  3]LogModuleManager: Shutting down and abandoning module AutomationController (466)
+[2019.02.25-17.42.25:862][  3]LogModuleManager: Shutting down and abandoning module AutomationWindow (464)
+[2019.02.25-17.42.25:862][  3]LogModuleManager: Shutting down and abandoning module Layers (462)
+[2019.02.25-17.42.25:862][  3]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (460)
+[2019.02.25-17.42.25:862][  3]LogModuleManager: Shutting down and abandoning module DetailCustomizations (458)
+[2019.02.25-17.42.25:862][  3]LogModuleManager: Shutting down and abandoning module PackagesDialog (456)
+[2019.02.25-17.42.25:862][  3]LogModuleManager: Shutting down and abandoning module Persona (454)
+[2019.02.25-17.42.25:862][  3]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (453)
+[2019.02.25-17.42.25:862][  3]LogModuleManager: Shutting down and abandoning module AnimGraph (451)
+[2019.02.25-17.42.25:862][  3]LogModuleManager: Shutting down and abandoning module Kismet (448)
+[2019.02.25-17.42.25:867][  3]LogModuleManager: Shutting down and abandoning module GraphEditor (446)
+[2019.02.25-17.42.25:867][  3]LogModuleManager: Shutting down and abandoning module ClassViewer (444)
+[2019.02.25-17.42.25:868][  3]LogModuleManager: Shutting down and abandoning module Toolbox (442)
+[2019.02.25-17.42.25:868][  3]LogModuleManager: Shutting down and abandoning module ModuleUI (440)
+[2019.02.25-17.42.25:868][  3]LogModuleManager: Shutting down and abandoning module MovieSceneTools (438)
+[2019.02.25-17.42.25:868][  3]LogModuleManager: Shutting down and abandoning module OutputLog (436)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module GammaUI (434)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module Documentation (432)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (430)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module MovieScene (428)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (426)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module LauncherPlatform (424)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module AnalyticsET (422)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module PortalServices (420)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module PortalRpc (418)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module MessagingRpc (416)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module AIModule (414)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module GameplayDebugger (413)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module AITestSuite (411)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module NavigationSystem (409)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module DesktopPlatform (406)
+[2019.02.25-17.42.25:869][  3]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (404)
+[2019.02.25-17.42.25:872][  3]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2019.02.25-17.42.25:999][  3]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2019.02.25-17.42.25:999][  3]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2019.02.25-17.42.25:999][  3]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2019.02.25-17.42.26:000][  3]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2019.02.25-17.42.26:000][  3]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2019.02.25-17.42.26:000][  3]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2019.02.25-17.42.26:000][  3]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2019.02.25-17.42.26:000][  3]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2019.02.25-17.42.26:000][  3]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2019.02.25-17.42.26:000][  3]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2019.02.25-17.42.26:000][  3]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2019.02.25-17.42.26:000][  3]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2019.02.25-17.42.26:000][  3]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2019.02.25-17.42.26:000][  3]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2019.02.25-17.42.26:000][  3]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2019.02.25-17.42.26:000][  3]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2019.02.25-17.42.26:000][  3]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module MeshPaint (299)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module OculusEditor (290)
+[2019.02.25-17.42.26:004][  3]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (288)
+[2019.02.25-17.42.26:005][  3]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2019.02.25-17.42.26:005][  3]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2019.02.25-17.42.26:106][  3]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2019.02.25-17.42.26:207][  3]LogModuleManager: Shutting down and abandoning module SaveExtension (280)
+[2019.02.25-17.42.26:207][  3]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.02.25-17.42.26:207][  3]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.02.25-17.42.26:207][  3]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.02.25-17.42.26:207][  3]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.02.25-17.42.26:207][  3]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.02.25-17.42.26:207][  3]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.02.25-17.42.26:207][  3]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.02.25-17.42.26:208][  3]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.02.25-17.42.26:208][  3]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.02.25-17.42.26:208][  3]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.02.25-17.42.26:208][  3]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.02.25-17.42.26:208][  3]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.02.25-17.42.26:210][  3]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.02.25-17.42.26:210][  3]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.02.25-17.42.26:210][  3]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.02.25-17.42.26:210][  3]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.02.25-17.42.26:210][  3]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.02.25-17.42.26:210][  3]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.02.25-17.42.26:210][  3]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.02.25-17.42.26:211][  3]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.02.25-17.42.26:217][  3]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.02.25-17.42.26:217][  3]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.02.25-17.42.26:217][  3]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.02.25-17.42.26:217][  3]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.02.25-17.42.26:217][  3]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.02.25-17.42.26:217][  3]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.02.25-17.42.26:217][  3]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.02.25-17.42.26:217][  3]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.02.25-17.42.26:217][  3]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.02.25-17.42.26:217][  3]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.02.25-17.42.26:218][  3]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.02.25-17.42.26:218][  3]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.02.25-17.42.26:218][  3]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.02.25-17.42.26:218][  3]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.02.25-17.42.26:218][  3]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.02.25-17.42.26:218][  3]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.02.25-17.42.26:218][  3]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.02.25-17.42.26:218][  3]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.02.25-17.42.26:218][  3]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.02.25-17.42.26:218][  3]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.02.25-17.42.26:219][  3]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.02.25-17.42.26:255][  3]LogDerivedDataCache: Shutdown
+[2019.02.25-17.42.26:255][  3]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.02.25-17.42.26:255][  3]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.02.25-17.42.26:255][  3]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.02.25-17.42.26:255][  3]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.02.25-17.42.26:255][  3]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.02.25-17.42.26:255][  3]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.02.25-17.42.26:255][  3]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.02.25-17.42.26:255][  3]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.02.25-17.42.26:255][  3]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.02.25-17.42.26:256][  3]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.02.25-17.42.26:256][  3]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.02.25-17.42.26:256][  3]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.02.25-17.42.26:256][  3]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.02.25-17.42.26:256][  3]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.02.25-17.42.26:256][  3]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.02.25-17.42.26:256][  3]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.02.25-17.42.26:256][  3]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.02.25-17.42.26:256][  3]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.02.25-17.42.26:256][  3]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.02.25-17.42.26:256][  3]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.02.25-17.42.26:256][  3]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.02.25-17.42.26:256][  3]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.02.25-17.42.26:256][  3]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.02.25-17.42.26:257][  3]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.02.25-17.42.26:257][  3]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.02.25-17.42.26:257][  3]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.02.25-17.42.26:257][  3]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.02.25-17.42.26:261][  3]LogHMD: Freeing OpenVRDLLHandle.
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.02.25-17.42.26:261][  3]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.02.25-17.42.26:262][  3]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.02.25-17.42.26:262][  3]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.02.25-17.42.26:262][  3]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.02.25-17.42.26:262][  3]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.02.25-17.42.26:271][  3]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.02.25-17.42.26:271][  3]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.02.25-17.42.26:271][  3]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E0B6352-4DB6-796C-BC7C-DAACA6F5E18C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=301ccc3a499951ccf5ff31bbf428bc35%7C487a6db36f3a4bbdbb49717d492c6bd6%7C814d0307-5cfb-436b-b9a6-7892bfaf14fd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.02.25-17.42.26:298][  3]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.02.25-17.42.26:299][  3]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.02.25-17.42.26:299][  3]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.02.25-17.42.26:299][  3]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.02.25-17.42.26:299][  3]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.02.25-17.42.26:299][  3]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.02.25-17.42.26:299][  3]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.02.25-17.42.26:299][  3]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.02.25-17.42.26:299][  3]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.02.25-17.42.26:299][  3]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.02.25-17.42.26:299][  3]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.02.25-17.42.26:299][  3]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.02.25-17.42.26:299][  3]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.02.25-17.42.26:300][  3]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.02.25-17.42.26:312][  3]LogExit: Exiting.
+[2019.02.25-17.42.26:324][  3]Log file closed, 02/25/19 11:42:26
