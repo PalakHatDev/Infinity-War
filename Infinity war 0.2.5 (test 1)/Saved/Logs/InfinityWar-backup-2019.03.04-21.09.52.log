@@ -1,0 +1,1638 @@
+﻿Log file open, 03/04/19 14:33:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InfinityWar
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.405340
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SaveExtension
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.082s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: K:/Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.04-20.33.26:014][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.03.04-20.33.26:015][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.04-20.33.26:015][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.03.04-20.33.26:015][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.03.04-20.33.26:019][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.04-20.33.26:019][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.04-20.33.26:020][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.04-20.33.26:020][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.04-20.33.26:020][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.04-20.33.26:041][  0]LogHAL: Display: Platform has ~ 16 GB [17125621760 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.04-20.33.26:041][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.04-20.33.26:041][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.04-20.33.26:041][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.04-20.33.26:042][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.04-20.33.26:042][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.03.04-20.33.26:042][  0]LogInit: Computer: CHROME-OS
+[2019.03.04-20.33.26:042][  0]LogInit: User: JyrellAthanGo
+[2019.03.04-20.33.26:042][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.03.04-20.33.26:042][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.04-20.33.26:042][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.03.04-20.33.26:042][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.04-20.33.26:042][  0]LogMemory: Process Physical Memory: 106.18 MB used, 106.19 MB peak
+[2019.03.04-20.33.26:042][  0]LogMemory: Process Virtual Memory: 100.50 MB used, 100.50 MB peak
+[2019.03.04-20.33.26:042][  0]LogMemory: Physical Memory: 5189.43 MB used,  11142.84 MB free, 16332.27 MB total
+[2019.03.04-20.33.26:042][  0]LogMemory: Virtual Memory: 4676.73 MB used,  134213048.00 MB free, 134217728.00 MB total
+[2019.03.04-20.33.26:054][  0]LogInit: Using OS detected language (en-US).
+[2019.03.04-20.33.26:055][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.04-20.33.26:055][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.04-20.33.26:444][  0]LogStreaming: Display: Took  0.389s to InitEngineTextLocalization.
+[2019.03.04-20.33.26:444][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.04-20.33.26:480][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.04-20.33.26:480][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.04-20.33.26:662][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.04-20.33.26:662][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.04-20.33.26:733][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2019.03.04-20.33.26:733][  0]LogD3D11RHI:       8080/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.03.04-20.33.26:735][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.04-20.33.26:735][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.04-20.33.26:735][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.04-20.33.26:745][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.04-20.33.26:745][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.04-20.33.26:745][  0]LogWindows: EnumDisplayDevices:
+[2019.03.04-20.33.26:745][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2019.03.04-20.33.26:746][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:1)
+[2019.03.04-20.33.26:746][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2019.03.04-20.33.26:746][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2019.03.04-20.33.26:746][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.03.04-20.33.26:746][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2019.03.04-20.33.26:746][  0]LogD3D11RHI:   Driver Version: 417.01 (internal:25.21.14.1701, unified:417.01)
+[2019.03.04-20.33.26:746][  0]LogD3D11RHI:      Driver Date: 11-15-2018
+[2019.03.04-20.33.26:746][  0]LogRHI: Texture pool is 5656 MB (70% of 8080 MB)
+[2019.03.04-20.33.26:798][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.04-20.33.26:837][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.03.04-20.33.27:134][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.04-20.33.27:148][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.04-20.33.27:162][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.04-20.33.27:177][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.04-20.33.27:192][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.04-20.33.27:206][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.04-20.33.27:220][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.04-20.33.27:235][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.04-20.33.27:241][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:325][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.04-20.33.27:326][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.04-20.33.27:387][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.04-20.33.27:387][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.04-20.33.27:411][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.04-20.33.27:411][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.04-20.33.27:424][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.04-20.33.27:437][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.04-20.33.27:451][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.04-20.33.27:464][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.04-20.33.27:513][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.04-20.33.27:513][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.04-20.33.27:513][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.04-20.33.27:550][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Intermediate/Shaders/WorkingDirectory/10268/).
+[2019.03.04-20.33.27:550][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jyrell Athan Go/AppData/Local/Temp/UnrealShaderWorkingDir/9740BC7249EF6C906527E89BE53B4981/'.
+[2019.03.04-20.33.27:552][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.04-20.33.27:552][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.04-20.33.27:552][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.04-20.33.28:067][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.04-20.33.28:112][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Jyrell Athan Go/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.04-20.33.28:112][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jyrell Athan Go/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.04-20.33.28:112][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.04-20.33.28:112][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.04-20.33.28:112][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.04-20.33.28:112][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.04-20.33.28:126][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.04-20.33.28:126][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.04-20.33.28:126][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.04-20.33.28:138][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jyrell Athan Go/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.04-20.33.28:138][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.04-20.33.28:138][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.04-20.33.28:161][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.04-20.33.28:162][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.04-20.33.28:163][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.04-20.33.28:247][  0]LogAssetRegistry: FAssetRegistry took 0.0346 seconds to start up
+[2019.03.04-20.33.28:595][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.04-20.33.28:657][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.04-20.33.28:659][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.04-20.33.28:659][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.04-20.33.28:659][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.04-20.33.28:659][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.04-20.33.28:755][  0]LogNetVersion: InfinityWar 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4053991763)
+[2019.03.04-20.33.29:260][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.112811 seconds
+[2019.03.04-20.33.29:268][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.04-20.33.29:268][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.03.04-20.33.29:268][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.04-20.33.30:137][  0]LogTemp: Warning: SaveExtension: Initializing Plugin.
+[2019.03.04-20.33.30:140][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.04-20.33.30:153][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.04-20.33.30:799][  0]SourceControl: Source control is disabled
+[2019.03.04-20.33.30:799][  0]SourceControl: Source control is disabled
+[2019.03.04-20.33.30:800][  0]SourceControl: Source control is disabled
+[2019.03.04-20.33.30:800][  0]SourceControl: Source control is disabled
+[2019.03.04-20.33.30:955][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.04-20.33.31:060][  0]LogOcInput: OculusInput pre-init called
+[2019.03.04-20.33.31:193][  0]LogEngine: Initializing Engine...
+[2019.03.04-20.33.31:194][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.04-20.33.31:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.04-20.33.31:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.04-20.33.31:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.04-20.33.31:195][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.04-20.33.31:412][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.04-20.33.31:425][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.04-20.33.31:459][  0]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-20.33.31:475][  0]LogInit: FAudioDevice initialized.
+[2019.03.04-20.33.31:476][  0]LogNetVersion: Set ProjectVersion to 0.1.9. Version Checksum will be recalculated on next use.
+[2019.03.04-20.33.31:556][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/Jyrell Athan Go/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.04-20.33.31:562][  0]LogInit: Texture streaming: Enabled
+[2019.03.04-20.33.31:576][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.04-20.33.31:587][  0]LogInit: Transaction tracking system initialized
+[2019.03.04-20.33.31:601][  0]BlueprintLog: New page: Editor Load
+[2019.03.04-20.33.31:655][  0]LocalizationService: Localization service is disabled
+[2019.03.04-20.33.32:084][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.04-20.33.32:084][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.04-20.33.32:084][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.04-20.33.32:084][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.04-20.33.32:084][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.04-20.33.32:084][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.04-20.33.32:084][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.04-20.33.32:221][  0]LogFileCache: Scanning file cache for directory 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/' took 0.03s
+[2019.03.04-20.33.32:221][  0]SourceControl: Source control is disabled
+[2019.03.04-20.33.32:221][  0]Cmd: MAP LOAD FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/GameLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.04-20.33.32:221][  0]LightingResults: New page: Lighting Build
+[2019.03.04-20.33.32:223][  0]MapCheck: New page: Map Check
+[2019.03.04-20.33.32:223][  0]LightingResults: New page: Lighting Build
+[2019.03.04-20.33.32:670][  0]LogBlueprint: Warning: [Compiler RomanisaLight] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.04-20.33.32:670][  0]LogBlueprint: Warning: [Compiler RomanisaLight] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.04-20.33.32:671][  0]LogBlueprint: Warning: [Compiler RomanisaLight] [0008.47] Compile of RomanisaLight successful, but with 2 Warning(s) [in 3 ms] (/Game/Infinitywar/Blueprints/Character/3dGameplay/Interactables/RomanisaLight.RomanisaLight)
+[2019.03.04-20.33.32:738][  0]LogBlueprint: Warning: [Compiler RomanIsaTrigger] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.04-20.33.32:738][  0]LogBlueprint: Warning: [Compiler RomanIsaTrigger] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.04-20.33.32:740][  0]LogBlueprint: Warning: [Compiler RomanIsaTrigger] [0008.53] Compile of RomanIsaTrigger successful, but with 2 Warning(s) [in 3 ms] (/Game/Infinitywar/Blueprints/Character/3dGameplay/Interactables/RomanIsaTrigger.RomanIsaTrigger)
+[2019.03.04-20.33.32:829][  0]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "NotCaveTime?" in 'Transferer_C'.
+Make sure 'Transferer_C' has been compiled for  Get NotCaveTime?
+[2019.03.04-20.33.32:830][  0]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "CaveTime?" in 'Transferer_C'.
+Make sure 'Transferer_C' has been compiled for  Get CaveTime?
+[2019.03.04-20.33.32:830][  0]LogBlueprint: Warning: [Compiler Character] Could not find a variable named "2dTrue?" in 'Transferer_C'.
+Make sure 'Transferer_C' has been compiled for  Get 2dTrue?
+[2019.03.04-20.33.32:831][  0]LogBlueprint: Error: [Compiler Character] The property associated with  2d True?  could not be found in '/Game/Infinitywar/Blueprints/Character/Map_Assets/Character.Character_C'
+[2019.03.04-20.33.32:831][  0]LogBlueprint: Error: [Compiler Character] The property associated with  Not Cave Time?  could not be found in '/Game/Infinitywar/Blueprints/Character/Map_Assets/Character.Character_C'
+[2019.03.04-20.33.32:831][  0]LogBlueprint: Error: [Compiler Character] The property associated with  Cave Time?  could not be found in '/Game/Infinitywar/Blueprints/Character/Map_Assets/Character.Character_C'
+[2019.03.04-20.33.32:834][  0]LogBlueprint: Warning: [Compiler Character] [0008.63] Compile of Character failed. 3 Fatal Issue(s) 3 Warning(s) [in 9 ms] (/Game/Infinitywar/Blueprints/Character/Map_Assets/Character.Character)
+[2019.03.04-20.33.32:859][  0]LogBlueprint: Warning: [Compiler LocationTest] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.04-20.33.32:861][  0]LogBlueprint: Warning: [Compiler LocationTest] [0008.66] Compile of LocationTest successful, but with 1 Warning(s) [in 4 ms] (/Game/Infinitywar/Blueprints/Character/Map_Assets/LocationTest.LocationTest)
+[2019.03.04-20.33.32:929][  0]LogBlueprint: Warning: [Compiler Smith] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.04-20.33.32:929][  0]LogBlueprint: Warning: [Compiler Smith] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.04-20.33.32:929][  0]LogBlueprint: Warning: [Compiler Smith] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.04-20.33.32:929][  0]LogBlueprint: Warning: [Compiler Smith] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.04-20.33.32:932][  0]LogBlueprint: Warning: [Compiler Smith] [0008.73] Compile of Smith successful, but with 4 Warning(s) [in 7 ms] (/Game/Infinitywar/Blueprints/Character/Map_Assets/Smith.Smith)
+[2019.03.04-20.33.34:174][  0]LogAIModule: Creating AISystem for world GameLevel
+[2019.03.04-20.33.34:192][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.04-20.33.34:227][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.04-20.33.34:227][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2019.03.04-20.33.34:227][  0]LogFileHelpers: Loading map 'GameLevel' took 2.005
+[2019.03.04-20.33.34:415][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.33.34:423][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.33.34:431][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.33.34:438][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.33.34:448][  0]LogCollectionManager: Loaded 0 collections in 0.001693 seconds
+[2019.03.04-20.33.34:475][  0]LogFileCache: Scanning file cache for directory 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Collections/' took 0.01s
+[2019.03.04-20.33.34:476][  0]LogFileCache: Scanning file cache for directory 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Developers/JyrellAthanGo/Collections/' took 0.01s
+[2019.03.04-20.33.34:476][  0]LogFileCache: Scanning file cache for directory 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Collections/' took 0.00s
+[2019.03.04-20.33.34:476][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.04-20.33.34:486][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2666 classes and 627 folders.
+[2019.03.04-20.33.34:490][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.04-20.33.34:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:613][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:618][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:623][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:628][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:636][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:653][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:663][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:672][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:678][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:717][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:809][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:817][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:824][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:831][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.34:845][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.04-20.33.35:409][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.04-20.33.35:445][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.03.04-20.33.35:475][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.04-20.33.35:477][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.04-20.33.35:494][  0]LogSlate: Took 0.011601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.04-20.33.35:728][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2019.03.04-20.33.35:886][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.04-20.33.35:886][  0]LogLoad: (Engine Initialization) Total time: 11.68 seconds
+[2019.03.04-20.33.35:886][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.04-20.33.35:962][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.04-20.33.36:023][  0]LogSlate: Took 0.015203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.04-20.33.36:221][  4]LogAssetRegistry: Asset discovery search completed in 7.9966 seconds
+[2019.03.04-20.33.36:223][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.04-20.33.36:223][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2019.03.04-20.33.45:889][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.34.05:609][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.34.05:692][530]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-20.34.05:719][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Infinitywar/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2019.03.04-20.34.05:719][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.04-20.34.10:009][530]LogSlate: Window 'Message' being destroyed
+[2019.03.04-20.34.11:511][710]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-20.34.11:538][710]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Infinitywar/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2019.03.04-20.34.11:538][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.04-20.34.12:706][710]LogSlate: Window 'Message' being destroyed
+[2019.03.04-20.34.12:709][710]PIE: New page: PIE session: GameLevel (Mar 4, 2019, 8:34:12 AM)
+[2019.03.04-20.34.12:722][710]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_GameLevel
+[2019.03.04-20.34.12:731][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009092s)
+[2019.03.04-20.34.12:732][710]LogAIModule: Creating AISystem for world GameLevel
+[2019.03.04-20.34.12:732][710]LogPlayLevel: PIE: World Init took: (0.000617s)
+[2019.03.04-20.34.12:732][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/GameLevel.GameLevel to /Game/Infinitywar/Maps/UEDPIE_0_GameLevel.GameLevel (0.009930s)
+[2019.03.04-20.34.12:791][710]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-20.34.12:801][710]LogInit: FAudioDevice initialized.
+[2019.03.04-20.34.12:851][710]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-20.34.12:861][710]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2019.03.04-14.34.12
+[2019.03.04-20.34.12:864][710]LogWorld: Bringing up level for play took: 0.010073
+[2019.03.04-20.34.12:877][710]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-20.34.12:883][710]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 20 classes and 0 folders.
+[2019.03.04-20.34.12:884][710]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-20.34.12:884][710]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-20.34.12:884][710]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-20.34.12:886][710]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-20.34.12:887][710]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_GameLevel 0.814
+[2019.03.04-20.34.12:887][710]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Infinitywar/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2019.03.04-20.34.12:910][711]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-20.34.12:910][711]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.098965 > MaxSimulationTimeStep (0.050) for 'EvilDave_5', movement 'Walking'
+[2019.03.04-20.34.14:727][926]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Infinitywar/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2019.03.04-20.34.14:728][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.34.14:764][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-20.34.14:764][926]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel' with GeneratedClass '/Game/Infinitywar/Maps/GameLevel.GameLevel_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/GameLevel.GameLevel:PersistentLevel.GameLevel'
+[2019.03.04-20.34.14:797][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.34.14:831][928]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.03.04-20.34.15:509][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.34.15:617][ 22]MapCheck: New page: Map Check
+[2019.03.04-20.34.15:628][ 22]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.04-20.34.15:628][ 22]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.04-20.34.15:710][ 22]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.03.04-20.34.15:721][ 22]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy RampMaterial, compiling. 
+[2019.03.04-20.34.15:728][ 22]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.04-20.34.15:728][ 22]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.04-20.34.15:728][ 22]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2019.03.04-20.34.15:736][ 22]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.03.04-20.34.15:743][ 22]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Brick_Clay_New, compiling. 
+[2019.03.04-20.34.15:751][ 22]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Panel, compiling. 
+[2019.03.04-20.34.15:758][ 22]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2019.03.04-20.34.15:765][ 22]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaskedUnlitSpriteMaterial, compiling. 
+[2019.03.04-20.34.15:773][ 22]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Ocean, compiling. 
+[2019.03.04-20.34.15:792][ 22]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightStage_Skybox_Black, compiling. 
+[2019.03.04-20.34.15:806][ 22]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.04-20.34.15:806][ 22]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.04-20.34.15:806][ 22]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.04-20.34.15:806][ 22]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.04-20.34.15:806][ 22]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.04-20.34.15:806][ 22]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.04-20.34.15:806][ 22]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Poured, compiling. 
+[2019.03.04-20.34.15:815][ 22]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Soldier_body1, compiling. 
+[2019.03.04-20.34.15:822][ 22]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Soldier_head6, compiling. 
+[2019.03.04-20.34.15:829][ 22]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.03.04-20.34.16:942][ 22]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.04-20.34.16:942][ 22]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.04-20.34.16:942][ 22]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.04-20.34.16:942][ 22]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.04-20.34.16:942][ 22]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.04-20.34.16:943][ 22]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.04-20.34.16:943][ 22]TextureStreamingBuild: Display: Compiling optional shaders took 1.238 seconds.
+[2019.03.04-20.34.17:004][ 22]LogLevel: Display: Export Material TexCoord Scales took 0.062 seconds.
+[2019.03.04-20.34.17:023][ 22]TextureStreamingBuild: Display: Build Texture Streaming took 0.019 seconds.
+[2019.03.04-20.34.17:055][ 22]LightingResults: New page: Lighting Build - Mar 4, 2019, 8:34:17 AM
+[2019.03.04-20.34.17:180][ 22]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.04-20.34.17:394][ 22]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.04-20.34.17:416][ 22]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.04-20.34.18:432][ 22]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.04-20.34.18:433][ 22]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10268
+[2019.03.04-20.34.20:761][ 22]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.04-20.34.20:762][ 22]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.04-20.34.20:762][ 22]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.04-20.34.20:762][ 22]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.04-20.34.20:762][ 22]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.04-20.34.20:926][ 22]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.04-20.34.20:926][ 22]MapCheck: New page: GameLevel - Mar 4, 2019, 8:34:20 AM
+[2019.03.04-20.34.20:929][ 22]MapCheck: Warning: Smith_4 'Blacksmith_3_0_Sprite_0' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2019.03.04-20.34.20:929][ 22]MapCheck: Warning: Smith_4 'Blacksmith_3_0_Sprite_1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2019.03.04-20.34.20:929][ 22]MapCheck: Warning: EvilDave_5 'Custom_Edited_-_Kye_Customs_-_Extended_Sheet_1__Sprite_874' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2019.03.04-20.34.20:930][ 22]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 3.503ms to complete.
+[2019.03.04-20.34.20:954][ 22]LogEditorBuildUtils: Build time 0:05
+[2019.03.04-20.34.23:352][165]Job is a success!
+[2019.03.04-20.34.23:368][167]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.04-20.34.23:370][167]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.04-20.34.23:400][167]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2019.03.04-20.34.23:400][167]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.04-20.34.23:400][167]LogVolumetricLightmapImport:      BrickData 65x5x5 = 0.1Mb
+[2019.03.04-20.34.23:400][167]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.04-20.34.23:400][167]LogVolumetricLightmapImport:          0: 7.7% covering 100.0% of volume
+[2019.03.04-20.34.23:400][167]LogVolumetricLightmapImport:          1: 30.8% covering 6.3% of volume
+[2019.03.04-20.34.23:400][167]LogVolumetricLightmapImport:          2: 61.5% covering 0.2% of volume
+[2019.03.04-20.34.23:514][167]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2019.03.04-20.34.23:514][167]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2019.03.04-20.34.23:514][167]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.03.04-20.34.23:514][167]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.03.04-20.34.23:514][167]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2019.03.04-20.34.23:514][167]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2019.03.04-20.34.23:514][167]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.03.04-20.34.23:514][167]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X128)
+[2019.03.04-20.34.23:541][167]Lightmass on CHROME-OS: 1.60 sec total, 220 ms importing, 26 ms setup, 699 ms photons, 632 ms processing, 0 ms extra exporting [19/19 mappings]. Threads: 6.45 sec total, 1.19 sec processing.
+[2019.03.04-20.34.23:583][167]LogStaticLightingSystem: Illumination: 6.51 sec (63 ms encoding lightmaps, 31 ms encoding shadowmaps)
+[2019.03.04-20.34.23:583][167]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.03.04-20.34.23:583][167]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.03.04-20.34.23:768][167]DumpUnbuiltLightIteractions
+[2019.03.04-20.34.23:768][167]Lights with unbuilt interactions: 0
+[2019.03.04-20.34.23:768][167]
+[2019.03.04-20.34.23:768][167]Primitives with unbuilt interactions: 0
+[2019.03.04-20.34.23:772][167]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.04-20.34.23:841][168]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.04-20.34.23:841][168]MapCheck: New page: GameLevel - Mar 4, 2019, 8:34:23 AM
+[2019.03.04-20.34.23:842][168]MapCheck: Warning: Smith_4 'Blacksmith_3_0_Sprite_0' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2019.03.04-20.34.23:843][168]MapCheck: Warning: Smith_4 'Blacksmith_3_0_Sprite_1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2019.03.04-20.34.23:843][168]MapCheck: Warning: EvilDave_5 'Custom_Edited_-_Kye_Customs_-_Extended_Sheet_1__Sprite_874' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2019.03.04-20.34.23:843][168]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 1.583ms to complete.
+[2019.03.04-20.34.23:954][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.34.29:243][805]LogBlueprint: Warning: [Compiler PersistentLevel.Tutorial_Area] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.34.29:243][805]LogBlueprint: Warning: [Compiler PersistentLevel.Tutorial_Area] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.34.29:245][805]LogBlueprint: Warning: [Compiler PersistentLevel.Tutorial_Area] [0065.04] Compile of PersistentLevel.Tutorial_Area successful, but with 2 Warning(s) [in 8 ms] (/Game/Infinitywar/Maps/Tutorial_Area.Tutorial_Area:PersistentLevel.Tutorial_Area)
+[2019.03.04-20.34.29:280][805]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2019.03.04-20.34.29:280][805]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.03.04-20.34.29:280][805]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.03.04-20.34.29:280][805]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2019.03.04-20.34.29:280][805]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2019.03.04-20.34.29:280][805]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2019.03.04-20.34.29:316][805]LogAIModule: Creating AISystem for world Tutorial_Area
+[2019.03.04-20.34.29:322][805]LogAssetEditorManager: Opening Asset editor for World /Game/Infinitywar/Maps/Tutorial_Area.Tutorial_Area
+[2019.03.04-20.34.30:256][805]LogSlate: Window 'Save Content' being destroyed
+[2019.03.04-20.34.30:656][805]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/GameLevel67A1A7F94D1C63CD74080A94D6EE43E8.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/GameLevel.umap'
+[2019.03.04-20.34.30:735][805]LogFileHelpers: Saving map 'GameLevel' took 0.472
+[2019.03.04-20.34.30:736][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/GameLevel_BuiltData" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/GameLevel_BuiltData.uasset" SILENT=true
+[2019.03.04-20.34.30:813][805]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/GameLevel_BuiltDataFB3CE6E34676311325E34EA147AC5701.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/GameLevel_BuiltData.uasset'
+[2019.03.04-20.34.30:816][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/GameLevel_BuiltData" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/GameLevel_BuiltData.uasset" SILENT=true
+[2019.03.04-20.34.30:861][805]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/GameLevel_BuiltData4961CADD4A5C9BBEAD28F18831591E5C.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/GameLevel_BuiltData.uasset'
+[2019.03.04-20.34.30:862][805]Cmd: MAP LOAD FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Tutorial_Area.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.04-20.34.30:862][805]LightingResults: New page: Lighting Build
+[2019.03.04-20.34.30:863][805]LoadErrors: New page: Loading map: Tutorial_Area.umap
+[2019.03.04-20.34.30:864][805]MapCheck: New page: Map Check
+[2019.03.04-20.34.30:865][805]LightingResults: New page: Lighting Build
+[2019.03.04-20.34.30:906][805]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.04-20.34.30:988][805]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.04-20.34.30:988][805]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.097ms to complete.
+[2019.03.04-20.34.30:988][805]LogFileHelpers: Loading map 'Tutorial_Area' took 0.127
+[2019.03.04-20.34.31:111][805]LogAIModule: Creating AISystem for world GameLevel
+[2019.03.04-20.36.36:057][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.37.36:573][878]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.04-20.37.41:692][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.37.42:363][552]LogBlueprint: Warning: [Compiler PersistentLevel.House1] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.37.42:363][552]LogBlueprint: Warning: [Compiler PersistentLevel.House1] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.37.42:365][552]LogBlueprint: Warning: [Compiler PersistentLevel.House1] [0258.16] Compile of PersistentLevel.House1 successful, but with 2 Warning(s) [in 5 ms] (/Game/Infinitywar/Maps/House1.House1:PersistentLevel.House1)
+[2019.03.04-20.37.42:390][552]LogAIModule: Creating AISystem for world House1
+[2019.03.04-20.37.42:395][552]LogAssetEditorManager: Opening Asset editor for World /Game/Infinitywar/Maps/House1.House1
+[2019.03.04-20.37.43:693][552]LogSlate: Window 'Save Content' being destroyed
+[2019.03.04-20.37.43:699][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/NewWorld" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.04-20.37.43:741][552]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/NewWorldEB3567FA40398B1D9B7F6998B6445B31.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/NewWorld.umap'
+[2019.03.04-20.37.43:742][552]LogFileHelpers: Saving map 'NewWorld' took 0.044
+[2019.03.04-20.37.43:786][552]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Ruined_path_cutsceneD9A2837A4CB6C86417DCB69C209AB4D6.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Ruined_path_cutscene.umap'
+[2019.03.04-20.37.43:787][552]LogFileHelpers: Saving map 'Ruined_path_cutscene' took 0.045
+[2019.03.04-20.37.43:788][552]Cmd: MAP LOAD FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/House1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.04-20.37.43:788][552]LightingResults: New page: Lighting Build
+[2019.03.04-20.37.43:789][552]LoadErrors: New page: Loading map: House1.umap
+[2019.03.04-20.37.43:790][552]MapCheck: New page: Map Check
+[2019.03.04-20.37.43:790][552]LightingResults: New page: Lighting Build
+[2019.03.04-20.37.43:947][552]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.04-20.37.44:030][552]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.04-20.37.44:030][552]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2019.03.04-20.37.44:030][552]LogFileHelpers: Loading map 'House1' took 0.243
+[2019.03.04-20.37.47:560][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.37.49:824][220]LogAIModule: Creating AISystem for world Ruined_path_cutscene
+[2019.03.04-20.37.50:723][220]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.04-20.37.51:786][331]LogAIModule: Creating AISystem for world NewWorld
+[2019.03.04-20.37.52:821][331]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.04-20.37.55:693][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.04-20.37.57:058][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.04-20.38.19:400][811]LogSlate: Window 'Save Asset As' being destroyed
+[2019.03.04-20.38.19:403][811]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2019.03.04-20.38.19:434][811]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Infinitywar/Cutscenes/Rise.Rise
+[2019.03.04-20.38.22:376][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.38.24:022][330]LogBlueprint: Warning: [Compiler PersistentLevel.Tutorial_Area] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.38.24:022][330]LogBlueprint: Warning: [Compiler PersistentLevel.Tutorial_Area] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.38.24:024][330]LogBlueprint: Warning: [Compiler PersistentLevel.Tutorial_Area] [0299.82] Compile of PersistentLevel.Tutorial_Area successful, but with 2 Warning(s) [in 7 ms] (/Game/Infinitywar/Maps/Tutorial_Area.Tutorial_Area:PersistentLevel.Tutorial_Area)
+[2019.03.04-20.38.24:045][330]LogAIModule: Creating AISystem for world Tutorial_Area
+[2019.03.04-20.38.24:201][330]LogBlueprint: Warning: [Compiler PersistentLevel.Tutorial_Area_2] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.38.24:201][330]LogBlueprint: Warning: [Compiler PersistentLevel.Tutorial_Area_2] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.38.24:203][330]LogBlueprint: Warning: [Compiler PersistentLevel.Tutorial_Area_2] [0300.00] Compile of PersistentLevel.Tutorial_Area_2 successful, but with 2 Warning(s) [in 8 ms] (/Game/Infinitywar/Maps/Tutorial_Area_2.Tutorial_Area_2:PersistentLevel.Tutorial_Area_2)
+[2019.03.04-20.38.24:258][330]LogBlueprint: Warning: [Compiler PersistentLevel.Tutorial_Area_2] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.38.24:258][330]LogBlueprint: Warning: [Compiler PersistentLevel.Tutorial_Area_2] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.38.24:260][330]LogBlueprint: Warning: [Compiler PersistentLevel.Tutorial_Area_2] [0300.05] Compile of PersistentLevel.Tutorial_Area_2 successful, but with 2 Warning(s) [in 17 ms] (/Game/Infinitywar/Maps/Tutorial_Area_2.Tutorial_Area_2:PersistentLevel.Tutorial_Area_2)
+[2019.03.04-20.38.24:373][330]LogAIModule: Creating AISystem for world Tutorial_Area_2
+[2019.03.04-20.38.39:300][ 88]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.38.39:300][ 88]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.38.39:302][ 88]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] [0315.10] Compile of PersistentLevel.Missos successful, but with 2 Warning(s) [in 17 ms] (/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos)
+[2019.03.04-20.38.39:433][ 88]LogMetaData: Removing '/Game/Infinitywar/Maps/Missos.SKEL_Missos_C' ref from Metadata '/Game/Infinitywar/Maps/Tutorial_Area_2.PackageMetaData'
+[2019.03.04-20.38.39:433][ 88]LogMetaData: Removing '/Game/Infinitywar/Maps/Missos.Missos_C' ref from Metadata '/Game/Infinitywar/Maps/Tutorial_Area_2.PackageMetaData'
+[2019.03.04-20.38.39:453][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Missos_BuiltData" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos_BuiltData.uasset" SILENT=true
+[2019.03.04-20.38.39:484][ 88]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Missos_BuiltData6BF6AE974683E14373964192291E1C51.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos_BuiltData.uasset'
+[2019.03.04-20.38.39:488][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Missos" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.04-20.38.39:553][ 88]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.38.39:553][ 88]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.38.39:555][ 88]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] [0315.35] Compile of PersistentLevel.Missos successful, but with 2 Warning(s) [in 18 ms] (/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos)
+[2019.03.04-20.38.39:754][ 88]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Missos9012748F4510578491FC02B8829F3B1D.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos.umap'
+[2019.03.04-20.38.39:767][ 88]LogFileHelpers: Saving map 'Missos' took 0.279
+[2019.03.04-20.39.00:595][467]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.39.00:595][467]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.39.00:597][467]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos] [0336.39] Compile of PersistentLevel.Ruined_Missos successful, but with 2 Warning(s) [in 17 ms] (/Game/Infinitywar/Maps/Ruined_Missos.Ruined_Missos:PersistentLevel.Ruined_Missos)
+[2019.03.04-20.39.00:727][467]LogMetaData: Removing '/Game/Infinitywar/Maps/Ruined_Missos.Ruined_Missos_C' ref from Metadata '/Game/Infinitywar/Maps/Tutorial_Area.PackageMetaData'
+[2019.03.04-20.39.00:727][467]LogMetaData: Removing '/Game/Infinitywar/Maps/Ruined_Missos.SKEL_Ruined_Missos_C' ref from Metadata '/Game/Infinitywar/Maps/Tutorial_Area.PackageMetaData'
+[2019.03.04-20.39.00:741][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Ruined_Missos_BuiltData" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Ruined_Missos_BuiltData.uasset" SILENT=true
+[2019.03.04-20.39.00:773][467]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Ruined_Missos_BuiltDataA97851D14F20A47476AE33A46DE4A14B.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Ruined_Missos_BuiltData.uasset'
+[2019.03.04-20.39.00:843][467]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.39.00:843][467]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.39.00:845][467]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos] [0336.64] Compile of PersistentLevel.Ruined_Missos successful, but with 2 Warning(s) [in 19 ms] (/Game/Infinitywar/Maps/Ruined_Missos.Ruined_Missos:PersistentLevel.Ruined_Missos)
+[2019.03.04-20.39.01:056][467]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Ruined_Missos401C05EA4B935B5A0D8F138E2148619F.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Ruined_Missos.umap'
+[2019.03.04-20.39.01:065][467]LogFileHelpers: Saving map 'Ruined_Missos' took 0.287
+[2019.03.04-20.39.13:630][748]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.04-20.39.15:256][920]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos_2] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.39.15:256][920]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos_2] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.39.15:258][920]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos_2] [0351.05] Compile of PersistentLevel.Ruined_Missos_2 successful, but with 2 Warning(s) [in 8 ms] (/Game/Infinitywar/Maps/Ruined_Missos_2.Ruined_Missos_2:PersistentLevel.Ruined_Missos_2)
+[2019.03.04-20.39.15:316][920]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos_2] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.39.15:316][920]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos_2] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.39.15:318][920]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos_2] [0351.11] Compile of PersistentLevel.Ruined_Missos_2 successful, but with 2 Warning(s) [in 20 ms] (/Game/Infinitywar/Maps/Ruined_Missos_2.Ruined_Missos_2:PersistentLevel.Ruined_Missos_2)
+[2019.03.04-20.39.15:435][920]LogAIModule: Creating AISystem for world Ruined_Missos_2
+[2019.03.04-20.39.40:341][872]LogBlueprint: Warning: [Compiler PersistentLevel.Archi] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.39.40:341][872]LogBlueprint: Warning: [Compiler PersistentLevel.Archi] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.39.40:343][872]LogBlueprint: Warning: [Compiler PersistentLevel.Archi] [0376.14] Compile of PersistentLevel.Archi successful, but with 2 Warning(s) [in 17 ms] (/Game/Infinitywar/Maps/Archi.Archi:PersistentLevel.Archi)
+[2019.03.04-20.39.40:475][872]LogMetaData: Removing '/Game/Infinitywar/Maps/Archi.SKEL_Archi_C' ref from Metadata '/Game/Infinitywar/Maps/Ruined_Missos_2.PackageMetaData'
+[2019.03.04-20.39.40:475][872]LogMetaData: Removing '/Game/Infinitywar/Maps/Archi.Archi_C' ref from Metadata '/Game/Infinitywar/Maps/Ruined_Missos_2.PackageMetaData'
+[2019.03.04-20.39.40:492][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Archi_BuiltData" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Archi_BuiltData.uasset" SILENT=true
+[2019.03.04-20.39.40:528][872]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Archi_BuiltDataBD9786D242D3961DE399D68C4054D2C8.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Archi_BuiltData.uasset'
+[2019.03.04-20.39.40:532][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Archi" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Archi.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.04-20.39.40:599][872]LogBlueprint: Warning: [Compiler PersistentLevel.Archi] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.39.40:599][872]LogBlueprint: Warning: [Compiler PersistentLevel.Archi] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.39.40:601][872]LogBlueprint: Warning: [Compiler PersistentLevel.Archi] [0376.39] Compile of PersistentLevel.Archi successful, but with 2 Warning(s) [in 19 ms] (/Game/Infinitywar/Maps/Archi.Archi:PersistentLevel.Archi)
+[2019.03.04-20.39.40:808][872]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Archi998F181D485490743B7AA1ADE165A3C9.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Archi.umap'
+[2019.03.04-20.39.40:823][872]LogFileHelpers: Saving map 'Archi' took 0.291
+[2019.03.04-20.40.12:907][604]LogSlate: Took 0.029144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.04-20.40.16:603][ 21]LogAIModule: Creating AISystem for world Tenybris_2
+[2019.03.04-20.40.53:780][409]LogMetaData: Removing '/Game/Infinitywar/Maps/Artis_Mea.SKEL_Artis_Mea_C' ref from Metadata '/Game/Infinitywar/Maps/Tenybris_2.PackageMetaData'
+[2019.03.04-20.40.53:780][409]LogMetaData: Removing '/Game/Infinitywar/Maps/Artis_Mea.Artis_Mea_C' ref from Metadata '/Game/Infinitywar/Maps/Tenybris_2.PackageMetaData'
+[2019.03.04-20.40.53:924][409]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Artis_Mea96656EF54375EA2D8DF945B1D6417E1D.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Artis_Mea.umap'
+[2019.03.04-20.40.53:930][409]LogFileHelpers: Saving map 'Artis_Mea' took 0.133
+[2019.03.04-20.40.56:525][675]LogAIModule: Creating AISystem for world Artis_Mea_2
+[2019.03.04-20.41.12:500][535]LogMetaData: Removing '/Game/Infinitywar/Maps/Byra_Poli.SKEL_Byra_Poli_C' ref from Metadata '/Game/Infinitywar/Maps/Artis_Mea_2.PackageMetaData'
+[2019.03.04-20.41.12:500][535]LogMetaData: Removing '/Game/Infinitywar/Maps/Byra_Poli.Byra_Poli_C' ref from Metadata '/Game/Infinitywar/Maps/Artis_Mea_2.PackageMetaData'
+[2019.03.04-20.41.12:671][535]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Byra_Poli3DDEE88C472184B9BB610FA616B7ADEA.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Byra_Poli.umap'
+[2019.03.04-20.41.12:675][535]LogFileHelpers: Saving map 'Byra_Poli' took 0.158
+[2019.03.04-20.41.14:689][734]LogAIModule: Creating AISystem for world Tenybris_2
+[2019.03.04-20.41.23:459][735]LogMetaData: Removing '/Game/Infinitywar/Maps/Potami.SKEL_Potami_C' ref from Metadata '/Game/Infinitywar/Maps/Tenybris_2.PackageMetaData'
+[2019.03.04-20.41.23:459][735]LogMetaData: Removing '/Game/Infinitywar/Maps/Potami.Potami_C' ref from Metadata '/Game/Infinitywar/Maps/Tenybris_2.PackageMetaData'
+[2019.03.04-20.41.23:475][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Potami" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Potami.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.04-20.41.23:603][735]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/PotamiFB1BD22B46D7E1FCF57158891DF79724.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Potami.umap'
+[2019.03.04-20.41.23:607][735]LogFileHelpers: Saving map 'Potami' took 0.133
+[2019.03.04-20.41.40:141][664]LogAIModule: Creating AISystem for world Potami_2
+[2019.03.04-20.41.44:779][ 61]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.04-20.41.56:240][398]LogMetaData: Removing '/Game/Infinitywar/Maps/Tenebris_Ravine.SKEL_Tenebris_Ravine_C' ref from Metadata '/Game/Infinitywar/Maps/Tenybris.PackageMetaData'
+[2019.03.04-20.41.56:240][398]LogMetaData: Removing '/Game/Infinitywar/Maps/Tenebris_Ravine.Tenebris_Ravine_C' ref from Metadata '/Game/Infinitywar/Maps/Tenybris.PackageMetaData'
+[2019.03.04-20.41.56:240][398]LogMetaData: Removing '/Game/Infinitywar/Maps/Tenebris_Ravine.Tenebris_Ravine:PersistentLevel.Tenebris_Ravine.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Infinitywar/Maps/Tenybris.PackageMetaData'
+[2019.03.04-20.41.56:240][398]LogMetaData: Removing '/Game/Infinitywar/Maps/Tenebris_Ravine.Tenebris_Ravine:PersistentLevel.Tenebris_Ravine.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Infinitywar/Maps/Tenybris.PackageMetaData'
+[2019.03.04-20.41.56:392][398]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Tenebris_Ravine6733DD034FF948BAE096F5B6753539EA.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Tenebris_Ravine.umap'
+[2019.03.04-20.41.56:395][398]LogFileHelpers: Saving map 'Tenebris_Ravine' took 0.140
+[2019.03.04-20.41.58:667][622]LogAIModule: Creating AISystem for world Tenebris_Ravine_2
+[2019.03.04-20.42.01:446][943]LogAssetEditorManager: Opening Asset editor for World /Game/Infinitywar/Maps/Tenebris_Ravine_2.Tenebris_Ravine_2
+[2019.03.04-20.42.03:471][943]LogSlate: Window 'Save Content' being destroyed
+[2019.03.04-20.42.12:218][935]LogMetaData: Removing '/Game/Infinitywar/Maps/Katafygio.SKEL_Katafygio_C' ref from Metadata '/Game/Infinitywar/Maps/Tenebris_Ravine_2.PackageMetaData'
+[2019.03.04-20.42.12:218][935]LogMetaData: Removing '/Game/Infinitywar/Maps/Katafygio.Katafygio_C' ref from Metadata '/Game/Infinitywar/Maps/Tenebris_Ravine_2.PackageMetaData'
+[2019.03.04-20.42.12:370][935]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Katafygio48EA47844958805A9447E8A856D94D2A.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Katafygio.umap'
+[2019.03.04-20.42.12:374][935]LogFileHelpers: Saving map 'Katafygio' took 0.139
+[2019.03.04-20.42.54:867][808]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-20.42.54:893][808]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/House1.House1:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/House1.House1:PersistentLevel.House1' with GeneratedClass '/Game/Infinitywar/Maps/House1.House1_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/House1.House1:PersistentLevel.House1'
+[2019.03.04-20.42.54:894][808]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.04-20.42.54:900][808]LogPlayLevel: [PlayLevel] Compiling House1 before play...
+[2019.03.04-20.42.54:909][808]LogBlueprint: Warning: [Compiler PersistentLevel.House1] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.42.54:909][808]LogBlueprint: Warning: [Compiler PersistentLevel.House1] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.42.54:910][808]LogBlueprint: Warning: [Compiler PersistentLevel.House1] [0570.70] Compile of PersistentLevel.House1 successful, but with 2 Warning(s) [in 10 ms] (/Game/Infinitywar/Maps/House1.House1:PersistentLevel.House1)
+[2019.03.04-20.42.55:027][808]LogPlayLevel: PlayLevel: Blueprint regeneration took 132 ms (1 blueprints)
+[2019.03.04-20.42.55:027][808]PIE: New page: PIE session: House1 (Mar 4, 2019, 8:42:55 AM)
+[2019.03.04-20.42.55:033][808]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_House1
+[2019.03.04-20.42.55:046][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012144s)
+[2019.03.04-20.42.55:046][808]LogAIModule: Creating AISystem for world House1
+[2019.03.04-20.42.55:046][808]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2019.03.04-20.42.55:046][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/House1.House1 to /Game/Infinitywar/Maps/UEDPIE_0_House1.House1 (0.012984s)
+[2019.03.04-20.42.55:104][808]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-20.42.55:120][808]LogInit: FAudioDevice initialized.
+[2019.03.04-20.42.55:155][808]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-20.42.55:158][808]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_House1.House1 up for play (max tick rate 0) at 2019.03.04-14.42.55
+[2019.03.04-20.42.55:159][808]LogWorld: Bringing up level for play took: 0.003120
+[2019.03.04-20.42.55:171][808]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-20.42.55:171][808]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-20.42.55:171][808]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-20.42.55:171][808]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-20.42.55:172][808]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-20.42.55:172][808]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_House1 1.1
+[2019.03.04-20.42.55:172][808]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/House1.House1:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/House1.House1:PersistentLevel.House1' with GeneratedClass '/Game/Infinitywar/Maps/House1.House1_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/House1.House1:PersistentLevel.House1'
+[2019.03.04-20.42.58:652][221]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.03.04-20.42.58:653][221]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.03.04-20.42.58:653][221]LogNet: Browse: /Game/Infinitywar/Maps/GameLevel
+[2019.03.04-20.42.58:653][221]LogLoad: LoadMap: /Game/Infinitywar/Maps/GameLevel
+[2019.03.04-20.42.58:744][221]LogAIModule: Creating AISystem for world GameLevel
+[2019.03.04-20.42.58:744][221]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-20.42.58:764][221]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2019.03.04-14.42.58
+[2019.03.04-20.42.58:764][221]LogWorld: Bringing up level for play took: 0.019230
+[2019.03.04-20.42.58:765][221]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.04-20.42.58:765][221]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-20.42.58:765][221]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-20.42.58:765][221]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-20.42.58:765][221]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-20.42.58:767][221]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-20.42.58:768][221]LogLoad: Took 0.114879 seconds to LoadMap(/Game/Infinitywar/Maps/GameLevel)
+[2019.03.04-20.42.58:988][246]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-20.43.40:039][147]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/House1.House1:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/House1.House1:PersistentLevel.House1' with GeneratedClass '/Game/Infinitywar/Maps/House1.House1_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/House1.House1:PersistentLevel.House1'
+[2019.03.04-20.43.40:040][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.43.40:072][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-20.43.40:073][147]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/House1.House1:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/House1.House1:PersistentLevel.House1' with GeneratedClass '/Game/Infinitywar/Maps/House1.House1_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/House1.House1:PersistentLevel.House1'
+[2019.03.04-20.43.40:113][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.43.40:149][149]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.03.04-20.44.02:779][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.44.02:952][882]LogAssetEditorManager: Opening Asset editor for World /Game/Infinitywar/Maps/Missos.Missos
+[2019.03.04-20.44.04:086][882]LogSlate: Window 'Save Content' being destroyed
+[2019.03.04-20.44.04:092][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Cutscenes/Rise" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Cutscenes/Rise.uasset" SILENT=true
+[2019.03.04-20.44.04:099][882]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/RiseFD9D4D314804BD64E8ED57B46C7FBC83.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Cutscenes/Rise.uasset'
+[2019.03.04-20.44.04:100][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/House1" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/House1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.04-20.44.04:171][882]LogBlueprint: Warning: [Compiler PersistentLevel.House1] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.44.04:172][882]LogBlueprint: Warning: [Compiler PersistentLevel.House1] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.44.04:173][882]LogBlueprint: Warning: [Compiler PersistentLevel.House1] [0639.97] Compile of PersistentLevel.House1 successful, but with 2 Warning(s) [in 11 ms] (/Game/Infinitywar/Maps/House1.House1:PersistentLevel.House1)
+[2019.03.04-20.44.04:341][882]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/House176996DA84555812240A4BAA388FA0FF6.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/House1.umap'
+[2019.03.04-20.44.04:408][882]LogFileHelpers: Saving map 'House1' took 0.308
+[2019.03.04-20.44.04:411][882]Cmd: MAP LOAD FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.04-20.44.04:411][882]LightingResults: New page: Lighting Build
+[2019.03.04-20.44.04:414][882]LoadErrors: New page: Loading map: Missos.umap
+[2019.03.04-20.44.04:415][882]MapCheck: New page: Map Check
+[2019.03.04-20.44.04:415][882]LightingResults: New page: Lighting Build
+[2019.03.04-20.44.04:691][882]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.04-20.44.04:779][882]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.04-20.44.04:780][882]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2019.03.04-20.44.04:781][882]LogFileHelpers: Loading map 'Missos' took 0.370
+[2019.03.04-20.44.04:881][882]LogBlueprint: Warning: [Compiler PersistentLevel.House1] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.44.04:882][882]LogBlueprint: Warning: [Compiler PersistentLevel.House1] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.44.04:883][882]LogBlueprint: Warning: [Compiler PersistentLevel.House1] [0640.68] Compile of PersistentLevel.House1 successful, but with 2 Warning(s) [in 5 ms] (/Game/Infinitywar/Maps/House1.House1:PersistentLevel.House1)
+[2019.03.04-20.44.04:910][882]LogAIModule: Creating AISystem for world House1
+[2019.03.04-20.44.10:620][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.44.10:769][567]LogActorFactory: Actor Factory created Cylinder
+[2019.03.04-20.44.11:145][611]LogActorFactory: Actor Factory created Cylinder
+[2019.03.04-20.44.14:229][907]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.44.22:608][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.44.26:661][315]Cmd: EDIT COPY
+[2019.03.04-20.44.26:822][327]Cmd: EDIT PASTE
+[2019.03.04-20.44.32:228][936]Cmd: EDIT COPY
+[2019.03.04-20.44.32:399][956]Cmd: EDIT PASTE
+[2019.03.04-20.44.37:471][479]Cmd: EDIT COPY
+[2019.03.04-20.44.37:634][498]Cmd: EDIT PASTE
+[2019.03.04-20.45.10:383][372]Cmd: EDIT COPY
+[2019.03.04-20.45.10:581][387]Cmd: EDIT PASTE
+[2019.03.04-20.45.21:778][680]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Cave)
+[2019.03.04-20.45.23:589][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.45.31:792][822]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Cave)
+[2019.03.04-20.45.32:239][865]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Cave)
+[2019.03.04-20.45.44:174][199]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2019.03.04-20.46.00:349][ 79]LogEditorViewport: Clicking on Actor (LMB): Smith_C (Smith)
+[2019.03.04-20.46.03:196][342]LogEditorViewport: Clicking on Actor (LMB): destiantionboi_C (destiantionboi2)
+[2019.03.04-20.46.10:574][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2019.03.04-20.46.21:934][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.03.04-20.47.52:581][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2019.03.04-20.47.53:563][298]Cmd: EDIT COPY
+[2019.03.04-20.47.53:766][321]Cmd: EDIT PASTE
+[2019.03.04-20.48.06:671][757]Cmd: EDIT COPY
+[2019.03.04-20.48.06:826][774]Cmd: EDIT PASTE
+[2019.03.04-20.48.10:165][159]Cmd: EDIT COPY
+[2019.03.04-20.48.10:336][178]Cmd: EDIT PASTE
+[2019.03.04-20.48.31:993][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.03.04-20.49.00:083][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder7)
+[2019.03.04-20.49.00:713][ 77]Cmd: EDIT COPY
+[2019.03.04-20.49.00:878][ 95]Cmd: EDIT PASTE
+[2019.03.04-20.49.11:025][154]Cmd: EDIT COPY
+[2019.03.04-20.49.11:180][166]Cmd: EDIT PASTE
+[2019.03.04-20.49.15:200][615]Cmd: EDIT COPY
+[2019.03.04-20.49.15:371][630]Cmd: EDIT PASTE
+[2019.03.04-20.49.21:572][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder10)
+[2019.03.04-20.49.23:347][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder11)
+[2019.03.04-20.50.07:215][636]Cmd: EDIT COPY
+[2019.03.04-20.50.07:374][646]Cmd: EDIT PASTE
+[2019.03.04-20.50.11:584][112]Cmd: EDIT COPY
+[2019.03.04-20.50.11:737][129]Cmd: EDIT PASTE
+[2019.03.04-20.50.14:815][479]Cmd: EDIT COPY
+[2019.03.04-20.50.15:063][507]Cmd: EDIT PASTE
+[2019.03.04-20.50.18:849][939]Cmd: EDIT COPY
+[2019.03.04-20.50.19:012][954]Cmd: EDIT PASTE
+[2019.03.04-20.50.23:231][388]Cmd: EDIT COPY
+[2019.03.04-20.50.23:404][400]Cmd: EDIT PASTE
+[2019.03.04-20.50.30:258][131]Cmd: EDIT COPY
+[2019.03.04-20.50.30:446][141]Cmd: EDIT PASTE
+[2019.03.04-20.50.34:889][596]Cmd: EDIT COPY
+[2019.03.04-20.50.35:072][614]Cmd: EDIT PASTE
+[2019.03.04-20.50.40:125][104]Cmd: EDIT COPY
+[2019.03.04-20.50.40:312][115]Cmd: EDIT PASTE
+[2019.03.04-20.50.47:847][869]Cmd: EDIT COPY
+[2019.03.04-20.50.48:000][882]Cmd: EDIT PASTE
+[2019.03.04-20.50.53:803][518]Cmd: EDIT COPY
+[2019.03.04-20.50.53:975][534]Cmd: EDIT PASTE
+[2019.03.04-20.50.58:268][951]Cmd: EDIT COPY
+[2019.03.04-20.50.58:567][984]Cmd: EDIT PASTE
+[2019.03.04-20.51.05:033][719]Cmd: EDIT COPY
+[2019.03.04-20.51.05:233][732]Cmd: EDIT PASTE
+[2019.03.04-20.51.08:133][ 36]Cmd: EDIT COPY
+[2019.03.04-20.51.08:291][ 53]Cmd: EDIT PASTE
+[2019.03.04-20.51.13:411][553]Cmd: EDIT COPY
+[2019.03.04-20.51.13:556][569]Cmd: EDIT PASTE
+[2019.03.04-20.51.19:967][247]Cmd: EDIT COPY
+[2019.03.04-20.51.20:131][259]Cmd: EDIT PASTE
+[2019.03.04-20.51.56:297][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.51.59:771][568]LogActorFactory: Actor Factory created Plane
+[2019.03.04-20.52.00:504][643]LogActorFactory: Actor Factory created Plane
+[2019.03.04-20.52.04:503][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.52.08:196][453]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.52.17:973][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.52.29:962][847]Cmd: EDIT COPY
+[2019.03.04-20.52.30:132][859]Cmd: EDIT PASTE
+[2019.03.04-20.52.32:462][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.52.35:955][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.52.42:841][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.52.58:346][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.53.02:019][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.53.04:754][795]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.53.05:625][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder26)
+[2019.03.04-20.53.06:566][997]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.03.04-20.53.07:139][ 58]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.04-20.53.11:592][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2019.03.04-20.53.32:722][875]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.04-20.53.33:201][928]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.04-20.53.33:575][968]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.04-20.53.33:999][ 16]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.03.04-20.53.38:795][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane7)
+[2019.03.04-20.53.59:796][973]Cmd: EDIT COPY
+[2019.03.04-20.53.59:955][982]Cmd: EDIT PASTE
+[2019.03.04-20.54.04:862][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.54.11:004][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.54.39:900][592]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.04-20.54.40:024][592]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.54.40:024][592]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-20.54.40:026][592]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] [1275.82] Compile of PersistentLevel.Missos successful, but with 2 Warning(s) [in 17 ms] (/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos)
+[2019.03.04-20.54.40:254][592]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Missos_Auto156F07CFB468C70A8FE4C5C996EFBC3E8.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Autosaves/Game/Infinitywar/Maps/Missos_Auto1.umap'
+[2019.03.04-20.54.40:258][592]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Infinitywar/Maps/Missos' took 0.319
+[2019.03.04-20.54.40:258][592]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.319
+[2019.03.04-20.55.43:771][ 96]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Cave)
+[2019.03.04-20.55.48:949][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2019.03.04-20.55.50:735][844]Cmd: EDIT COPY
+[2019.03.04-20.55.51:212][899]Cmd: EDIT PASTE
+[2019.03.04-20.56.03:640][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.56.08:494][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.56.19:894][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.56.23:851][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.56.25:227][687]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.03.04-20.56.25:703][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder7)
+[2019.03.04-20.56.32:651][506]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Plane7)
+[2019.03.04-20.56.33:721][627]Cmd: EDIT COPY
+[2019.03.04-20.56.34:289][693]Cmd: EDIT PASTE
+[2019.03.04-20.56.52:140][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.56.58:307][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.57.01:828][765]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.57.06:999][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.57.12:183][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.57.12:266][926]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-20.57.12:294][926]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.57.12:295][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.04-20.57.12:295][926]PIE: New page: PIE session: Missos (Mar 4, 2019, 8:57:12 AM)
+[2019.03.04-20.57.12:297][926]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_Missos
+[2019.03.04-20.57.12:307][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010252s)
+[2019.03.04-20.57.12:308][926]LogAIModule: Creating AISystem for world Missos
+[2019.03.04-20.57.12:308][926]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2019.03.04-20.57.12:308][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/Missos.Missos to /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos (0.011188s)
+[2019.03.04-20.57.12:367][926]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-20.57.12:377][926]LogInit: FAudioDevice initialized.
+[2019.03.04-20.57.12:412][926]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-20.57.12:416][926]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos up for play (max tick rate 0) at 2019.03.04-14.57.12
+[2019.03.04-20.57.12:416][926]LogWorld: Bringing up level for play took: 0.003673
+[2019.03.04-20.57.12:428][926]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-20.57.12:428][926]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-20.57.12:428][926]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-20.57.12:428][926]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-20.57.12:429][926]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-20.57.12:429][926]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_Missos 0.357
+[2019.03.04-20.57.12:429][926]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.57.12:603][940]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-20.57.14:222][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.57.14:222][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.57.14:258][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-20.57.14:258][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.57.14:293][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.57.14:329][135]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.03.04-20.57.15:766][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane11)
+[2019.03.04-20.57.19:625][704]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Cave)
+[2019.03.04-20.57.25:819][354]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2019.03.04-20.57.29:319][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane11)
+[2019.03.04-20.57.33:042][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.57.36:444][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.57.52:853][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.57.56:922][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.58.06:478][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.58.13:151][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.58.13:260][620]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-20.58.13:287][620]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.58.13:288][620]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.04-20.58.13:288][620]PIE: New page: PIE session: Missos (Mar 4, 2019, 8:58:13 AM)
+[2019.03.04-20.58.13:288][620]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_Missos
+[2019.03.04-20.58.13:296][620]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007727s)
+[2019.03.04-20.58.13:296][620]LogAIModule: Creating AISystem for world Missos
+[2019.03.04-20.58.13:296][620]LogPlayLevel: PIE: World Init took: (0.000492s)
+[2019.03.04-20.58.13:296][620]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/Missos.Missos to /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos (0.008351s)
+[2019.03.04-20.58.13:356][620]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-20.58.13:367][620]LogInit: FAudioDevice initialized.
+[2019.03.04-20.58.13:398][620]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-20.58.13:402][620]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos up for play (max tick rate 0) at 2019.03.04-14.58.13
+[2019.03.04-20.58.13:402][620]LogWorld: Bringing up level for play took: 0.003465
+[2019.03.04-20.58.13:415][620]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-20.58.13:416][620]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-20.58.13:416][620]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-20.58.13:416][620]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-20.58.13:416][620]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-20.58.13:416][620]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_Missos -0.656
+[2019.03.04-20.58.13:417][620]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.58.13:593][636]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-20.58.15:319][843]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.58.15:320][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.58.15:356][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-20.58.15:356][843]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.58.15:389][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.58.15:425][845]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.03.04-20.58.19:958][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane11)
+[2019.03.04-20.58.21:862][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.58.29:011][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.58.29:370][428]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-20.58.29:396][428]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.58.29:396][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.04-20.58.29:396][428]PIE: New page: PIE session: Missos (Mar 4, 2019, 8:58:29 AM)
+[2019.03.04-20.58.29:397][428]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_Missos
+[2019.03.04-20.58.29:405][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007684s)
+[2019.03.04-20.58.29:405][428]LogAIModule: Creating AISystem for world Missos
+[2019.03.04-20.58.29:405][428]LogPlayLevel: PIE: World Init took: (0.000517s)
+[2019.03.04-20.58.29:405][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/Missos.Missos to /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos (0.008339s)
+[2019.03.04-20.58.29:464][428]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-20.58.29:474][428]LogInit: FAudioDevice initialized.
+[2019.03.04-20.58.29:506][428]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-20.58.29:510][428]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos up for play (max tick rate 0) at 2019.03.04-14.58.29
+[2019.03.04-20.58.29:511][428]LogWorld: Bringing up level for play took: 0.004061
+[2019.03.04-20.58.29:523][428]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-20.58.29:523][428]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-20.58.29:523][428]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-20.58.29:523][428]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-20.58.29:524][428]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-20.58.29:524][428]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_Missos -0.547
+[2019.03.04-20.58.29:525][428]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.58.29:702][445]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-20.58.30:728][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.58.30:729][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.58.30:769][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-20.58.30:770][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.58.30:811][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.58.30:832][569]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.03.04-20.58.32:104][710]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.04-20.58.34:396][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane11)
+[2019.03.04-20.58.46:223][249]LogEditorViewport: Clicking on Actor (double click): PaperTileMapActor (Cave)
+[2019.03.04-20.58.48:081][447]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Plane11)
+[2019.03.04-20.58.48:847][527]Cmd: DELETE
+[2019.03.04-20.58.48:847][527]Cmd: ACTOR DELETE
+[2019.03.04-20.58.48:852][527]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.04-20.58.48:882][527]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2019.03.04-20.58.54:041][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane7)
+[2019.03.04-20.58.55:503][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.58.56:631][410]Cmd: EDIT COPY
+[2019.03.04-20.58.56:938][445]Cmd: EDIT PASTE
+[2019.03.04-20.59.19:632][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.59.25:055][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.59.35:698][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.59.39:361][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.59.44:189][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-20.59.44:282][585]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-20.59.44:309][585]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.59.44:309][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.04-20.59.44:309][585]PIE: New page: PIE session: Missos (Mar 4, 2019, 8:59:44 AM)
+[2019.03.04-20.59.44:309][585]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_Missos
+[2019.03.04-20.59.44:317][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007705s)
+[2019.03.04-20.59.44:318][585]LogAIModule: Creating AISystem for world Missos
+[2019.03.04-20.59.44:318][585]LogPlayLevel: PIE: World Init took: (0.000503s)
+[2019.03.04-20.59.44:318][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/Missos.Missos to /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos (0.008346s)
+[2019.03.04-20.59.44:377][585]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-20.59.44:386][585]LogInit: FAudioDevice initialized.
+[2019.03.04-20.59.44:420][585]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-20.59.44:426][585]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos up for play (max tick rate 0) at 2019.03.04-14.59.44
+[2019.03.04-20.59.44:426][585]LogWorld: Bringing up level for play took: 0.005367
+[2019.03.04-20.59.44:438][585]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-20.59.44:438][585]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-20.59.44:438][585]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-20.59.44:438][585]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-20.59.44:439][585]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-20.59.44:439][585]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_Missos 0.367
+[2019.03.04-20.59.44:439][585]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.59.44:620][601]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-20.59.46:211][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.59.46:211][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.59.46:250][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-20.59.46:250][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-20.59.46:284][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-20.59.46:321][791]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.03.04-21.00.01:094][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane11)
+[2019.03.04-21.00.03:052][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane11)
+[2019.03.04-21.00.03:766][807]Cmd: DELETE
+[2019.03.04-21.00.03:766][807]Cmd: ACTOR DELETE
+[2019.03.04-21.00.03:771][807]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.04-21.00.03:800][807]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.03.04-21.00.05:633][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.00.05:708][ 23]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-21.00.05:734][ 23]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.00.05:734][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.04-21.00.05:734][ 23]PIE: New page: PIE session: Missos (Mar 4, 2019, 9:00:05 AM)
+[2019.03.04-21.00.05:735][ 23]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_Missos
+[2019.03.04-21.00.05:744][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008886s)
+[2019.03.04-21.00.05:744][ 23]LogAIModule: Creating AISystem for world Missos
+[2019.03.04-21.00.05:744][ 23]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2019.03.04-21.00.05:744][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/Missos.Missos to /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos (0.009588s)
+[2019.03.04-21.00.05:801][ 23]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-21.00.05:810][ 23]LogInit: FAudioDevice initialized.
+[2019.03.04-21.00.05:841][ 23]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-21.00.05:845][ 23]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos up for play (max tick rate 0) at 2019.03.04-15.00.05
+[2019.03.04-21.00.05:845][ 23]LogWorld: Bringing up level for play took: 0.003222
+[2019.03.04-21.00.05:857][ 23]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-21.00.05:857][ 23]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.00.05:857][ 23]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.00.05:857][ 23]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.00.05:858][ 23]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.00.05:858][ 23]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_Missos -0.214
+[2019.03.04-21.00.05:858][ 23]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.00.06:039][ 40]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-21.00.07:408][202]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.00.07:408][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.00.07:447][202]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-21.00.07:447][202]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.00.07:482][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.00.07:515][204]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.03.04-21.00.10:387][537]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.00.10:471][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Missos" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.04-21.00.10:547][546]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-21.00.10:547][546]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-21.00.10:549][546]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] [1606.34] Compile of PersistentLevel.Missos successful, but with 2 Warning(s) [in 17 ms] (/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos)
+[2019.03.04-21.00.10:749][546]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/MissosA4D7C2014FE59A1B491D70BA2690AD1A.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos.umap'
+[2019.03.04-21.00.10:813][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Missos_BuiltData" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos_BuiltData.uasset" SILENT=true
+[2019.03.04-21.00.10:892][546]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Missos_BuiltData33CC664948951701A9EF69809FEFFD05.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos_BuiltData.uasset'
+[2019.03.04-21.00.14:200][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane7)
+[2019.03.04-21.00.21:954][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.00.36:899][405]Cmd: EDIT COPY
+[2019.03.04-21.00.37:135][430]Cmd: EDIT PASTE
+[2019.03.04-21.00.48:840][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.00.55:629][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.01.08:935][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.01.09:011][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Missos" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.04-21.01.09:083][994]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-21.01.09:083][994]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-21.01.09:084][994]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] [1664.88] Compile of PersistentLevel.Missos successful, but with 2 Warning(s) [in 16 ms] (/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos)
+[2019.03.04-21.01.09:290][994]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Missos9FE35A98458AB695185D2D9DBF0853BD.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos.umap'
+[2019.03.04-21.01.09:369][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Missos_BuiltData" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos_BuiltData.uasset" SILENT=true
+[2019.03.04-21.01.09:433][994]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Missos_BuiltDataD47CC1E74D77C8E288212EB513CE71FB.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos_BuiltData.uasset'
+[2019.03.04-21.01.10:220][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-21.01.10:246][ 86]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.01.10:246][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.04-21.01.10:246][ 86]PIE: New page: PIE session: Missos (Mar 4, 2019, 9:01:10 AM)
+[2019.03.04-21.01.10:246][ 86]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_Missos
+[2019.03.04-21.01.10:254][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008084s)
+[2019.03.04-21.01.10:255][ 86]LogAIModule: Creating AISystem for world Missos
+[2019.03.04-21.01.10:255][ 86]LogPlayLevel: PIE: World Init took: (0.000484s)
+[2019.03.04-21.01.10:255][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/Missos.Missos to /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos (0.008694s)
+[2019.03.04-21.01.10:318][ 86]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-21.01.10:328][ 86]LogInit: FAudioDevice initialized.
+[2019.03.04-21.01.10:365][ 86]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-21.01.10:368][ 86]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos up for play (max tick rate 0) at 2019.03.04-15.01.10
+[2019.03.04-21.01.10:369][ 86]LogWorld: Bringing up level for play took: 0.003539
+[2019.03.04-21.01.10:381][ 86]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-21.01.10:381][ 86]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.01.10:381][ 86]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.01.10:381][ 86]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.01.10:382][ 86]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.01.10:382][ 86]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_Missos 0.31
+[2019.03.04-21.01.10:382][ 86]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.01.10:552][103]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-21.01.14:325][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.01.14:326][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.01.14:366][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-21.01.14:366][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.01.14:407][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.01.14:428][553]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.03.04-21.01.15:070][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane11)
+[2019.03.04-21.01.19:811][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.01.20:115][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Missos" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.04-21.01.20:186][218]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-21.01.20:186][218]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-21.01.20:188][218]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] [1675.98] Compile of PersistentLevel.Missos successful, but with 2 Warning(s) [in 17 ms] (/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos)
+[2019.03.04-21.01.20:390][218]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/MissosBA1466F6449E35873D9CCB98C9F5BAB4.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos.umap'
+[2019.03.04-21.01.20:477][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Missos_BuiltData" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos_BuiltData.uasset" SILENT=true
+[2019.03.04-21.01.20:530][218]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Missos_BuiltDataB416BC57402EC0F7BA113E887F096EC3.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos_BuiltData.uasset'
+[2019.03.04-21.01.27:298][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.04-21.01.59:344][511]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-21.01.59:370][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.01.59:370][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.04-21.01.59:371][511]PIE: New page: PIE session: Missos (Mar 4, 2019, 9:01:59 AM)
+[2019.03.04-21.01.59:371][511]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_Missos
+[2019.03.04-21.01.59:379][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007850s)
+[2019.03.04-21.01.59:379][511]LogAIModule: Creating AISystem for world Missos
+[2019.03.04-21.01.59:379][511]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2019.03.04-21.01.59:379][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/Missos.Missos to /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos (0.008491s)
+[2019.03.04-21.01.59:442][511]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-21.01.59:451][511]LogInit: FAudioDevice initialized.
+[2019.03.04-21.01.59:481][511]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-21.01.59:485][511]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos up for play (max tick rate 0) at 2019.03.04-15.01.59
+[2019.03.04-21.01.59:485][511]LogWorld: Bringing up level for play took: 0.003541
+[2019.03.04-21.01.59:497][511]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-21.01.59:497][511]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.01.59:497][511]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.01.59:497][511]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.01.59:498][511]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.01.59:498][511]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_Missos -0.574
+[2019.03.04-21.01.59:498][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.01.59:677][529]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-21.02.20:294][995]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.02.20:294][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.02.20:328][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-21.02.20:328][995]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.02.20:360][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.02.20:394][997]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.03.04-21.02.22:392][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.02.22:458][239]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-21.02.22:484][239]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.02.22:484][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.04-21.02.22:484][239]PIE: New page: PIE session: Missos (Mar 4, 2019, 9:02:22 AM)
+[2019.03.04-21.02.22:485][239]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_Missos
+[2019.03.04-21.02.22:493][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007863s)
+[2019.03.04-21.02.22:493][239]LogAIModule: Creating AISystem for world Missos
+[2019.03.04-21.02.22:493][239]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2019.03.04-21.02.22:493][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/Missos.Missos to /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos (0.008607s)
+[2019.03.04-21.02.22:553][239]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-21.02.22:563][239]LogInit: FAudioDevice initialized.
+[2019.03.04-21.02.22:595][239]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-21.02.22:598][239]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos up for play (max tick rate 0) at 2019.03.04-15.02.22
+[2019.03.04-21.02.22:599][239]LogWorld: Bringing up level for play took: 0.003203
+[2019.03.04-21.02.22:611][239]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-21.02.22:611][239]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.02.22:611][239]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.02.22:611][239]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.02.22:612][239]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.02.22:612][239]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_Missos 0.54
+[2019.03.04-21.02.22:612][239]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.02.22:791][252]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-21.02.23:626][349]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.02.23:627][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.02.23:666][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-21.02.23:666][349]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.02.23:704][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.02.23:725][350]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.03.04-21.02.24:874][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane11)
+[2019.03.04-21.02.31:966][276]Cmd: TRANSACTION UNDO
+[2019.03.04-21.02.31:966][276]LogEditorTransaction: Undo Rotate Actors
+[2019.03.04-21.02.34:443][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane10)
+[2019.03.04-21.02.34:794][579]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.03.04-21.02.36:622][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.02.44:112][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.02.45:926][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane9)
+[2019.03.04-21.02.51:291][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.02.52:691][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane7)
+[2019.03.04-21.02.57:396][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.03.02:194][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane8)
+[2019.03.04-21.03.05:838][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.03.10:932][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.03.11:007][674]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-21.03.11:033][674]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.03.11:033][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.04-21.03.11:033][674]PIE: New page: PIE session: Missos (Mar 4, 2019, 9:03:11 AM)
+[2019.03.04-21.03.11:033][674]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_Missos
+[2019.03.04-21.03.11:041][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007694s)
+[2019.03.04-21.03.11:041][674]LogAIModule: Creating AISystem for world Missos
+[2019.03.04-21.03.11:042][674]LogPlayLevel: PIE: World Init took: (0.000642s)
+[2019.03.04-21.03.11:042][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/Missos.Missos to /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos (0.008488s)
+[2019.03.04-21.03.11:101][674]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-21.03.11:111][674]LogInit: FAudioDevice initialized.
+[2019.03.04-21.03.11:148][674]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-21.03.11:151][674]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos up for play (max tick rate 0) at 2019.03.04-15.03.11
+[2019.03.04-21.03.11:152][674]LogWorld: Bringing up level for play took: 0.003499
+[2019.03.04-21.03.11:164][674]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-21.03.11:164][674]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.03.11:164][674]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.03.11:164][674]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.03.11:165][674]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.03.11:165][674]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_Missos 1.093
+[2019.03.04-21.03.11:165][674]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.03.11:339][690]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-21.03.12:461][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.03.12:462][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.03.12:499][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-21.03.12:499][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.03.12:545][824]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.03.12:565][825]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.03.04-21.03.39:103][914]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.03.39:153][920]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-21.03.39:179][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.03.39:179][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.04-21.03.39:179][920]PIE: New page: PIE session: Missos (Mar 4, 2019, 9:03:39 AM)
+[2019.03.04-21.03.39:180][920]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_Missos
+[2019.03.04-21.03.39:188][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008075s)
+[2019.03.04-21.03.39:188][920]LogAIModule: Creating AISystem for world Missos
+[2019.03.04-21.03.39:188][920]LogPlayLevel: PIE: World Init took: (0.000482s)
+[2019.03.04-21.03.39:188][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/Missos.Missos to /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos (0.008688s)
+[2019.03.04-21.03.39:247][920]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-21.03.39:258][920]LogInit: FAudioDevice initialized.
+[2019.03.04-21.03.39:289][920]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-21.03.39:292][920]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos up for play (max tick rate 0) at 2019.03.04-15.03.39
+[2019.03.04-21.03.39:293][920]LogWorld: Bringing up level for play took: 0.003544
+[2019.03.04-21.03.39:305][920]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-21.03.39:305][920]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.03.39:305][920]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.03.39:305][920]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.03.39:306][920]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.03.39:306][920]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_Missos -0.766
+[2019.03.04-21.03.39:306][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.03.39:487][936]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-21.03.43:139][372]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.03.04-21.03.43:139][372]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.03.04-21.03.43:139][372]LogNet: Browse: /Game/Infinitywar/Maps/House1
+[2019.03.04-21.03.43:140][372]LogLoad: LoadMap: /Game/Infinitywar/Maps/House1
+[2019.03.04-21.03.43:177][372]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_House1
+[2019.03.04-21.03.43:183][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005834s)
+[2019.03.04-21.03.43:183][372]LogAIModule: Creating AISystem for world House1
+[2019.03.04-21.03.43:183][372]LogPlayLevel: PIE: World Init took: (0.000489s)
+[2019.03.04-21.03.43:183][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/House1.House1 to /Game/Infinitywar/Maps/UEDPIE_0_House1.House1 (0.006539s)
+[2019.03.04-21.03.43:183][372]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-21.03.43:185][372]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_House1.House1 up for play (max tick rate 0) at 2019.03.04-15.03.43
+[2019.03.04-21.03.43:186][372]LogWorld: Bringing up level for play took: 0.001566
+[2019.03.04-21.03.43:186][372]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.04-21.03.43:186][372]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-21.03.43:186][372]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.03.43:186][372]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.03.43:186][372]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.03.43:187][372]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.03.43:187][372]LogLoad: Took 0.047380 seconds to LoadMap(/Game/Infinitywar/Maps/UEDPIE_0_House1)
+[2019.03.04-21.03.46:811][802]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2019.03.04-21.03.46:811][802]LogGameState: Match State Changed from InProgress to LeavingMap
+[2019.03.04-21.03.46:811][802]LogNet: Browse: /Game/Infinitywar/Maps/GameLevel
+[2019.03.04-21.03.46:811][802]LogLoad: LoadMap: /Game/Infinitywar/Maps/GameLevel
+[2019.03.04-21.03.46:899][802]LogAIModule: Creating AISystem for world GameLevel
+[2019.03.04-21.03.46:899][802]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-21.03.46:907][802]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_GameLevel.GameLevel up for play (max tick rate 0) at 2019.03.04-15.03.46
+[2019.03.04-21.03.46:908][802]LogWorld: Bringing up level for play took: 0.008665
+[2019.03.04-21.03.46:908][802]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.03.04-21.03.46:909][802]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-21.03.46:909][802]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.03.46:909][802]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.03.46:909][802]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.03.46:909][802]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.03.46:909][802]LogLoad: Took 0.097865 seconds to LoadMap(/Game/Infinitywar/Maps/GameLevel)
+[2019.03.04-21.03.47:149][830]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-21.03.53:732][613]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.03.53:733][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.03.53:773][613]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-21.03.53:774][613]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.03.53:811][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.03.53:845][615]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.03.04-21.03.54:386][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.03.54:469][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Missos" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.04-21.03.54:540][689]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-21.03.54:540][689]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-21.03.54:542][689]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] [1830.34] Compile of PersistentLevel.Missos successful, but with 2 Warning(s) [in 16 ms] (/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos)
+[2019.03.04-21.03.54:753][689]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Missos7302980443A46D80B140F9A2F8F4BBBA.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos.umap'
+[2019.03.04-21.03.54:831][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Missos_BuiltData" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos_BuiltData.uasset" SILENT=true
+[2019.03.04-21.03.54:900][689]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Missos_BuiltDataBE0F2FCE4FCE12BAD9FBBE9440823575.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos_BuiltData.uasset'
+[2019.03.04-21.06.07:253][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2019.03.04-21.06.08:115][464]Cmd: DELETE
+[2019.03.04-21.06.08:115][464]Cmd: ACTOR DELETE
+[2019.03.04-21.06.08:120][464]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.03.04-21.06.08:151][464]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2019.03.04-21.06.41:863][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder6)
+[2019.03.04-21.06.44:472][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2019.03.04-21.06.46:478][961]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Cave)
+[2019.03.04-21.06.47:142][ 33]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Cave)
+[2019.03.04-21.06.47:755][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder4)
+[2019.03.04-21.06.50:216][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder3)
+[2019.03.04-21.06.54:315][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder2)
+[2019.03.04-21.06.59:084][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder5)
+[2019.03.04-21.07.01:956][655]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Cave)
+[2019.03.04-21.07.02:437][698]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Cave)
+[2019.03.04-21.07.02:987][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2019.03.04-21.07.05:452][ 46]Cmd: EDIT COPY
+[2019.03.04-21.07.05:613][ 65]Cmd: EDIT PASTE
+[2019.03.04-21.07.18:777][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.07.18:848][613]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-21.07.18:874][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.07.18:874][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.04-21.07.18:875][613]PIE: New page: PIE session: Missos (Mar 4, 2019, 9:07:18 AM)
+[2019.03.04-21.07.18:875][613]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_Missos
+[2019.03.04-21.07.18:883][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008338s)
+[2019.03.04-21.07.18:884][613]LogAIModule: Creating AISystem for world Missos
+[2019.03.04-21.07.18:884][613]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2019.03.04-21.07.18:884][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/Missos.Missos to /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos (0.009087s)
+[2019.03.04-21.07.18:945][613]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-21.07.18:955][613]LogInit: FAudioDevice initialized.
+[2019.03.04-21.07.18:985][613]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-21.07.18:989][613]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos up for play (max tick rate 0) at 2019.03.04-15.07.18
+[2019.03.04-21.07.18:989][613]LogWorld: Bringing up level for play took: 0.003275
+[2019.03.04-21.07.19:001][613]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-21.07.19:001][613]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.07.19:001][613]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.07.19:001][613]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.07.19:002][613]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.07.19:002][613]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_Missos 0.93
+[2019.03.04-21.07.19:002][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.07.19:183][630]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-21.07.23:756][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.07.23:757][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.07.23:791][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-21.07.23:791][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.07.23:829][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.07.23:865][178]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.03.04-21.07.25:066][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.07.25:150][332]MapCheck: New page: Map Check
+[2019.03.04-21.07.25:158][332]Cmd: MAP REBUILD ALLVISIBLE
+[2019.03.04-21.07.25:158][332]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.03.04-21.07.25:230][332]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.03.04-21.07.25:236][332]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaskedUnlitSpriteMaterial, compiling. 
+[2019.03.04-21.07.25:242][332]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.04-21.07.25:242][332]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.04-21.07.25:242][332]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightStage_Skybox_Black, compiling. 
+[2019.03.04-21.07.25:249][332]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.03.04-21.07.25:256][332]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Soldier_body1, compiling. 
+[2019.03.04-21.07.25:263][332]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Soldier_head6, compiling. 
+[2019.03.04-21.07.25:276][332]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.03.04-21.07.25:992][332]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.04-21.07.25:992][332]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.04-21.07.25:992][332]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.04-21.07.25:992][332]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.04-21.07.25:992][332]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.04-21.07.25:992][332]TextureStreamingBuild: Display: Compiling optional shaders took 0.767 seconds.
+[2019.03.04-21.07.26:000][332]LogLevel: Display: Export Material TexCoord Scales took 0.007 seconds.
+[2019.03.04-21.07.26:017][332]TextureStreamingBuild: Display: Build Texture Streaming took 0.017 seconds.
+[2019.03.04-21.07.26:047][332]LightingResults: New page: Lighting Build - Mar 4, 2019, 9:07:26 AM
+[2019.03.04-21.07.26:058][332]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.03.04-21.07.26:061][332]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.03.04-21.07.26:061][332]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.03.04-21.07.26:062][332]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.03.04-21.07.26:062][332]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10268
+[2019.03.04-21.07.30:714][332]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.03.04-21.07.30:714][332]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.03.04-21.07.30:715][332]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.03.04-21.07.30:715][332]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.03.04-21.07.30:715][332]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.03.04-21.07.30:827][332]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.03.04-21.07.30:827][332]MapCheck: New page: Missos - Mar 4, 2019, 9:07:30 AM
+[2019.03.04-21.07.30:828][332]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2019.03.04-21.07.30:829][332]MapCheck: Warning: Smith_4 'Blacksmith_3_0_Sprite_0' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2019.03.04-21.07.30:829][332]MapCheck: Warning: Smith_4 'Blacksmith_3_0_Sprite_1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2019.03.04-21.07.30:831][332]MapCheck: Warning: Plane11_38 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.03.04-21.07.30:831][332]MapCheck: Map check complete: 1 Error(s), 3 Warning(s), took 4.325ms to complete.
+[2019.03.04-21.07.30:855][332]LogEditorBuildUtils: Build time 0:05
+[2019.03.04-21.07.30:860][332]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.04-21.07.33:106][489]Job is a success!
+[2019.03.04-21.07.33:128][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.04-21.07.33:154][490]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2019.03.04-21.07.33:154][490]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.03.04-21.07.33:154][490]LogVolumetricLightmapImport:      BrickData 165x5x5 = 0.2Mb
+[2019.03.04-21.07.33:154][490]LogVolumetricLightmapImport:      Bricks at Level
+[2019.03.04-21.07.33:154][490]LogVolumetricLightmapImport:          0: 3.0% covering 100.0% of volume
+[2019.03.04-21.07.33:154][490]LogVolumetricLightmapImport:          1: 12.1% covering 6.3% of volume
+[2019.03.04-21.07.33:154][490]LogVolumetricLightmapImport:          2: 84.8% covering 0.7% of volume
+[2019.03.04-21.07.33:265][490]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2019.03.04-21.07.33:265][490]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2019.03.04-21.07.33:265][490]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2019.03.04-21.07.33:265][490]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2019.03.04-21.07.33:265][490]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.03.04-21.07.33:265][490]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.03.04-21.07.33:265][490]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.03.04-21.07.33:265][490]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X64)
+[2019.03.04-21.07.33:309][490]Lightmass on CHROME-OS: 1.72 sec total, 166 ms importing, 38 ms setup, 705 ms photons, 773 ms processing, 0 ms extra exporting [37/37 mappings]. Threads: 8.00 sec total, 1.48 sec processing.
+[2019.03.04-21.07.33:315][490]LogStaticLightingSystem: Illumination: 7.25 sec (77 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2019.03.04-21.07.33:315][490]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.03.04-21.07.33:315][490]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.03.04-21.07.33:725][490]DumpUnbuiltLightIteractions
+[2019.03.04-21.07.33:725][490]Lights with unbuilt interactions: 0
+[2019.03.04-21.07.33:725][490]
+[2019.03.04-21.07.33:725][490]Primitives with unbuilt interactions: 0
+[2019.03.04-21.07.33:729][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.04-21.07.33:806][491]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.03.04-21.07.33:807][491]MapCheck: New page: Missos - Mar 4, 2019, 9:07:33 AM
+[2019.03.04-21.07.33:807][491]MapCheck: Warning: Smith_4 'Blacksmith_3_0_Sprite_0' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2019.03.04-21.07.33:807][491]MapCheck: Warning: Smith_4 'Blacksmith_3_0_Sprite_1' has simple collision but is being scaled non-uniformly - collision creation will fail 
+[2019.03.04-21.07.33:808][491]MapCheck: Warning: Plane11_38 Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2019.03.04-21.07.33:808][491]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 1.603ms to complete.
+[2019.03.04-21.08.04:352][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.08.04:353][201]LogSlate: Window 'Message Log' being destroyed
+[2019.03.04-21.08.04:359][201]LogSlate: Window 'Message Log' being destroyed
+[2019.03.04-21.08.08:465][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.08.08:473][687]LogTemp: Repeating last play command: Selected Viewport
+[2019.03.04-21.08.08:500][687]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.08.08:500][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.04-21.08.08:500][687]PIE: New page: PIE session: Missos (Mar 4, 2019, 9:08:08 AM)
+[2019.03.04-21.08.08:501][687]LogPlayLevel: Creating play world package: /Game/Infinitywar/Maps/UEDPIE_0_Missos
+[2019.03.04-21.08.08:509][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008066s)
+[2019.03.04-21.08.08:509][687]LogAIModule: Creating AISystem for world Missos
+[2019.03.04-21.08.08:509][687]LogPlayLevel: PIE: World Init took: (0.000486s)
+[2019.03.04-21.08.08:509][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Infinitywar/Maps/Missos.Missos to /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos (0.008679s)
+[2019.03.04-21.08.08:566][687]LogInit: XAudio2 using 'Speakers (4- USB Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.04-21.08.08:576][687]LogInit: FAudioDevice initialized.
+[2019.03.04-21.08.08:611][687]LogLoad: Game class is '2dgamemode_C'
+[2019.03.04-21.08.08:614][687]LogWorld: Bringing World /Game/Infinitywar/Maps/UEDPIE_0_Missos.Missos up for play (max tick rate 0) at 2019.03.04-15.08.08
+[2019.03.04-21.08.08:615][687]LogWorld: Bringing up level for play took: 0.003423
+[2019.03.04-21.08.08:627][687]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2019.03.04-21.08.08:628][687]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.08.08:628][687]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.03.04-21.08.08:628][687]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.08.08:628][687]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.03.04-21.08.08:628][687]PIE: Play in editor start time for /Game/Infinitywar/Maps/UEDPIE_0_Missos 0.556
+[2019.03.04-21.08.08:629][687]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.08.08:809][705]LogBlueprintUserMessages: [LocationTest_2] Hello
+[2019.03.04-21.08.21:942][272]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.08.21:943][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.08.21:977][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.04-21.08.21:977][272]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel' has LevelScriptBlueprint '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos' with GeneratedClass '/Game/Infinitywar/Maps/Missos.Missos_C' with ClassGeneratedBy '/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos'
+[2019.03.04-21.08.22:007][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.04-21.08.22:045][274]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.03.04-21.08.28:205][ 10]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.04-21.08.31:588][410]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.04-21.08.43:369][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.04-21.09.17:602][760]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.03.04-21.09.49:381][536]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.04-21.09.50:286][637]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.04-21.09.50:292][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Missos" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.03.04-21.09.50:381][637]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-21.09.50:381][637]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.04-21.09.50:386][637]LogBlueprint: Warning: [Compiler PersistentLevel.Missos] [2186.18] Compile of PersistentLevel.Missos successful, but with 2 Warning(s) [in 30 ms] (/Game/Infinitywar/Maps/Missos.Missos:PersistentLevel.Missos)
+[2019.03.04-21.09.50:627][637]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Missos37AD73FA4EB856D32B4BCB94D2A9B964.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos.umap'
+[2019.03.04-21.09.50:692][637]LogFileHelpers: Saving map 'Missos' took 0.401
+[2019.03.04-21.09.50:695][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Missos_BuiltData" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos_BuiltData.uasset" SILENT=true
+[2019.03.04-21.09.50:784][637]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Missos_BuiltDataE199679848F1816179741FA33E345346.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos_BuiltData.uasset'
+[2019.03.04-21.09.50:788][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Cutscenes/Rise" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Cutscenes/Rise.uasset" SILENT=true
+[2019.03.04-21.09.50:813][637]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Rise53FAF5704E89B20544A862AB41DCEB77.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Cutscenes/Rise.uasset'
+[2019.03.04-21.09.50:817][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Infinitywar/Maps/Missos_BuiltData" FILE="Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos_BuiltData.uasset" SILENT=true
+[2019.03.04-21.09.50:893][637]LogSavePackage: Moving 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Saved/Missos_BuiltDataD1B5531648565AF64856D0BCE000A584.tmp' to 'Q:/GitHub/Infinity-War/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Missos_BuiltData.uasset'
+[2019.03.04-21.09.52:116][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
