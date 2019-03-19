@@ -1,0 +1,1199 @@
+﻿Log file open, 03/18/19 10:03:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: InfinityWar
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.152473
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin SaveExtension
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.138s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.18-15.03.52:378][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.18-15.03.52:378][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.18-15.03.52:378][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.03.18-15.03.52:378][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.18-15.03.52:378][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.03.18-15.03.52:378][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.03.18-15.03.52:378][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.18-15.03.52:378][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.18-15.03.52:378][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.18-15.03.52:379][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.03.18-15.03.52:379][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.03.18-15.03.52:383][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.18-15.03.52:383][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.18-15.03.52:383][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.18-15.03.52:383][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.18-15.03.52:383][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.18-15.03.52:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.18-15.03.52:385][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.18-15.03.52:386][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.18-15.03.52:386][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.18-15.03.52:386][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.18-15.03.52:386][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.18-15.03.52:386][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.18-15.03.52:386][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.18-15.03.52:386][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.18-15.03.52:386][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.18-15.03.52:386][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.18-15.03.52:386][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.18-15.03.52:386][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.18-15.03.52:386][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.18-15.03.52:386][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.18-15.03.52:386][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.18-15.03.52:386][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.18-15.03.52:386][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.18-15.03.52:411][  0]LogHAL: Display: Platform has ~ 12 GB [12764549120 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.18-15.03.52:411][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.18-15.03.52:411][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.18-15.03.52:411][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.18-15.03.52:411][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.18-15.03.52:411][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.18-15.03.52:411][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.18-15.03.52:411][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.18-15.03.52:411][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.18-15.03.52:411][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.18-15.03.52:411][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.18-15.03.52:411][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.18-15.03.52:411][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.18-15.03.52:411][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.18-15.03.52:411][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.18-15.03.52:412][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Scalability.ini]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.18-15.03.52:413][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.18-15.03.52:413][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Config/Windows/Engine.ini]
+[2019.03.18-15.03.52:413][  0]LogInit: Computer: CHROME-OS
+[2019.03.18-15.03.52:413][  0]LogInit: User: Nubbelium
+[2019.03.18-15.03.52:413][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.03.18-15.03.52:413][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.03.18-15.03.52:414][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2019.03.18-15.03.52:414][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.18-15.03.52:414][  0]LogMemory: Process Physical Memory: 103.05 MB used, 103.06 MB peak
+[2019.03.18-15.03.52:414][  0]LogMemory: Process Virtual Memory: 96.35 MB used, 96.35 MB peak
+[2019.03.18-15.03.52:414][  0]LogMemory: Physical Memory: 4009.40 MB used,  8163.82 MB free, 12173.22 MB total
+[2019.03.18-15.03.52:414][  0]LogMemory: Virtual Memory: 4638.59 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.03.18-15.03.52:429][  0]LogInit: Using OS detected language (en-US).
+[2019.03.18-15.03.52:429][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.18-15.03.52:429][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.18-15.03.52:823][  0]LogStreaming: Display: Took  0.395s to InitEngineTextLocalization.
+[2019.03.18-15.03.52:823][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.18-15.03.52:868][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.18-15.03.52:868][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.18-15.03.53:141][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.18-15.03.53:141][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.18-15.03.53:179][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.03.18-15.03.53:179][  0]LogD3D11RHI:       128/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.03.18-15.03.53:181][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.18-15.03.53:182][  0]LogD3D11RHI:       0/0/6086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.18-15.03.53:182][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.18-15.03.53:187][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.18-15.03.53:187][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.18-15.03.53:187][  0]LogWindows: EnumDisplayDevices:
+[2019.03.18-15.03.53:187][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.03.18-15.03.53:187][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.03.18-15.03.53:188][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.03.18-15.03.53:188][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.03.18-15.03.53:188][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.03.18-15.03.53:188][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2019.03.18-15.03.53:188][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2019.03.18-15.03.53:188][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2019.03.18-15.03.53:229][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.03.18-15.03.53:229][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.18-15.03.53:236][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.03.18-15.03.53:629][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.18-15.03.53:643][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.18-15.03.53:657][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.18-15.03.53:672][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.18-15.03.53:690][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.18-15.03.53:707][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.18-15.03.53:724][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.18-15.03.53:739][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.18-15.03.53:746][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:824][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.18-15.03.53:826][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.18-15.03.53:900][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.18-15.03.53:900][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.18-15.03.53:941][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.18-15.03.53:941][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.18-15.03.53:953][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.18-15.03.53:966][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.18-15.03.53:979][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.18-15.03.53:995][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.18-15.03.54:053][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.18-15.03.54:053][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.18-15.03.54:053][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.18-15.03.54:126][  0]LogShaderCompilers: Guid format shader working directory is -41 characters bigger than the processId version (../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Intermediate/Shaders/WorkingDirectory/8944/).
+[2019.03.18-15.03.54:126][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nubbelium/AppData/Local/Temp/UnrealShaderWorkingDir/D1B63223475E1259C4C781843A9A16E2/'.
+[2019.03.18-15.03.54:129][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.18-15.03.54:129][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.18-15.03.54:129][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.18-15.03.54:738][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.18-15.03.54:791][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/Nubbelium/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.18-15.03.54:791][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nubbelium/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.18-15.03.54:791][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.18-15.03.54:791][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.18-15.03.54:791][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.18-15.03.54:791][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.18-15.03.54:808][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.18-15.03.54:808][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.18-15.03.54:808][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.18-15.03.54:819][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nubbelium/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.18-15.03.54:819][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.18-15.03.54:819][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.18-15.03.54:851][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.18-15.03.54:853][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.18-15.03.54:854][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.18-15.03.54:941][  0]LogAssetRegistry: FAssetRegistry took 0.0341 seconds to start up
+[2019.03.18-15.03.55:459][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.18-15.03.55:663][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.18-15.03.55:668][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.18-15.03.55:668][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.18-15.03.55:668][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.18-15.03.55:668][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.18-15.03.55:683][  0]LogNetVersion: InfinityWar 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4053991763)
+[2019.03.18-15.03.56:413][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.119387 seconds
+[2019.03.18-15.03.56:422][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.18-15.03.56:422][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.03.18-15.03.56:422][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.18-15.03.57:542][  0]LogTemp: Warning: SaveExtension: Initializing Plugin.
+[2019.03.18-15.03.57:545][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.18-15.03.57:558][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.18-15.03.58:301][  0]SourceControl: Source control is disabled
+[2019.03.18-15.03.58:301][  0]SourceControl: Source control is disabled
+[2019.03.18-15.03.58:302][  0]SourceControl: Source control is disabled
+[2019.03.18-15.03.58:303][  0]SourceControl: Source control is disabled
+[2019.03.18-15.03.58:490][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.18-15.03.58:552][  0]LogOcInput: OculusInput pre-init called
+[2019.03.18-15.03.58:735][  0]LogEngine: Initializing Engine...
+[2019.03.18-15.03.58:736][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.18-15.03.58:738][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.18-15.03.58:738][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.18-15.03.58:738][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.18-15.03.58:738][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.18-15.03.58:994][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.18-15.03.59:011][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.18-15.03.59:021][  0]LogInit: XAudio2 using 'Speaker/Headphone (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.18-15.03.59:102][  0]LogInit: FAudioDevice initialized.
+[2019.03.18-15.03.59:102][  0]LogNetVersion: Set ProjectVersion to 0.1.9. Version Checksum will be recalculated on next use.
+[2019.03.18-15.03.59:191][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Nubbelium/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.18-15.03.59:213][  0]LogInit: Texture streaming: Enabled
+[2019.03.18-15.03.59:239][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.18-15.03.59:252][  0]LogInit: Transaction tracking system initialized
+[2019.03.18-15.03.59:278][  0]BlueprintLog: New page: Editor Load
+[2019.03.18-15.03.59:359][  0]LocalizationService: Localization service is disabled
+[2019.03.18-15.03.59:934][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/' took 0.03s
+[2019.03.18-15.03.59:934][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.18-15.03.59:934][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.18-15.03.59:934][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.18-15.03.59:935][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.18-15.03.59:935][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.18-15.03.59:935][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.18-15.03.59:935][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.18-15.04.00:102][  0]SourceControl: Source control is disabled
+[2019.03.18-15.04.00:103][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/TestWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.18-15.04.00:103][  0]LightingResults: New page: Lighting Build
+[2019.03.18-15.04.00:106][  0]MapCheck: New page: Map Check
+[2019.03.18-15.04.00:106][  0]LightingResults: New page: Lighting Build
+[2019.03.18-15.04.00:190][  0]LogLinker: Warning: Can't find file '/Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette'
+[2019.03.18-15.04.00:190][  0]LogLinker: Warning: Can't find file for asset '/Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette' while loading ../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/HUD/Dying.uasset.
+[2019.03.18-15.04.00:190][  0]LoadErrors: Error: /Game/Infinitywar/Blueprints/HUD/Dying : Can't find file for asset. /Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette
+[2019.03.18-15.04.00:190][  0]LogLinker: Warning: Can't find file '/Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette'
+[2019.03.18-15.04.00:190][  0]LogLinker: Warning: Can't find file for asset '/Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette' while loading ../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/HUD/Dying.uasset.
+[2019.03.18-15.04.00:191][  0]LoadErrors: Error: /Game/Infinitywar/Blueprints/HUD/Dying : Can't find file for asset. /Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette
+[2019.03.18-15.04.00:191][  0]LogLinker: Warning: Can't find file '/Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette'
+[2019.03.18-15.04.00:191][  0]LogLinker: Warning: Can't find file for asset '/Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette' while loading ../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/3dGameplay/Dave.uasset.
+[2019.03.18-15.04.00:191][  0]LoadErrors: Error: /Game/Infinitywar/Blueprints/3dGameplay/Dave : Can't find file for asset. /Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette
+[2019.03.18-15.04.00:192][  0]LogLinker: Warning: Can't find file '/Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette'
+[2019.03.18-15.04.00:192][  0]LogLinker: Warning: Can't find file for asset '/Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette' while loading ../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/3dGameplay/Dave.uasset.
+[2019.03.18-15.04.00:192][  0]LoadErrors: Error: /Game/Infinitywar/Blueprints/3dGameplay/Dave : Can't find file for asset. /Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette
+[2019.03.18-15.04.00:193][  0]LogLinker: Warning: Can't find file '/Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette'
+[2019.03.18-15.04.00:193][  0]LoadErrors: Failed to load /Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette.RedVignette Referenced by RedVigenette
+[2019.03.18-15.04.00:193][  0]LogLinker: Warning: Can't find file for asset '/Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette' while loading ../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/3dGameplay/Dave.uasset.
+[2019.03.18-15.04.00:194][  0]LoadErrors: Failed to load /Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette.RedVignette Referenced by RedVigenette
+[2019.03.18-15.04.00:194][  0]LoadErrors: Error: /Game/Infinitywar/Blueprints/3dGameplay/Dave : Can't find file for asset. /Game/Infinitywar/Blueprints/Character/Map_Assets/RedVignette
+[2019.03.18-15.04.00:213][  0]LogLinker: Warning: Can't find file '/Game/Infinitywar/Blueprints/Character/Map_Assets/Saving'
+[2019.03.18-15.04.00:213][  0]LogLinker: Warning: Can't find file for asset '/Game/Infinitywar/Blueprints/Character/Map_Assets/Saving' while loading ../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/HUD/PauseMenu.uasset.
+[2019.03.18-15.04.00:213][  0]LoadErrors: Error: /Game/Infinitywar/Blueprints/HUD/PauseMenu : Can't find file for asset. /Game/Infinitywar/Blueprints/Character/Map_Assets/Saving
+[2019.03.18-15.04.00:218][  0]LogLinker: Warning: Can't find file '/Game/Infinitywar/Blueprints/Character/Map_Assets/Saving'
+[2019.03.18-15.04.00:218][  0]LogLinker: Warning: Can't find file for asset '/Game/Infinitywar/Blueprints/Character/Map_Assets/Saving' while loading ../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/HUD/PauseMenu.uasset.
+[2019.03.18-15.04.00:218][  0]LoadErrors: Error: /Game/Infinitywar/Blueprints/HUD/PauseMenu : Can't find file for asset. /Game/Infinitywar/Blueprints/Character/Map_Assets/Saving
+[2019.03.18-15.04.00:220][  0]LogLinker: Warning: Can't find file '/Game/Infinitywar/Blueprints/Character/Map_Assets/Saving'
+[2019.03.18-15.04.00:220][  0]LogLinker: Warning: Can't find file for asset '/Game/Infinitywar/Blueprints/Character/Map_Assets/Saving' while loading ../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/HUD/HUD.uasset.
+[2019.03.18-15.04.00:220][  0]LoadErrors: Error: /Game/Infinitywar/Blueprints/HUD/HUD : Can't find file for asset. /Game/Infinitywar/Blueprints/Character/Map_Assets/Saving
+[2019.03.18-15.04.00:220][  0]LogLinker: Warning: Can't find file '/Game/Infinitywar/Blueprints/Character/Map_Assets/Saving'
+[2019.03.18-15.04.00:220][  0]LogLinker: Warning: Can't find file for asset '/Game/Infinitywar/Blueprints/Character/Map_Assets/Saving' while loading ../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/HUD/HUD.uasset.
+[2019.03.18-15.04.00:220][  0]LoadErrors: Error: /Game/Infinitywar/Blueprints/HUD/HUD : Can't find file for asset. /Game/Infinitywar/Blueprints/Character/Map_Assets/Saving
+[2019.03.18-15.04.00:220][  0]LogLinker: Warning: Can't find file '/Game/Infinitywar/Blueprints/Character/Map_Assets/Saving'
+[2019.03.18-15.04.00:221][  0]LogLinker: Warning: Can't find file for asset '/Game/Infinitywar/Blueprints/Character/Map_Assets/Saving' while loading ../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/HUD/HUD.uasset.
+[2019.03.18-15.04.00:221][  0]LoadErrors: Error: /Game/Infinitywar/Blueprints/HUD/HUD : Can't find file for asset. /Game/Infinitywar/Blueprints/Character/Map_Assets/Saving
+[2019.03.18-15.04.00:221][  0]LogLinker: Warning: Can't find file '/Game/Infinitywar/Blueprints/Character/Map_Assets/Saving'
+[2019.03.18-15.04.00:221][  0]LoadErrors: Failed to load /Game/Infinitywar/Blueprints/Character/Map_Assets/Saving.Saving_C Referenced by PauseMenu
+[2019.03.18-15.04.00:221][  0]LogLinker: Warning: Can't find file for asset '/Game/Infinitywar/Blueprints/Character/Map_Assets/Saving' while loading ../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/HUD/HUD.uasset.
+[2019.03.18-15.04.00:222][  0]LoadErrors: Failed to load /Game/Infinitywar/Blueprints/Character/Map_Assets/Saving.Saving_C Referenced by PauseMenu
+[2019.03.18-15.04.00:222][  0]LoadErrors: Error: /Game/Infinitywar/Blueprints/HUD/HUD : Can't find file for asset. /Game/Infinitywar/Blueprints/Character/Map_Assets/Saving
+[2019.03.18-15.04.00:424][  0]LogBlueprint: Warning: [Compiler RomanisaLight] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.18-15.04.00:424][  0]LogBlueprint: Warning: [Compiler RomanisaLight] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.18-15.04.00:426][  0]LogBlueprint: Warning: [Compiler RomanisaLight] [0009.91] Compile of RomanisaLight successful, but with 2 Warning(s) [in 4 ms] (/Game/Infinitywar/Blueprints/3dGameplay/Interactables/RomanisaLight.RomanisaLight)
+[2019.03.18-15.04.00:445][  0]LogBlueprint: Warning: [Compiler RomanIsaTrigger] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.18-15.04.00:445][  0]LogBlueprint: Warning: [Compiler RomanIsaTrigger] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.18-15.04.00:447][  0]LogBlueprint: Warning: [Compiler RomanIsaTrigger] [0009.93] Compile of RomanIsaTrigger successful, but with 2 Warning(s) [in 4 ms] (/Game/Infinitywar/Blueprints/3dGameplay/Interactables/RomanIsaTrigger.RomanIsaTrigger)
+[2019.03.18-15.04.00:466][  0]LogBlueprint: Warning: [Compiler Smith] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.18-15.04.00:467][  0]LogBlueprint: Warning: [Compiler Smith] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.18-15.04.00:467][  0]LogBlueprint: Warning: [Compiler Smith] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.18-15.04.00:467][  0]LogBlueprint: Warning: [Compiler Smith] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.18-15.04.00:470][  0]LogBlueprint: Warning: [Compiler Smith] [0009.96] Compile of Smith successful, but with 4 Warning(s) [in 6 ms] (/Game/Infinitywar/Blueprints/Map_Assets/Buildings/Smith.Smith)
+[2019.03.18-15.04.00:485][  0]LogBlueprint: Warning: [Compiler LocationTest] 'Dave' does not inherit from 'Primitive Component' ( Cast To Dave  would always fail).
+[2019.03.18-15.04.00:487][  0]LogBlueprint: Warning: [Compiler LocationTest] [0009.97] Compile of LocationTest successful, but with 1 Warning(s) [in 3 ms] (/Game/Infinitywar/Blueprints/Map_Assets/LocationTest.LocationTest)
+[2019.03.18-15.04.00:946][  0]LogAIModule: Creating AISystem for world TestWorld
+[2019.03.18-15.04.00:967][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.18-15.04.00:991][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.18-15.04.00:992][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.164ms to complete.
+[2019.03.18-15.04.00:992][  0]LogFileHelpers: Loading map 'TestWorld' took 0.889
+[2019.03.18-15.04.01:105][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-15.04.01:113][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-15.04.01:120][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-15.04.01:128][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.18-15.04.01:135][  0]LogCollectionManager: Loaded 0 collections in 0.002046 seconds
+[2019.03.18-15.04.01:153][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Collections/' took 0.01s
+[2019.03.18-15.04.01:153][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Developers/Nubbelium/Collections/' took 0.00s
+[2019.03.18-15.04.01:153][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Collections/' took 0.00s
+[2019.03.18-15.04.01:153][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.03.18-15.04.01:165][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2666 classes and 627 folders.
+[2019.03.18-15.04.01:173][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.18-15.04.01:174][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:176][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:177][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:177][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:178][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:178][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:178][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:179][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:180][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:180][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:181][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:182][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:182][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:183][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:185][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:185][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:186][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:186][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:187][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:187][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.18-15.04.01:222][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.03.18-15.04.01:227][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.03.18-15.04.01:240][  0]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.18-15.04.01:243][  0]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.18-15.04.01:252][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.18-15.04.01:339][  0]LogRenderer: Reallocating scene render targets to support 824x436 Format 10 NumSamples 1 (Frame:1).
+[2019.03.18-15.04.01:506][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.18-15.04.01:506][  0]LogLoad: (Engine Initialization) Total time: 10.99 seconds
+[2019.03.18-15.04.01:506][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.18-15.04.01:607][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.03.18-15.04.01:610][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.18-15.04.01:653][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.18-15.04.02:510][  5]LogAssetRegistry: Asset discovery search completed in 7.5913 seconds
+[2019.03.18-15.04.02:512][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.03.18-15.04.02:512][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.03.18-15.04.02:600][  7]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.18-15.04.06:692][172]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/' took 5.15s
+[2019.03.18-15.04.06:725][174]LogSlate: Window 'Message Log' being destroyed
+[2019.03.18-15.04.06:730][174]LogSlate: Window 'Message Log' being destroyed
+[2019.03.18-15.04.13:509][411]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.18-15.04.14:714][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.18-15.04.16:102][483]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.03.18-15.04.16:295][486]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.InfinityWar
+[2019.03.18-15.04.16:295][486]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.03.18-15.04.16:296][486]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.03.18-15.04.16:296][486]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.03.18-15.04.16:296][486]LogTemp: BranchPath = CHROME-OS/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = CHROME-OS/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.03.18-15.04.16:349][487]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Nubbelium\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.03.18-15.04.29:723][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.04.42:408][378]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.18-15.04.42:411][378]LogSlate: Window 'Project Settings' being destroyed
+[2019.03.18-15.05.04:059][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.05.05:138][132]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.18-15.05.05:138][132]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.18-15.05.05:140][132]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos] [0074.63] Compile of PersistentLevel.Ruined_Missos successful, but with 2 Warning(s) [in 8 ms] (/Game/Infinitywar/Maps/Ruined_Missos.Ruined_Missos:PersistentLevel.Ruined_Missos)
+[2019.03.18-15.05.05:359][132]LogAIModule: Creating AISystem for world Ruined_Missos
+[2019.03.18-15.05.05:544][132]LogAssetEditorManager: Opening Asset editor for World /Game/Infinitywar/Maps/Ruined_Missos.Ruined_Missos
+[2019.03.18-15.05.05:573][132]Cmd: MAP LOAD FILE="../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Ruined_Missos.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.18-15.05.05:573][132]LightingResults: New page: Lighting Build
+[2019.03.18-15.05.05:574][132]LoadErrors: New page: Loading map: Ruined_Missos.umap
+[2019.03.18-15.05.05:575][132]MapCheck: New page: Map Check
+[2019.03.18-15.05.05:575][132]LightingResults: New page: Lighting Build
+[2019.03.18-15.05.05:886][132]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.18-15.05.05:957][132]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.18-15.05.05:958][132]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.233ms to complete.
+[2019.03.18-15.05.05:958][132]LogFileHelpers: Loading map 'Ruined_Missos' took 0.385
+[2019.03.18-15.05.20:773][451]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (TREEEEEEE_256)
+[2019.03.18-15.05.23:623][491]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Cave)
+[2019.03.18-15.05.25:120][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.05.37:743][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.05.50:218][821]LogEditorFactories: Performing atomic reimport of [C:/Users/Nubbelium/Pictures/Sprites/Tree 2.0.png]
+[2019.03.18-15.05.50:221][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Nubbelium/Pictures/Sprites/Tree 2.0.png)
+[2019.03.18-15.05.50:256][821]LogTexture: Display: Building textures: Tree_2_0 (AutoDXT, 64X64)
+[2019.03.18-15.05.50:279][821]LogEditorFactories: -- imported successfully
+[2019.03.18-15.05.50:297][821]LogEditorFactories: Performing atomic reimport of [C:/Users/Nubbelium/Pictures/Sprites/Tree.png]
+[2019.03.18-15.05.50:301][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Nubbelium/Pictures/Sprites/Tree.png)
+[2019.03.18-15.05.50:313][821]LogTexture: Display: Building textures: Tree (AutoDXT, 64X64)
+[2019.03.18-15.05.50:334][821]LogEditorFactories: -- imported successfully
+[2019.03.18-15.05.50:350][821]LogEditorFactories: Performing atomic reimport of [C:/Users/Nubbelium/Pictures/Sprites/tree-line-pixilart.png]
+[2019.03.18-15.05.50:352][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Nubbelium/Pictures/Sprites/tree-line-pixilart.png)
+[2019.03.18-15.05.50:363][821]LogTexture: Display: Building textures: tree-line-pixilart (AutoDXT, 256X128)
+[2019.03.18-15.05.50:390][821]LogEditorFactories: -- imported successfully
+[2019.03.18-15.05.50:405][821]LogEditorFactories: Performing atomic reimport of [C:/Users/Nubbelium/Pictures/Sprites/Base Path.png]
+[2019.03.18-15.05.50:409][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Nubbelium/Pictures/Sprites/Base Path.png)
+[2019.03.18-15.05.50:420][821]LogTexture: Display: Building textures: Base_Path (BGRA8, 18X18)
+[2019.03.18-15.05.50:436][821]LogEditorFactories: -- imported successfully
+[2019.03.18-15.05.50:451][821]LogEditorFactories: Performing atomic reimport of [C:/Users/Nubbelium/Pictures/Sprites/Blacksmith Burned.png]
+[2019.03.18-15.05.50:456][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Nubbelium/Pictures/Sprites/Blacksmith Burned.png)
+[2019.03.18-15.05.50:468][821]LogTexture: Display: Building textures: Blacksmith_Burned (AutoDXT, 64X128)
+[2019.03.18-15.05.50:496][821]LogEditorFactories: -- imported successfully
+[2019.03.18-15.05.50:512][821]LogEditorFactories: Performing atomic reimport of [C:/Users/Nubbelium/Pictures/Sprites/Blacksmith_3.0.png]
+[2019.03.18-15.05.50:517][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Nubbelium/Pictures/Sprites/Blacksmith_3.0.png)
+[2019.03.18-15.05.50:528][821]LogTexture: Display: Building textures: Blacksmith_3_0 (AutoDXT, 64X128)
+[2019.03.18-15.05.50:558][821]LogEditorFactories: -- imported successfully
+[2019.03.18-15.05.50:573][821]LogEditorFactories: Performing atomic reimport of [C:/Users/Nubbelium/Pictures/Sprites/Grass.png]
+[2019.03.18-15.05.50:578][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Nubbelium/Pictures/Sprites/Grass.png)
+[2019.03.18-15.05.50:589][821]LogTexture: Display: Building textures: Grass (AutoDXT, 64X64)
+[2019.03.18-15.05.50:605][821]LogEditorFactories: -- imported successfully
+[2019.03.18-15.05.50:621][821]LogEditorFactories: Performing atomic reimport of [C:/Users/Nubbelium/Pictures/Sprites/Grass_2.0.png]
+[2019.03.18-15.05.50:622][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Nubbelium/Pictures/Sprites/Grass_2.0.png)
+[2019.03.18-15.05.50:634][821]LogTexture: Display: Building textures: Grass_2_0 (AutoDXT, 32X32)
+[2019.03.18-15.05.50:650][821]LogEditorFactories: -- imported successfully
+[2019.03.18-15.05.50:664][821]LogEditorFactories: Performing atomic reimport of [C:/Users/Nubbelium/Pictures/Sprites/HOG_2.png]
+[2019.03.18-15.05.50:669][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Nubbelium/Pictures/Sprites/HOG_2.png)
+[2019.03.18-15.05.50:680][821]LogTexture: Display: Building textures: HOG_2 (AutoDXT, 96X192)
+[2019.03.18-15.05.50:705][821]LogEditorFactories: -- imported successfully
+[2019.03.18-15.05.50:722][821]LogEditorFactories: Performing atomic reimport of [C:/Users/Nubbelium/Pictures/Sprites/house.png]
+[2019.03.18-15.05.50:724][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Nubbelium/Pictures/Sprites/house.png)
+[2019.03.18-15.05.50:735][821]LogTexture: Display: Building textures: house (AutoDXT, 128X256)
+[2019.03.18-15.05.50:785][821]LogEditorFactories: -- imported successfully
+[2019.03.18-15.05.50:799][821]LogPaper2D: Triangulation of poly failed.
+[2019.03.18-15.05.50:816][821]LogEditorFactories: Performing atomic reimport of [C:/Users/Nubbelium/Pictures/Sprites/pixil-frame-0(1).png]
+[2019.03.18-15.05.50:817][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Nubbelium/Pictures/Sprites/pixil-frame-0(1).png)
+[2019.03.18-15.05.50:829][821]LogTexture: Display: Building textures: pixil-frame-0_1_ (AutoDXT, 100X100)
+[2019.03.18-15.05.50:849][821]LogEditorFactories: -- imported successfully
+[2019.03.18-15.05.50:863][821]LogEditorFactories: Performing atomic reimport of [C:/Users/Nubbelium/Pictures/Sprites/pixil-frame-0.png]
+[2019.03.18-15.05.50:864][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Nubbelium/Pictures/Sprites/pixil-frame-0.png)
+[2019.03.18-15.05.50:876][821]LogTexture: Display: Building textures: pixil-frame-0 (AutoDXT, 64X128)
+[2019.03.18-15.05.50:897][821]LogEditorFactories: -- imported successfully
+[2019.03.18-15.05.50:911][821]LogEditorFactories: Performing atomic reimport of [C:/Users/Nubbelium/Pictures/Sprites/pixil-frame-0_6.png]
+[2019.03.18-15.05.50:913][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Nubbelium/Pictures/Sprites/pixil-frame-0_6.png)
+[2019.03.18-15.05.50:924][821]LogTexture: Display: Building textures: pixil-frame-0_6 (AutoDXT, 256X128)
+[2019.03.18-15.05.50:987][821]LogEditorFactories: -- imported successfully
+[2019.03.18-15.05.51:006][821]LogEditorFactories: Performing atomic reimport of [C:/Users/Nubbelium/Pictures/Sprites/Rock.png]
+[2019.03.18-15.05.51:007][821]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Nubbelium/Pictures/Sprites/Rock.png)
+[2019.03.18-15.05.51:019][821]LogTexture: Display: Building textures: Rock (BGRA8, 18X18)
+[2019.03.18-15.05.51:035][821]LogEditorFactories: -- imported successfully
+[2019.03.18-15.05.51:119][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Sign_Post.png)
+[2019.03.18-15.05.51:139][821]LogTexture: Display: Building textures: Sign_Post (AutoDXT, 64X64)
+[2019.03.18-15.05.51:181][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Slash symmetrical.png)
+[2019.03.18-15.05.51:199][821]LogTexture: Display: Building textures: Slash_symmetrical (BGRA8, 348X150)
+[2019.03.18-15.05.51:232][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\SNES - Star Ocean JPN - Desert.png)
+[2019.03.18-15.05.51:252][821]LogTexture: Display: Building textures: SNES_-_Star_Ocean_JPN_-_Desert (AutoDXT, 768X256)
+[2019.03.18-15.05.51:312][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Text_Box.png)
+[2019.03.18-15.05.51:333][821]LogTexture: Display: Building textures: Text_Box (AutoDXT, 192X128)
+[2019.03.18-15.05.51:377][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Trumpet.png)
+[2019.03.18-15.05.51:401][821]LogTexture: Display: Building textures: Trumpet (AutoDXT, 64X64)
+[2019.03.18-15.05.51:444][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\1Alchemist_Building.png)
+[2019.03.18-15.05.51:469][821]LogTexture: Display: Building textures: 1Alchemist_Building (AutoDXT, 64X128)
+[2019.03.18-15.05.51:517][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\2pixil-frame-0.png)
+[2019.03.18-15.05.51:542][821]LogTexture: Display: Building textures: 2pixil-frame-0 (AutoDXT, 64X128)
+[2019.03.18-15.05.51:588][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\9mm_Bullet_Many.png)
+[2019.03.18-15.05.51:611][821]LogTexture: Display: Building textures: 9mm_Bullet_Many (AutoDXT, 64X64)
+[2019.03.18-15.05.51:653][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\45_Bullet_1.png)
+[2019.03.18-15.05.51:675][821]LogTexture: Display: Building textures: 45_Bullet_1 (AutoDXT, 64X64)
+[2019.03.18-15.05.51:718][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\308_bullet_many.png)
+[2019.03.18-15.05.51:740][821]LogTexture: Display: Building textures: 308_bullet_many (AutoDXT, 64X64)
+[2019.03.18-15.05.51:788][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\2402689_0.jpg)
+[2019.03.18-15.05.51:809][821]LogTexture: Display: Building textures: 2402689_0 (BGRA8, 630X630)
+[2019.03.18-15.05.51:873][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Arrow_2.png)
+[2019.03.18-15.05.51:898][821]LogTexture: Display: Building textures: Arrow_2 (AutoDXT, 64X128)
+[2019.03.18-15.05.51:942][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Blacksmither_1.png)
+[2019.03.18-15.05.51:973][821]LogTexture: Display: Building textures: Blacksmither_1 (AutoDXT, 64X128)
+[2019.03.18-15.05.52:027][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Bow.png)
+[2019.03.18-15.05.52:055][821]LogTexture: Display: Building textures: Bow (AutoDXT, 64X64)
+[2019.03.18-15.05.52:095][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Colt_M1911.png)
+[2019.03.18-15.05.52:118][821]LogTexture: Display: Building textures: Colt_M1911 (AutoDXT, 64X64)
+[2019.03.18-15.05.52:159][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Combat_Knife.png)
+[2019.03.18-15.05.52:184][821]LogTexture: Display: Building textures: Combat_Knife (AutoDXT, 64X64)
+[2019.03.18-15.05.52:223][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\girl.png)
+[2019.03.18-15.05.52:245][821]LogTexture: Display: Building textures: girl (AutoDXT, 64X128)
+[2019.03.18-15.05.52:291][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Gladiator_Sword.png)
+[2019.03.18-15.05.52:317][821]LogTexture: Display: Building textures: Gladiator_Sword (AutoDXT, 64X64)
+[2019.03.18-15.05.52:357][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Gold_Coins.png)
+[2019.03.18-15.05.52:383][821]LogTexture: Display: Building textures: Gold_Coins (AutoDXT, 64X128)
+[2019.03.18-15.05.52:434][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\HHHHB.png)
+[2019.03.18-15.05.52:460][821]LogTexture: Display: Building textures: HHHHB (AutoDXT, 128X256)
+[2019.03.18-15.05.52:532][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\HHHHHHH.png)
+[2019.03.18-15.05.52:557][821]LogTexture: Display: Building textures: HHHHHHH (AutoDXT, 256X256)
+[2019.03.18-15.05.52:657][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\HOG2.0.png)
+[2019.03.18-15.05.52:678][821]LogTexture: Display: Building textures: HOG2_0 (AutoDXT, 96X96)
+[2019.03.18-15.05.52:722][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\house5.png)
+[2019.03.18-15.05.52:743][821]LogTexture: Display: Building textures: house5 (AutoDXT, 256X256)
+[2019.03.18-15.05.52:842][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\image0.png)
+[2019.03.18-15.05.52:866][821]LogTexture: Display: Building textures: image0 (BGRA8, 175X140)
+[2019.03.18-15.05.52:906][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\iuENHKg.jpg.png)
+[2019.03.18-15.05.52:933][821]LogTexture: Display: Building textures: iuENHKg_jpg (BGRA8, 164X175)
+[2019.03.18-15.05.52:976][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Knife.png)
+[2019.03.18-15.05.52:997][821]LogTexture: Display: Building textures: Knife (AutoDXT, 64X64)
+[2019.03.18-15.05.53:045][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Low_Potion_1.png)
+[2019.03.18-15.05.53:070][821]LogTexture: Display: Building textures: Low_Potion_1 (AutoDXT, 64X64)
+[2019.03.18-15.05.53:111][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\MITCH.png)
+[2019.03.18-15.05.53:135][821]LogTexture: Display: Building textures: MITCH (AutoDXT, 64X128)
+[2019.03.18-15.05.53:182][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\mp40_1.png)
+[2019.03.18-15.05.53:210][821]LogTexture: Display: Building textures: mp40_1 (AutoDXT, 64X64)
+[2019.03.18-15.05.53:252][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\NES - Marios Time Machine USA - Font Item Box and Artifacts.png)
+[2019.03.18-15.05.53:279][821]LogTexture: Display: Building textures: NES_-_Marios_Time_Machine_USA_-_Font_Item_Box_and_Artifacts (BGRA8, 253X665)
+[2019.03.18-15.05.53:331][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Path 2.0.png)
+[2019.03.18-15.05.53:355][821]LogTexture: Display: Building textures: Path_2_0 (AutoDXT, 32X32)
+[2019.03.18-15.05.53:397][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Path Corners 2.0.png)
+[2019.03.18-15.05.53:424][821]LogTexture: Display: Building textures: Path_Corners_2_0 (AutoDXT, 32X32)
+[2019.03.18-15.05.53:461][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Path_Edges.png)
+[2019.03.18-15.05.53:487][821]LogTexture: Display: Building textures: Path_Edges (AutoDXT, 36X36)
+[2019.03.18-15.05.53:525][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Pathway.png)
+[2019.03.18-15.05.53:549][821]LogTexture: Display: Building textures: Pathway (AutoDXT, 36X36)
+[2019.03.18-15.05.53:591][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\PC Computer - Stardew Valley - Farm Buildings.png)
+[2019.03.18-15.05.53:615][821]LogTexture: Display: Building textures: PC_Computer_-_Stardew_Valley_-_Farm_Buildings (BGRA8, 919X412)
+[2019.03.18-15.05.53:676][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\SAND.png)
+[2019.03.18-15.05.53:702][821]LogTexture: Display: Building textures: SAND (AutoDXT, 100X100)
+[2019.03.18-15.05.53:741][821]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Nubbelium\Pictures\Sprites\Sheild.png)
+[2019.03.18-15.05.53:769][821]LogTexture: Display: Building textures: Sheild (AutoDXT, 64X64)
+[2019.03.18-15.06.30:646][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.06.36:634][547]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2019.03.18-15.07.36:418][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.07.57:837][749]LogEditorViewport: Clicking on Actor (LMB): Autist_C (Autist193)
+[2019.03.18-15.08.04:929][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.08.27:992][209]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/GenericGrasTiles217A49DD4BC56098517C07A409D202A5.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/TileMaps/GenericGrasTiles.uasset'
+[2019.03.18-15.08.28:060][209]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Cave759D42EC4CE6F44D050A9C8CF513B562.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/TileMaps/Cave.uasset'
+[2019.03.18-15.08.33:786][333]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Missos3AECCB1345C63D744C43B1963EFAAA8A.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/TileMaps/Missos.uasset'
+[2019.03.18-15.08.47:069][530]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.08.47:258][534]LogAssetEditorManager: Opening Asset editor for PaperTileMap /Game/Infinitywar/Blueprints/Map_Assets/TileMaps/Missos.Missos
+[2019.03.18-15.08.47:354][534]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.18-15.08.48:889][550]LogRenderer: Reallocating scene render targets to support 832x652 Format 10 NumSamples 1 (Frame:18).
+[2019.03.18-15.09.05:023][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.09.12:511][961]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Infinitywar/Blueprints/Map_Assets/Tilesets/floor_3.floor_3
+[2019.03.18-15.09.18:473][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.09.22:302][102]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/floor_3EEBF5EDD48F9B8A73FAA5B946C045740.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Tilesets/floor_3.uasset'
+[2019.03.18-15.09.27:582][153]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Infinitywar/Blueprints/Map_Assets/Tilesets/floor_4.floor_4
+[2019.03.18-15.10.49:795][798]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.18-15.12.01:823][907]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (36.166 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.18-15.15.07:676][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.15.51:990][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.16.02:498][134]LogAssetEditorManager: Opening Asset editor for PaperTileSet /Game/Infinitywar/Blueprints/Map_Assets/Tilesets/floor.floor
+[2019.03.18-15.17.43:411][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.19.09:314][580]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.19.11:320][581]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Missos764EFD3849070E9FB8A7EA8AE1BDB0FB.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/TileMaps/Missos.uasset'
+[2019.03.18-15.19.17:262][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.18-15.19.22:026][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.18-15.19.22:156][651]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.18-15.19.22:156][651]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos] Node  Unknown  is not referencing a valid level actor
+[2019.03.18-15.19.22:158][651]LogBlueprint: Warning: [Compiler PersistentLevel.Ruined_Missos] [0931.66] Compile of PersistentLevel.Ruined_Missos successful, but with 2 Warning(s) [in 19 ms] (/Game/Infinitywar/Maps/Ruined_Missos.Ruined_Missos:PersistentLevel.Ruined_Missos)
+[2019.03.18-15.19.23:264][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Ruined_Missos088C761D49BC36836D9310A5A15DB53E.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Maps/Ruined_Missos.umap'
+[2019.03.18-15.19.23:305][651]LogFileHelpers: Saving map 'Ruined_Missos' took 1.258
+[2019.03.18-15.19.23:375][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Tree_2_0B8EBEE4943DD0E17E97643B986FBB7EA.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Tree_2_0.uasset'
+[2019.03.18-15.19.23:450][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/HOG_2F551C95F4D0DBAE07CEE8EAC44BD1C46.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/HOG_2.uasset'
+[2019.03.18-15.19.23:525][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Blacksmith_3_0D564C7554501CF54842B3EBFC9AE2D1B.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Blacksmith_3_0.uasset'
+[2019.03.18-15.19.23:609][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/floor1084E83442552CA9FFA2C7B948F41808.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Tilesets/floor.uasset'
+[2019.03.18-15.19.23:693][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Grass_2_05324A04D484DD70BC2A7249F135F8632.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Grass_2_0.uasset'
+[2019.03.18-15.19.23:785][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/houseA59EF78E45537D95CDA177A259D82676.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/house.uasset'
+[2019.03.18-15.19.23:859][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Tree503DF6CA442E35CF6B959EB948F49E60.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Tree.uasset'
+[2019.03.18-15.19.23:944][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/pixil-frame-0_60C91DCCB463143B8AA8CF0851146AD41.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/pixil-frame-0_6.uasset'
+[2019.03.18-15.19.24:026][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/tree-line-pixilart10FA853449286C7B1C96A9A9CB738595.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/tree-line-pixilart.uasset'
+[2019.03.18-15.19.24:096][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Base_Path1E2FB49A4A0945553B5A7490CB63264B.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Base_Path.uasset'
+[2019.03.18-15.19.24:173][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Blacksmith_Burned4A86E601444D9415765DB9BA88F144C8.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Blacksmith_Burned.uasset'
+[2019.03.18-15.19.24:249][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/GrassFF30A3A64A9845411353B98CC683A7C5.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Grass.uasset'
+[2019.03.18-15.19.24:330][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/pixil-frame-0_1_9F8A266F406B788B2EBBBF9E7A617749.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/pixil-frame-0_1_.uasset'
+[2019.03.18-15.19.24:408][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/pixil-frame-0F54223AB405269A9F13D6BA0C139B660.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/pixil-frame-0.uasset'
+[2019.03.18-15.19.24:484][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Rock3A11EDE149CEC016FE4EB98AA9DBF743.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Rock.uasset'
+[2019.03.18-15.19.24:508][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Sign_Post4D37DCAD4B54E25667EF928823F761EB.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Sign_Post.uasset'
+[2019.03.18-15.19.24:540][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Slash_symmetricalA646BB5C4D518E9FDF763D98CDD12CB1.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Slash_symmetrical.uasset'
+[2019.03.18-15.19.24:586][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/SNES_-_Star_Ocean_JPN_-_Desert9D5BD39D46E80985B34A88A63A025B4A.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/SNES_-_Star_Ocean_JPN_-_Desert.uasset'
+[2019.03.18-15.19.24:619][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Text_Box0F57DA80468ABCE4F0C19E80C7A8E6EC.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Text_Box.uasset'
+[2019.03.18-15.19.24:646][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Trumpet8F346AE4440611E57991B2B264B2219E.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Trumpet.uasset'
+[2019.03.18-15.19.24:672][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/1Alchemist_Building9EB90C68460B788DE6D561B0F374BCBC.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/1Alchemist_Building.uasset'
+[2019.03.18-15.19.24:699][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/2pixil-frame-09CB537D14154F6A40BBF3593F304DCB0.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/2pixil-frame-0.uasset'
+[2019.03.18-15.19.24:724][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/9mm_Bullet_ManyD7CC7D964FBA908D5A018A86BE0FEBA4.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/9mm_Bullet_Many.uasset'
+[2019.03.18-15.19.24:749][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/45_Bullet_1FF4E5C98423FBAC23EB4DF9B3C1BBF59.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/45_Bullet_1.uasset'
+[2019.03.18-15.19.24:777][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/308_bullet_manyB834A5F74E1F6C5E593471913BAB0A83.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/308_bullet_many.uasset'
+[2019.03.18-15.19.24:828][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/2402689_0030EF50844646B050E0F00A97A53650A.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/2402689_0.uasset'
+[2019.03.18-15.19.24:854][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Arrow_2F9B633FC4EF00D2D0A4AC79011A71164.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Arrow_2.uasset'
+[2019.03.18-15.19.24:879][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Blacksmither_13B2FBD5D468BEAF4FD5B04A881A75705.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Blacksmither_1.uasset'
+[2019.03.18-15.19.24:902][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/BowF84934C3400FC02F73D938AE9BB4B13A.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Bow.uasset'
+[2019.03.18-15.19.24:929][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Colt_M1911AB93FD1D416182D919BE25AA38DF4367.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Colt_M1911.uasset'
+[2019.03.18-15.19.24:955][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Combat_Knife3784250A477329BB84C1B188CDE727D2.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Combat_Knife.uasset'
+[2019.03.18-15.19.24:980][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/girlAD18D41B468E957E686CE0ACEAE2D65D.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/girl.uasset'
+[2019.03.18-15.19.25:005][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Gladiator_SwordAB9EAD8E465CA26755DBD78A1D3E1D3B.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Gladiator_Sword.uasset'
+[2019.03.18-15.19.25:030][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Gold_Coins1EF8604244CDF9F0668EB4B6D854C3DE.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Gold_Coins.uasset'
+[2019.03.18-15.19.25:064][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/HHHHB0C689C894603BFB24E5068833AD9AE5D.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/HHHHB.uasset'
+[2019.03.18-15.19.25:111][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/HHHHHHH450453E44D378E300ABC9AA99A2A2BAE.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/HHHHHHH.uasset'
+[2019.03.18-15.19.25:140][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/HOG2_0A973FA0B4ED934E2B57C90997B70F1A2.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/HOG2_0.uasset'
+[2019.03.18-15.19.25:180][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/house5CE5CE8C44D5D96C835FAECA277BA636E.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/house5.uasset'
+[2019.03.18-15.19.25:210][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/image065D9836548675B89F230BA9402447176.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/image0.uasset'
+[2019.03.18-15.19.25:240][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/iuENHKg_jpg503E56594BB3ACD5B0B8FA8550626B46.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/iuENHKg_jpg.uasset'
+[2019.03.18-15.19.25:263][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Knife1FE09F314D282E9F4F577596E88C2DB2.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Knife.uasset'
+[2019.03.18-15.19.25:290][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Low_Potion_1273B240546C8D8012701BB97EAEDBFF4.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Low_Potion_1.uasset'
+[2019.03.18-15.19.25:315][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/MITCH62CD50F842442AD7C7935297C545AD28.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/MITCH.uasset'
+[2019.03.18-15.19.25:341][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/mp40_131EA06D04598E99934866290ECC64309.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/mp40_1.uasset'
+[2019.03.18-15.19.25:381][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/NES_-_Marios_Time_Machine_USA_-_8648811A4D26E225EE56F0B61A115F9B.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/NES_-_Marios_Time_Machine_USA_-_Font_Item_Box_and_Artifacts.uasset'
+[2019.03.18-15.19.25:406][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Path_2_034711CEF4FBF627401BC2EAEFDA41657.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Path_2_0.uasset'
+[2019.03.18-15.19.25:429][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Path_Corners_2_078831EA9437A1808EFD013842571259E.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Path_Corners_2_0.uasset'
+[2019.03.18-15.19.25:453][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Path_Edges4D9119124AE64838F8B5CD82309FF979.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Path_Edges.uasset'
+[2019.03.18-15.19.25:476][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Pathway3851594F4370E2A057910182029FD0DB.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Pathway.uasset'
+[2019.03.18-15.19.25:539][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/PC_Computer_-_Stardew_Valley_-_F1FBE48CC4C0539EA69ECA3A3891C9836.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/PC_Computer_-_Stardew_Valley_-_Farm_Buildings.uasset'
+[2019.03.18-15.19.25:567][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/SAND6D18339244B20B9760E8699BD808AD50.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/SAND.uasset'
+[2019.03.18-15.19.25:590][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/Sheild9C321379448215CF8E20878BFFDAA947.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Texture/Sheild.uasset'
+[2019.03.18-15.19.25:676][651]LogSavePackage: Moving '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Saved/floor_4C1C523954CB60FE1B4B6DCA4D7664124.tmp' to '../../../../../../Users/Nubbelium/Downloads/Infinity-War-master/Infinity war 0.2.5 (test 1)/Content/Infinitywar/Blueprints/Map_Assets/Tilesets/floor_4.uasset'
+[2019.03.18-15.19.32:559][729]LogSlate: Window 'floor' being destroyed
+[2019.03.18-15.19.32:617][729]LogSlate: Window 'InfinityWar - Unreal Editor' being destroyed
+[2019.03.18-15.19.32:618][729]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.18-15.19.32:826][730]Cmd: QUIT_EDITOR
+[2019.03.18-15.19.32:867][730]LogExit: Preparing to exit.
+[2019.03.18-15.19.34:093][730]LogExit: Editor shut down
+[2019.03.18-15.19.34:093][730]LogExit: Transaction tracking system shut down
+[2019.03.18-15.19.34:253][730]LogExit: Object subsystem successfully closed.
+[2019.03.18-15.19.34:270][730]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.18-15.19.34:275][730]LogD3D11RHI: Shutdown
+[2019.03.18-15.19.34:275][730]LogD3D11RHI: CleanupD3DDevice
+[2019.03.18-15.19.34:435][730]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2019.03.18-15.19.34:435][730]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (628)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (626)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module SceneOutliner (624)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module AddContentDialog (622)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module WidgetCarousel (621)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module EditorWidgets (618)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module CollectionManager (616)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module StatsViewer (614)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module FoliageEdit (612)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module LandscapeEditor (610)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module MeshPaintMode (608)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (606)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module ActorPickerMode (604)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module GeometryMode (602)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module TextureAlignMode (600)
+[2019.03.18-15.19.34:458][730]LogModuleManager: Shutting down and abandoning module BspMode (598)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (596)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (594)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module AutomationWorker (592)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (590)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (588)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (586)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module PlacementMode (585)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module MaterialEditor (584)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (580)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (578)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (576)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (574)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module WebMMedia (572)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (570)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (568)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module SequenceRecorder (567)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (564)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (562)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (560)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (558)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (556)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (554)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (552)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module SaveExtensionEditor (550)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (548)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (546)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (544)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module CharacterAI (542)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module SmartSnapping (540)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module SessionServices (538)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module ViewportSnapping (536)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module ViewportInteraction (534)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module ClothPainter (532)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (531)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module LogVisualizer (528)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module IntroTutorials (526)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (525)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (522)
+[2019.03.18-15.19.34:459][730]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (520)
+[2019.03.18-15.19.34:460][730]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (518)
+[2019.03.18-15.19.34:460][730]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (516)
+[2019.03.18-15.19.34:460][730]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (515)
+[2019.03.18-15.19.35:147][730]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (512)
+[2019.03.18-15.19.35:148][730]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (510)
+[2019.03.18-15.19.35:148][730]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (508)
+[2019.03.18-15.19.35:148][730]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (506)
+[2019.03.18-15.19.35:148][730]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (504)
+[2019.03.18-15.19.35:148][730]LogModuleManager: Shutting down and abandoning module InputBindingEditor (502)
+[2019.03.18-15.19.35:148][730]LogModuleManager: Shutting down and abandoning module MergeActors (500)
+[2019.03.18-15.19.35:148][730]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (498)
+[2019.03.18-15.19.35:149][730]LogModuleManager: Shutting down and abandoning module LocalizationService (497)
+[2019.03.18-15.19.35:149][730]LogModuleManager: Shutting down and abandoning module HardwareTargeting (494)
+[2019.03.18-15.19.35:149][730]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (492)
+[2019.03.18-15.19.35:150][730]LogModuleManager: Shutting down and abandoning module UndoHistory (490)
+[2019.03.18-15.19.35:150][730]LogModuleManager: Shutting down and abandoning module XmlParser (488)
+[2019.03.18-15.19.35:150][730]LogModuleManager: Shutting down and abandoning module Blutility (486)
+[2019.03.18-15.19.35:150][730]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (484)
+[2019.03.18-15.19.35:150][730]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (483)
+[2019.03.18-15.19.35:151][730]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (480)
+[2019.03.18-15.19.35:152][730]LogModuleManager: Shutting down and abandoning module SettingsEditor (478)
+[2019.03.18-15.19.35:153][730]LogModuleManager: Shutting down and abandoning module ProjectLauncher (476)
+[2019.03.18-15.19.35:153][730]LogModuleManager: Shutting down and abandoning module SessionFrontend (474)
+[2019.03.18-15.19.35:153][730]LogModuleManager: Shutting down and abandoning module ProfilerClient (472)
+[2019.03.18-15.19.35:153][730]LogModuleManager: Shutting down and abandoning module DeviceManager (470)
+[2019.03.18-15.19.35:153][730]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (469)
+[2019.03.18-15.19.35:216][730]LogModuleManager: Shutting down and abandoning module AutomationController (466)
+[2019.03.18-15.19.35:216][730]LogModuleManager: Shutting down and abandoning module AutomationWindow (464)
+[2019.03.18-15.19.35:216][730]LogModuleManager: Shutting down and abandoning module Layers (462)
+[2019.03.18-15.19.35:216][730]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (460)
+[2019.03.18-15.19.35:216][730]LogModuleManager: Shutting down and abandoning module DetailCustomizations (458)
+[2019.03.18-15.19.35:216][730]LogModuleManager: Shutting down and abandoning module PackagesDialog (456)
+[2019.03.18-15.19.35:217][730]LogModuleManager: Shutting down and abandoning module Persona (454)
+[2019.03.18-15.19.35:217][730]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (453)
+[2019.03.18-15.19.35:217][730]LogModuleManager: Shutting down and abandoning module AnimGraph (451)
+[2019.03.18-15.19.35:217][730]LogModuleManager: Shutting down and abandoning module Kismet (448)
+[2019.03.18-15.19.35:217][730]LogModuleManager: Shutting down and abandoning module GraphEditor (446)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module ClassViewer (444)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module Toolbox (442)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module ModuleUI (440)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module MovieSceneTools (438)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module OutputLog (436)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module GammaUI (434)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module Documentation (432)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (430)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module MovieScene (428)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (426)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module LauncherPlatform (424)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module AnalyticsET (422)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module PortalServices (420)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module PortalRpc (418)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module MessagingRpc (416)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module AIModule (414)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module GameplayDebugger (413)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module AITestSuite (411)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module NavigationSystem (409)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module DesktopPlatform (406)
+[2019.03.18-15.19.35:218][730]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (404)
+[2019.03.18-15.19.35:222][730]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2019.03.18-15.19.35:253][730]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2019.03.18-15.19.35:260][730]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (310)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (308)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (306)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (304)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (302)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module Paper2DEditor (300)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module MeshPaint (299)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (296)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (294)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module PhysXVehicles (292)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module OculusEditor (290)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (288)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2019.03.18-15.19.35:261][730]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2019.03.18-15.19.35:362][730]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2019.03.18-15.19.35:462][730]LogModuleManager: Shutting down and abandoning module SaveExtension (280)
+[2019.03.18-15.19.35:462][730]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.03.18-15.19.35:462][730]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.03.18-15.19.35:462][730]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.03.18-15.19.35:462][730]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.03.18-15.19.35:462][730]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.03.18-15.19.35:462][730]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.03.18-15.19.35:462][730]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.03.18-15.19.35:463][730]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.03.18-15.19.35:463][730]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.03.18-15.19.35:463][730]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.03.18-15.19.35:463][730]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.03.18-15.19.35:464][730]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.03.18-15.19.35:464][730]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.03.18-15.19.35:465][730]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.03.18-15.19.35:465][730]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.03.18-15.19.35:465][730]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.03.18-15.19.35:465][730]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.03.18-15.19.35:465][730]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.03.18-15.19.35:465][730]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.03.18-15.19.35:466][730]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.03.18-15.19.35:473][730]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.03.18-15.19.35:473][730]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.03.18-15.19.35:473][730]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.03.18-15.19.35:473][730]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.03.18-15.19.35:473][730]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.03.18-15.19.35:474][730]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.03.18-15.19.35:476][730]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.03.18-15.19.35:514][730]LogDerivedDataCache: Shutdown
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.03.18-15.19.35:514][730]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.03.18-15.19.35:515][730]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.03.18-15.19.35:516][730]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.03.18-15.19.35:516][730]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.03.18-15.19.35:516][730]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.03.18-15.19.35:516][730]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.03.18-15.19.35:516][730]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.03.18-15.19.35:517][730]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.03.18-15.19.35:517][730]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.03.18-15.19.35:518][730]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.03.18-15.19.35:518][730]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.03.18-15.19.35:526][730]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.03.18-15.19.35:527][730]LogHMD: Freeing OpenVRDLLHandle.
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.03.18-15.19.35:527][730]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.03.18-15.19.35:529][730]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.03.18-15.19.35:529][730]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.03.18-15.19.35:551][730]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.03.18-15.19.35:552][730]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.03.18-15.19.35:552][730]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD632858A-4315-2A05-A063-2F8F4354A901%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=0b86d8de43ed8127f0ad358580be126f%7C487a6db36f3a4bbdbb49717d492c6bd6%7Cb7c93961-bb09-42fd-a7ac-8604b672b309&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.03.18-15.19.35:556][730]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.03.18-15.19.35:562][730]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.03.18-15.19.35:562][730]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.03.18-15.19.35:562][730]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.03.18-15.19.35:562][730]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.03.18-15.19.35:562][730]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.03.18-15.19.35:562][730]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.03.18-15.19.35:562][730]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.03.18-15.19.35:562][730]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.03.18-15.19.35:562][730]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.03.18-15.19.35:562][730]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.03.18-15.19.35:562][730]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.03.18-15.19.35:563][730]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.03.18-15.19.35:564][730]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.03.18-15.19.35:570][730]LogExit: Exiting.
+[2019.03.18-15.19.35:577][730]Log file closed, 03/18/19 10:19:35
